@@ -37,7 +37,7 @@
 341:  "Oportet revertere in LAB.$"
 344:  "POKéMON mei validissime fatigati sunt…\n"
 345:  "Debui POTIONEM affere…$"
-348:  "Si marem hinc transibis, erit via breve\n"
+348:  "Si mare hinc transibis, erit via breve\n"
 349:  "ad OPPIDUM OLDALIS.\p"
 350:  "Fufufu, utilis est, nonne?$"
 353:  "VIA 103\n"

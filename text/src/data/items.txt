@@ -262,7 +262,7 @@
 3109: .name = _("PINK SCARF"),
 3120: .name = _("GREEN SCARF"),
 3131: .name = _("YELLOW SCARF"),
-3144: .name = _("MACH BIKE"),
+3144: "BIROTA MACH"
 3158: .name = _("COIN CASE"),
 3170: .name = _("ITEMFINDER"),
 3183: "VIRGA VETUS"
@@ -276,7 +276,7 @@
 3272: "MERCES DEVON"
 3284: .name = _("SOOT SACK"),
 3296: .name = _("BASEMENT KEY"),
-3308: .name = _("ACRO BIKE"),
+3308: "BIROTA ACRO"
 3322: .name = _("{POKEBLOCK} CASE"),
 3335: "EPISTOLA"
 3347: .name = _("EON TICKET"),
@@ -356,7 +356,8 @@
 4188: .name = _("OAK'S PARCEL"),
 4200: .name = _("POKé FLUTE"),
 4212: .name = _("SECRET KEY"),
-4224: .name = _("BIKE VOUCHER"),
+      |============|
+4224: "VOTUMBIROTAE"
 4236: .name = _("GOLD TEETH"),
 4248: .name = _("OLD AMBER"),
 4260: .name = _("CARD KEY"),

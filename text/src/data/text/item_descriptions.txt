@@ -710,9 +710,9 @@ POTION
 1013: "POKéMON CONTESTS.");
 
       |===================|
-1016: "Usa ad irrigandum\n"
+1016: "Ad irrigationem\n"
 1017: "BACCARUM et\n"
-1018: "herbarum est."
+1018: "herbarum usa est."
 
       |===================|
 1021: "Fasciculus, qui\n"
@@ -725,9 +725,12 @@ POTION
 1031: "The key for NEW\n"
 1032: "MAUVILLE beneath\n"
 1033: "MAUVILLE CITY.");
-1036: "A folding bicycle\n"
-1037: "capable of jumps\n"
-1038: "and wheelies.");
+
+ACRO BIKE
+1036: "Birota plicatilis\n"
+1037: "saltandi et in rota\n"
+1038: "postica standi capax."
+
 1041: "A case for holding\n"
 1042: "{POKEBLOCK}S made with\n"
 1043: "a BERRY BLENDER.");
@@ -963,9 +966,13 @@ POTION
 1423: "The key to the\n"
 1424: "CINNABAR ISLAND\n"
 1425: "GYM's entrance.");
-1428: "A voucher for\n"
-1429: "obtaining a bicycle\n"
-1430: "from the BIKE SHOP.");
+
+      |===================|
+BIKE VOUCHER
+1428: "Chartula voti\n"
+1429: "birotae in TABERNA\n"
+1430: "BIROTARUM donandae."
+
 1433: "Gold dentures lost\n"
 1434: "by the SAFARI\n"
 1435: "ZONE's WARDEN.");
@@ -987,9 +994,12 @@ POTION
 1463: "SILPH CO's scope\n"
 1464: "makes unseeable\n"
 1465: "POKéMON visible.");
-1468: "A folding bicycle\n"
-1469: "that is faster than\n"
-1470: "the RUNNING SHOES.");
+
+MACH BIKE
+1468: "Birota plicatilis\n"
+1469: "quae celerior quam\n"
+1470: "ATHLETICI est."
+
 1473: "Can be viewed\n"
 1474: "anytime. Shows your\n"
 1475: "present location.");

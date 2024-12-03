@@ -526,8 +526,10 @@
 1030: "foe. May inflict a burn.");
 1033: "Summons a hailstorm that\n"
 1034: "strikes every turn.");
-1037: "Torments the foe and stops\n"
-1038: "successive use of a move.");
+
+1037: "Torquet inimicum et sistit\n"
+1038: "consequentes usus motus."
+
 1041: "Confuses the foe, but\n"
 1042: "raises its SP. ATK.");
 1045: "Inflicts a burn on the foe\n"
