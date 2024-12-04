@@ -522,11 +522,11 @@ POTION
 729: "but reduces SPEED.");
 
       |===================|
-732:  "Res habendam, quae\n"
+732:  "Rem habendam, quae\n"
 733:  "puncta PER. ab\n"
 734:  "certamine meretur.");
 
-737:  "Res habendam, quae\n"
+737:  "Rem habendam, quae\n"
 738:  "interdum permittit\n"
 739:  "illisum priorem."
 
@@ -555,11 +555,11 @@ POTION
 778: "SP. ATK & SP. DEF of\n"
 779: "LATIOS & LATIAS.");
 
-782: "Res habendam, quae\n"
+782: "Rem habendam, quae\n"
 783: "IMP SP. CLAMPERL\n"
 784: "auget."
 
-787: "Res habendam, quae\n"
+787: "Rem habendam, quae\n"
 788: "DEF SP. CLAMPERL\n"
 789: "auget."
 
@@ -601,7 +601,7 @@ POTION
 849: "GRASS-type moves.");
 
       |===================|
-852:  "Res habendam, quae\n"
+852:  "Rem habendam, quae\n"
 853:  "vim motus typi\n"
 854:  "NOCTE auget."
 
@@ -636,7 +636,8 @@ POTION
 903: "raises the power of\n"
 904: "DRAGON-type moves.");
 
-907: "Res habendam, quae\n"
+SILK SCARF
+907: "Rem habendam, quae\n"
 908: "vim motus typi\n"
 909: "SOLITO auget."
 
@@ -663,24 +664,37 @@ POTION
 946: "A hold item that\n"
 947: "raises FARFETCH'D's\n"
 948: "critical-hit ratio.");
-951: "A hold item that\n"
-952: "raises COOL in\n"
-953: "CONTESTS.");
-956: "A hold item that\n"
-957: "raises BEAUTY in\n"
-958: "CONTESTS.");
-961: "A hold item that\n"
-962: "raises CUTE in\n"
-963: "CONTESTS.");
-966: "A hold item that\n"
-967: "raises SMART in\n"
-968: "CONTESTS.");
-971: "A hold item that\n"
-972: "raises TOUGH in\n"
-973: "CONTESTS.");
-977: "A folding bicycle\n"
-978: "that doubles your\n"
-979: "speed or better.");
+
+RED SCARF
+951: "Rem habendam, quae\n"
+952: "ACRITATEM\n"
+953: "in AGONIBUS auget."
+
+BLUE SCARF
+956: "Rem habendam, quae\n"
+957: "PULCHRITUDINEM\n"
+958: "in AGONIBUS auget."
+
+PINK SCARF
+961: "Rem habendam, quae\n"
+962: "DULCITATEM\n"
+963: "in AGONIBUS auget."
+
+GREEN SCARF
+966: "Rem habendam, quae\n"
+967: "SOLLERTIAM\n"
+968: "in AGONIBUS auget."
+
+YELLOW SCARF
+971: "Rem habendam, quae\n"
+972: "FORTITUDINEM\n"
+973: "in AGONIBUS auget."
+
+MACH BIKE
+977: "Birota plicatilis\n"
+978: "quae velocitatem\n"
+979: "tuam duplicat."
+
 982: "A case that holds\n"
 983: "up to 9,999 COINS.");
 986: "A device that\n"
@@ -995,7 +1009,7 @@ BIKE VOUCHER
 1464: "makes unseeable\n"
 1465: "POKéMON visible.");
 
-MACH BIKE
+BIKE
 1468: "Birota plicatilis\n"
 1469: "quae celerior quam\n"
 1470: "ATHLETICI est."

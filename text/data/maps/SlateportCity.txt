@@ -185,7 +185,7 @@
 1248: "“Conscensio portitoris S.S. AESTUS\n"
 1249: "PORTUM SAXEUM et LILIAEPOLEM servientis\l"
 1250: "apud STATIONEM NAVALEM tractatur.”$"
-1253: "CIRCULUS POKéMON ADMIRANDI\n"
+1253: "CIRCULUS ADMIRATORUM POKéMON\n"
 1254: "“Vocans omnes POKéMON admiratores!”$"
 1257: "“Mare immensum et sine fine cunctam\n"
 1258: "vitam sustinet.”\p"

@@ -220,7 +220,7 @@
 2654: .name = _("DRAGON FANG"),
 
       |============|
-2667: "FSCIA SRICAT"
+2667: "FSCIA SRICTA"
 2680: .name = _("UP-GRADE"),
 2692: .name = _("SHELL BELL"),
 2705: .name = _("SEA INCENSE"),
@@ -257,11 +257,12 @@
 3054: .name = _("????????"),
 3065: .name = _("????????"),
 3076: .name = _("????????"),
-3087: .name = _("RED SCARF"),
-3098: .name = _("BLUE SCARF"),
-3109: .name = _("PINK SCARF"),
-3120: .name = _("GREEN SCARF"),
-3131: .name = _("YELLOW SCARF"),
+      |============|
+3087: "FSCIA RUBRA"
+3098: "FSCIA CAERUL"
+3109: "FSCIA ROSEA"
+3120: "FSCIA VIRDIS"
+3131: "FSCIA FLAVA"
 3144: "BIROTA MACH"
 3158: .name = _("COIN CASE"),
 3170: .name = _("ITEMFINDER"),
@@ -272,7 +273,7 @@
 3237: .name = _("CONTEST PASS"),
 3249: .name = _("????????"),
       |============|
-3260: "HAMA WAILMER"
+3260: "WAILMER HAMA"
 3272: "MERCES DEVON"
 3284: .name = _("SOOT SACK"),
 3296: .name = _("BASEMENT KEY"),
@@ -365,7 +366,7 @@
 4284: .name = _("HELIX FOSSIL"),
 4296: .name = _("DOME FOSSIL"),
 4308: .name = _("SILPH SCOPE"),
-4320: .name = _("BICYCLE"),
+4320: "BIROTA"
 4333: .name = _("TOWN MAP"),
 4346: .name = _("VS SEEKER"),
 4359: .name = _("FAME CHECKER"),
