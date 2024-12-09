@@ -281,8 +281,11 @@
 558: "gas that may poison.");
 561: "Hurls round objects at the\n"
 562: "foe 2 to 5 times.");
-565: "An attack that steals half\n"
-566: "the damage inflicted.");
+
+LEECH LIFE
+565: "Impetum qui medium damni\n"
+566: "inflixi furatur."
+
 569: "Demands a kiss with a scary\n"
 570: "face that induces sleep.");
 573: "Searches out weak spots,\n"
