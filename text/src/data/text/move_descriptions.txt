@@ -107,12 +107,17 @@
 214: "may inflict a burn.");
 217: "Creates a mist that stops\n"
 218: "reduction of abilities.");
-221:  "Spuit aquam ob vulnerandum\n"
-222:  "hostem."
+
+221: "Spuit aquam ob vulnerandum\n"
+222: "hostem."
+
 225: "Blasts water at high power\n"
 226: "to strike the foe.");
-229: "Creates a huge wave, then\n"
-230: "crashes it down on the foe.");
+
+SURF
+229: "Creat undam magnam, tum\n"
+230: "vi in hostem cadit."
+
 233: "Blasts the foe with an icy\n"
 234: "beam that may freeze it.");
 237: "Hits the foe with an icy\n"
