@@ -73,11 +73,11 @@
 906:  .name = _("????????"),
 919:  .name = _("GUARD SPEC."),
 932:  .name = _("DIRE HIT"),
-945:  "X IMPETE"
-958:  "X DEFENDE"
+945:  "X IMPETUS"
+958:  "X DEFENSIO"
 971:  "X CELERITAS"
 984:  "X ACCURATIO"
-997:  "X SPECIALIS"
+997:  "X SPECIALE"
 1010: "POKé PUPA"
 1023: "CAUDA SUAVIS"
 1036: "????????"

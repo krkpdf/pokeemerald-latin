@@ -73,4 +73,4 @@
 270:  "saltandi si appellationem venustate\l"
 271:  "impigram praebent?$"
 275:  "POKéMON AGONES\n"
-276:  "STATIO GRADUS ULTRA!$"
+276:  "SCAENA GRADUS ULTRA!$"
