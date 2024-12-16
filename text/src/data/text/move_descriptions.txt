@@ -1,6 +1,8 @@
 2: "");
+
 5: "Pinsat hostem cum\n"
-6: "cruribus aut cauda.");
+6: "cruribus aut cauda."
+
 9: "A chopping attack with a\n"
 10: "high critical-hit ratio.");
 13: "Repeatedly slaps the foe\n"
@@ -142,10 +144,13 @@ SURF
 274: "with double the power.");
 277: "Inflicts damage identical\n"
 278: "to the user's level.");
-281: "Builds enormous power,\n"
-282: "then slams the foe.");
+
+281: "Exstruit vim ingentem,\n"
+282: "tum tundit hostem."
+
 285: "Impetus qui absorbet\n"
-286: "dimidium damni effecti.");
+286: "dimidium damni effecti."
+
 289: "An attack that absorbs\n"
 290: "half the damage inflicted.");
 293: "Plants a seed on the foe to\n"

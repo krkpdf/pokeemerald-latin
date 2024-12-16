@@ -68,7 +68,7 @@
 450:  "CUNICULUS FERRINEMI\n"
 451:  "“Conligans FERRIBORUM et VIRIDINEMUS\p"
 452:  "“Propositum cuniculi est\n"
-453:  "cancellatus.”$"
+453:  "cancellatum.”$"
 456:  "HOSPITIUM FOSSORUM$"
 459:  "INDICIAE TRAHITORIBUS\p"
 460:  "Si sistere POKéMON ab evolvendum se\n"
