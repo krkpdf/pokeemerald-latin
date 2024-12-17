@@ -177,8 +177,10 @@ SURF
 334: "fire for 2 to 5 turns.");
 337: "An electrical attack that\n"
 338: "may paralyze the foe.");
-341: "A strong electrical attack\n"
-342: "that may paralyze the foe.");
+
+341: "Impetum fortem electricum\n"
+342: "qui paralysim dare potest."
+
 345: "A weak jolt of electricity\n"
 346: "that paralyzes the foe.");
 349: "A lightning attack that may\n"
