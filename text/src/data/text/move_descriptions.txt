@@ -519,8 +519,9 @@ LEECH LIFE
 990: "lower the foe's SP. DEF.");
 993: "Heightens inner power to\n"
 994: "strike 2 turns later.");
-997: "A rock-crushing attack\n"
-998: "that may lower DEFENSE.");
+
+997: "Impetus lapidem frangens\n"
+998: "qui DEFENSIONEM minuit."
 
 1001: "Irretit et laedit inimicum\n"
 1002: "in vortice 2 an 5 vices."

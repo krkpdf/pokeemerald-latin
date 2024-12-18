@@ -695,12 +695,13 @@ MACH BIKE
 978: "quae velocitatem\n"
 979: "tuam duplicat."
 
-982: "A case that holds\n"
-983: "up to 9,999 COINS.");
+COIN CASE
+982: "Theca quae usque\n"
+983: "9,999 NUMMOS tenet."
 
 986: "Machinulam, quae\n"
 987: "sono utens rem\n"
-988: "invisibilem indicat.");
+988: "invisibilem indicat."
 
       |===================|
 991:  "Utere apud aquam,\n"
