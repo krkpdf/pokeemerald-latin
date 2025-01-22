@@ -42,7 +42,7 @@
 333:  "frontem habet splendentem. Gaudeo!$"
 336:  "Rationem meam urbis convertendi\n"
 337:  "omisi, ita, omisi.\p"
-338:  "Et tum, I put my time in laqueos\n"
+338:  "Et tum, impendi tempus meum laqueos\n"
 339:  "ianuarum faciendo in GYMNE meo.\p"
 340:  "Oh? Nunc, quid tibi hic faciendum'st?\p"
 341:  "Quid est? Dicisne te praeter ianuas\n"

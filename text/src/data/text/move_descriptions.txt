@@ -734,7 +734,7 @@ LEECH LIFE
 1402: "2 to 5 times in a row.");
 
 SHOCK WAVE
-1405: "velox et inevitabilis\n"
+1405: "Velox et inevitabilis\n"
 1406: "impetus electricus."
 
 1409: "Attacks with ultrasonic\n"
