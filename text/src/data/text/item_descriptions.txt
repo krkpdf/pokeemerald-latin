@@ -517,9 +517,11 @@ POTION
 722: "A hold item that\n"
 723: "restores any\n"
 724: "lowered stat.");
-727: "A hold item that\n"
-728: "promotes growth,\n"
-729: "but reduces SPEED.");
+
+MACHO BRACE
+727:  "Res habendam, quae\n"
+728:  "auctum prodest, sed\n"
+729:  "CELERITATEM minuit.");
 
       |===================|
 732:  "Rem habendam, quae\n"

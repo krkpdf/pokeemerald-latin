@@ -732,8 +732,11 @@ LEECH LIFE
 1398: "ATTACK and SPEED.");
 1401: "Hurls boulders at the foe\n"
 1402: "2 to 5 times in a row.");
-1405: "A fast and unavoidable\n"
-1406: "electric attack.");
+
+SHOCK WAVE
+1405: "velox et inevitabilis\n"
+1406: "impetus electricus."
+
 1409: "Attacks with ultrasonic\n"
 1410: "waves. May confuse the foe.");
 1413: "Summons strong sunlight to\n"

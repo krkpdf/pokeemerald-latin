@@ -181,7 +181,7 @@
 2175: .name = _("????????"),
 2188: .name = _("BRIGHTPOWDER"),
 2201: .name = _("WHITE HERB"),
-2213: .name = _("MACHO BRACE"),
+2213: "ARMILLA DURA"
 2225: "DIVISOR PER."
 2237: "UNGUIS CELER"
 2250: .name = _("SOOTHE BELL"),
