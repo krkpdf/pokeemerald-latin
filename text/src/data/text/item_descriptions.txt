@@ -160,7 +160,7 @@ POTION
 182:  "POKéMON."
 
 185:  "Specialitas localis\n"
-186:  "quae munda omnes\n"
+186:  "quae omnes mundat\n"
 187:  "anomalias status."
 
 190:  "Tibia vitrea quae\n"

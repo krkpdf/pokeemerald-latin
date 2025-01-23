@@ -1,4 +1,4 @@
-89: .string "The CABLE CAR is ready to go down.\n"
-90: .string "Would you like to be on it?$"
-93: .string "Please step this way.$"
-96: .string "Please ride with us another time.$"
+89:   "TELEFERICUM ad delabendum paratum est.\n"
+90:   "Visne in eo esse?$"
+93:   "Quaeso, via hac gredere.$"
+96:   "Quaeso ut alio tempore nobiscum veharis.$"
