@@ -146,7 +146,7 @@
 762:  "Gratias tibi, puer. Iocundum fuit, ac si\n"
 763:  "meos liberos proprios certassem.\p"
 764:  "Quaeso, reveni iterum me visum pro\n"
-765:  alio certamine.$"
+765:  "alio certamine.$"
 768:  "Si maculam corde tuo et eis POKéMON\n"
 769:  "tuorum texere potes, enimvero, certe\l"
 770:  "res magnas conficere poteris.$"
