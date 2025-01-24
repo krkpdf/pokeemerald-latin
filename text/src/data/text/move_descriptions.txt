@@ -1,26 +1,46 @@
-2: "");
+"Focuses power to raise the\n"
+2: ""
 
+POUND
 5: "Pinsat hostem cum\n"
 6: "cruribus aut cauda."
 
+2
 9: "A chopping attack with a\n"
-10: "high critical-hit ratio.");
+10: "high critical-hit ratio."
+
+3
 13: "Repeatedly slaps the foe\n"
 14: "2 to 5 times.");
+
+4
 17: "Repeatedly punches the foe\n"
 18: "2 to 5 times.");
+
+5
 21: "A strong punch thrown with\n"
 22: "incredible power.");
+
+6
 25: "Throws coins at the foe.\n"
 26: "Money is recovered after.");
+
+7
 29: "A fiery punch that may burn\n"
 30: "the foe.");
+
+8
 33: "An icy punch that may\n"
 34: "freeze the foe.");
+
+9
 37: "An electrified punch that\n"
 38: "may paralyze the foe.");
-41: "Radit hostem cum\n"
-42: "ungulis acutis.");
+
+SCRATCH
+41: "Radit hostem\n"
+42: "ungulis acutis."
+
 45: "Grips the foe with large and\n"
 46: "powerful pincers.");
 49: "A powerful pincer attack\n"
@@ -29,12 +49,19 @@
 54: "the foe on the 2nd turn.");
 57: "A fighting dance that\n"
 58: "sharply raises ATTACK.");
-61: "Cuts the foe with sharp\n"
-62: "scythes, claws, etc.");
-65: "Strikes the foe with a gust\n"
-66: "of wind whipped up by wings.");
-69: "Strikes the foe with wings\n"
-70: "spread wide.");
+
+CUT
+61: "Hostem falcibus acutis,\n"
+62: "unguibus, etc scindit."
+
+GUST
+65: "Hostem repentino venti\n"
+66: "alis mixto  percutit."
+
+WING ATTACK
+69: "Hostem alis latew\n"
+70: "obtentis percutit."
+
 73: "Blows away the foe with\n"
 74: "wind and ends the battle.");
 77: "Flies up on the first turn,\n"
@@ -57,16 +84,22 @@
 110: "a rapid spin.");
 113: "Reduces the foe's accuracy\n"
 114: "by hurling sand in its face.");
-117: "A ramming attack that may\n"
-118: "cause flinching.");
+
+HEADBUTT
+117: "Impetus fistucans qui\n"
+118: "titubationem infligit."
+
 121: "Jabs the foe with sharp\n"
 122: "horns.");
 125: "Jabs the foe 2 to 5 times\n"
 126: "with sharp horns, etc.");
 129: "A one-hit KO attack that\n"
 130: "uses a horn like a drill.");
-133: "Procellit hostem cum\n"
-134: "toto corpore.");
+
+TACKLE
+133: "In hostem toto\n"
+134: "corpore incurrit."
+
 137: "A full-body slam that may\n"
 138: "cause paralysis.");
 141: "Wraps and squeezes the foe\n"
@@ -77,39 +110,59 @@
 150: "that confuses the user.");
 153: "A life-risking tackle that\n"
 154: "also hurts the user.");
+
+TAIL WHIP
 157: "Iocatur coda ut cadatur\n"
-158: "DEFENSIO hostis.");
+158: "DEFENSIO hostis."
+
 161: "A toxic attack with barbs,\n"
 162: "etc., that may poison.");
 165: "Stingers on the forelegs\n"
 166: "jab the foe twice.");
 169: "Sharp pins are fired to\n"
 170: "strike 2 to 5 times.");
-173: "Frightens the foe with a\n"
-174: "leer to lower DEFENSE.");
-177: "Bites with vicious fangs.\n"
-178: "May cause flinching.");
-181: "Fremit belle ut minuat\n"
-182: "IMPETUM hostis.");
-185: "Fecit hostem fugere ut finiatur\n"
-186: "certamen.");
-189: "Carmen solans sopit hostem\n"
-190: "in somnum profundum.");
-193: "Emits bizarre sound waves\n"
-194: "that may confuse the foe.");
+
+LEER
+173: "Hostem occulo obliquo\n"
+174: "territ ut DEFENSIO minuitur.");
+
+BITE
+177: "Dentibus saevis mordit\n"
+178: "titubationem infligens");
+
+GROWL
+181: "Fremit dulche ut IMPETUM\n"
+182: "hostis minuat."
+
+ROAR
+185: "Efficit ut hostem fugiat et\n"
+186: "certamen finiatur."
+
+SING
+189: "Solans carmen hostem in\n"
+190: "somnum profundum sopit."
+
+SUPERSONIC
+193: "Sonum alienum emittit qui\n"
+194: "hostem perturbare potest."
+
 197: "Launches shock waves that\n"
 198: "always inflict 20 HP damage.");
 201: "Psychically disables one of\n"
 202: "the foe's moves.");
 205: "Sprays a hide-melting acid.\n"
 206: "May lower DEFENSE.");
+
+EMBER
 209: "Impetus parvus ignifer,\n"
-210: "qui adustum effecit.");
+210: "qui adustum efficit."
+
 213: "A powerful fire attack that\n"
 214: "may inflict a burn.");
 217: "Creates a mist that stops\n"
 218: "reduction of abilities.");
 
+WATER GUN
 221: "Spuit aquam ob vulnerandum\n"
 222: "hostem."
 
@@ -126,14 +179,20 @@ SURF
 238: "storm that may freeze it.");
 241: "Fires a peculiar ray that\n"
 242: "may confuse the foe.");
-245: "Forcefully sprays bubbles\n"
-246: "that may lower SPEED.");
+
+BUBBLEBEAM
+245: "Vehementer bullas aspergit\n"
+246: "quae CELER. minuere queunt."
+
 249: "Fires a rainbow-colored\n"
 250: "beam that may lower ATTACK.");
 253: "Powerful, but leaves the\n"
 254: "user immobile the next turn.");
-257: "Impetit hostem cum\n"
-258: "pungente becco, etc.");
+
+PECK
+257: "Icit hostem rostro\n"
+258: "pungente, etc."
+
 261: "A corkscrewing attack with\n"
 262: "the beak acting as a drill.");
 265: "A reckless body slam that\n"
@@ -145,11 +204,13 @@ SURF
 277: "Inflicts damage identical\n"
 278: "to the user's level.");
 
+STRENGTH
 281: "Exstruit vim ingentem,\n"
-282: "tum tundit hostem."
+282: "tum hostem tundit."
 
-285: "Impetus qui absorbet\n"
-286: "dimidium damni effecti."
+ABSORB
+285: "Impetus qui dimidium\n"
+286: "damni effecti exsorbit."
 
 289: "An attack that absorbs\n"
 290: "half the damage inflicted.");
@@ -175,12 +236,16 @@ SURF
 330: "always inflict 40 HP damage.");
 333: "Traps the foe in a ring of\n"
 334: "fire for 2 to 5 turns.");
+
+THUNDER SHOCK
 337: "An electrical attack that\n"
 338: "may paralyze the foe.");
 
+THUNDER BOLT
 341: "Impetum fortem electricum\n"
 342: "qui paralysim dare potest."
 
+THUNDER WAVE
 345: "A weak jolt of electricity\n"
 346: "that paralyzes the foe.");
 349: "A lightning attack that may\n"
@@ -191,8 +256,11 @@ SURF
 358: "no effect on flying foes.");
 361: "A one-hit KO move that\n"
 362: "drops the foe in a fissure.");
-365: "Digs underground the first\n"
-366: "turn and strikes next turn.");
+
+DIG
+365: "Primo vice sub terram fodit\n"
+366: "et sequenti vice assilit."
+
 369: "Poisons the foe with an\n"
 370: "intensifying toxin.");
 373: "A psychic attack that may\n"
@@ -205,10 +273,13 @@ SURF
 386: "fashion to raise ATTACK.");
 389: "Relaxes the body to sharply\n"
 390: "boost SPEED.");
-393: "An extremely fast attack\n"
-394: "that always strikes first.");
+
+QUICK ATTACK
+393: "Citissimus impetus qui\n"
+394: "semper primum percuttit."
+
 397: "Raises the user's ATTACK\n"
-398: "every time it is hit.");
+398: "every time itf is hit.");
 401: "A psychic move for fleeing\n"
 402: "from battle instantly.");
 405: "Inflicts damage identical\n"
@@ -221,8 +292,11 @@ SURF
 418: "raise evasiveness.");
 421: "Recovers up to half the\n"
 422: "user's maximum HP.");
-425: "Stiffens the body's \n"
-426: "muscles to raise DEFENSE.");
+
+HARDEN
+425: "Corporis musculos durat\n"
+426: "ad DEFENSIONEM augendam."
+
 429: "Minimizes the user's size\n"
 430: "to raise evasiveness.");
 433: "Lowers the foe's accuracy\n"
@@ -231,8 +305,11 @@ SURF
 438: "confuses the foe.");
 441: "Withdraws the body into its\n"
 442: "hard shell to raise DEFENSE.");
-445: "Crispat ut concelet vulnera\n"
-446: "et surgatur DEFENSIO.");
+
+DEFENSE CURL
+445: "Se crispat ut vulnera concelet\n"
+446: "et DEFENSIO surgatur."
+
 449: "Creates a barrier that\n"
 450: "sharply raises DEFENSE.");
 453: "Creates a wall of light that\n"
@@ -241,8 +318,11 @@ SURF
 458: "eliminates all stat changes.");
 461: "Creates a wall of light that\n"
 462: "weakens physical attacks.");
-465: "Focuses power to raise the\n"
-466: "critical-hit ratio.");
+
+FOCUS ENERGY
+465: "Vim colligitur ad augendum\n"
+466: "rationem ictuum crisimorum."
+
 469: "Endures attack for 2\n"
 470: "turns to retaliate double.");
 473: "Waggles a finger to use any\n"
@@ -257,15 +337,19 @@ SURF
 490: "injure. May also paralyze.");
 493: "An exhaust-gas attack\n"
 494: "that may also poison.");
-497: "Sludge is hurled to inflict\n"
-498: "damage. May also poison.");
+
+SLUDGE
+497: "PITUITA conicitur, damnum\n"
+498: "infligens. Potest venenare."
+
 501: "Clubs the foe with a bone.\n"
 502: "May cause flinching.");
 505: "Incinerates everything it\n"
 506: "strikes. May cause a burn.");
 
-509:  "Impetit tanta velocitate,\n"
-510:  "ut cataractam scandat."
+WATERFALL
+509:  "Tanta vi ferit ut scandere\n"
+510:  "cataractam possit."
 
 513: "Traps and squeezes the\n"
 514: "foe for 2 to 5 turns.");
@@ -295,7 +379,7 @@ SURF
 562: "foe 2 to 5 times.");
 
 LEECH LIFE
-565: "Impetum qui medium damni\n"
+565: "Impetum qui dimedium damni\n"
 566: "inflixi furatur."
 
 569: "Demands a kiss with a scary\n"
@@ -311,7 +395,8 @@ LEECH LIFE
 589: "Scatters a cloud of spores\n"
 590: "that always induce sleep.");
 
-593: "Emittit flatum luminis\n"
+FLASH
+593: "Flabrum emittit luminis\n"
 594: "quod accurationem caedit."
 
 597: "Attacks with a psychic\n"
@@ -393,11 +478,13 @@ LEECH LIFE
 749: "Maximizes ATTACK while\n"
 750: "sacrificing HP.");
 
-753:  "Pituita iactatur inflictum\n"
-754:  "damnum. Potest venenare."
+SLUDGE BOMB
+753:  "Pituita iactatur damnum\n"
+754:  "inflictum. Potest venenare."
 
+MUD-SLAP
 757:  "Iacit limum in faciem hostis\n"
-758:  "minuere accurationem."
+758:  "ut accurationem minuat."
 
 761: "Fires a lump of ink to\n"
 762: "damage and cut accuracy.");
@@ -429,8 +516,11 @@ LEECH LIFE
 814: "1 turn, leaving at least 1HP.");
 817: "Charms the foe and sharply\n"
 818: "reduces its ATTACK.");
-821: "An attack lasting 5 turns\n"
-822: "with rising intensity.");
+
+ROLLOUT
+821: "Impetus 5 vicem permanens\n"
+822: "cum crescente vehementia."
+
 825: "An attack that leaves the\n"
 826: "foe with at least 1 HP.");
 829: "Confuses the foe, but also\n"
@@ -442,8 +532,9 @@ LEECH LIFE
 841: "An attack that intensifies\n"
 842: "on each successive hit.");
 
-845:  "Ferit inimicum cum alis\n"
-846:  "robustis obtentis late."
+STEEL WING
+845:  "Inimicum alis robustis\n"
+846:  "lateque obtentis ferit."
 
 849: "Fixes the foe with a mean\n"
 850: "look that prevents escape.");
@@ -520,9 +611,11 @@ LEECH LIFE
 993: "Heightens inner power to\n"
 994: "strike 2 turns later.");
 
+ROCK SMASH
 997: "Impetus lapidem frangens\n"
 998: "qui DEFENSIONEM minuit."
 
+WHIRLPOOL
 1001: "Irretit et laedit inimicum\n"
 1002: "in vortice 2 an 5 vices."
 
@@ -543,8 +636,9 @@ LEECH LIFE
 1033: "Summons a hailstorm that\n"
 1034: "strikes every turn.");
 
-1037: "Torquet inimicum et sistit\n"
-1038: "consequentes usus motus."
+TORMENT
+1037: "Torquet hostem et prohibit\n"
+1038: "usus consequentes motus."
 
 1041: "Confuses the foe, but\n"
 1042: "raises its SP. ATK.");
@@ -560,8 +654,11 @@ LEECH LIFE
 1062: "foes, but also heals them.");
 1065: "Draws attention to make\n"
 1066: "foes attack only the user.");
-1069: "The type of attack varies\n"
-1070: "depending on the location.");
+
+NATURE POWER
+1069: "Typus impeti variat\n"
+1070: "secundum loci naturam."
+
 1073: "Charges power to boost the\n"
 1074: "electric move used next.");
 1077: "Taunts the foe into only\n"
@@ -588,8 +685,11 @@ LEECH LIFE
 1118: "if injured by the foe.");
 1121: "Destroys barriers such as\n"
 1122: "REFLECT and causes damage.");
-1125: "Lulls the foe into yawning,\n"
-1126: "then sleeping next turn.");
+
+YAWN
+1125: "Hostem primum ad oscitandum\n"
+1126: "suadet, tum ad dormiendum."
+
 1129: "Knocks down the foe's held\n"
 1130: "item to prevent its use.");
 1133: "Gains power if the user's HP\n"
@@ -609,8 +709,9 @@ LEECH LIFE
 1161: "An attack with effects\n"
 1162: "that vary by location.");
 
+DIVE
 1165: "Urinatur sub aquam primo\n"
-1166: "vice et in proximo icit."
+1166: "vice et in proximo assilit."
 
 1169: "Straight-arm punches that\n"
 1170: "strike the foe 2 to 5 times.");
@@ -648,8 +749,11 @@ LEECH LIFE
 1234: "user immobile the next turn.");
 1237: "Fires a meteor-like punch.\n"
 1238: "May raise ATTACK.");
+
+ASTONISH
 1241: "Impetus qui hostem terrere\n"
-1242: "potest, ut haesitet.");
+1242: "potest ita ut haesitet."
+
 1245: "The move's type and power\n"
 1246: "change with the weather.");
 1249: "Heals all status problems\n"
@@ -662,8 +766,11 @@ LEECH LIFE
 1262: "but sharply lowers SP. ATK.");
 1265: "Negates the foe's efforts\n"
 1266: "to heighten evasiveness.");
-1269: "Stops the foe from moving\n"
-1270: "with rocks and cuts SPEED.");
+
+ROCK TOMB
+1269: "Hostem lapidibus movere\n"
+1270: "prohibit et CELER. minuit."
+
 1273: "A powdery attack that may\n"
 1274: "raise abilities.");
 1277: "Emits a horrible screech\n"
@@ -707,8 +814,9 @@ LEECH LIFE
 1353: "Powerful, but leaves the\n"
 1354: "user immobile the next turn.");
 
+BULK UP
 1357: "Crassificat se ob levandum\n"
-1358: "ambo IMPETUM et DEFENSIONEM.");
+1358: "ambo IMPETUM ac DEFENSIONEM.");
 
 1361: "Bounces up, then down the\n"
 1362: "next turn. May paralyze.");

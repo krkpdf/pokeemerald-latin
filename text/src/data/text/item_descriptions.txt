@@ -730,16 +730,18 @@ COIN CASE
       |===================|
 1016: "Ad irrigationem\n"
 1017: "BACCARUM et\n"
-1018: "herbarum usa est."
+1018: "olerum uti potes."
 
       |===================|
 1021: "Fasciculus, qui\n"
 1022: "continet machinae\n"
 1023: "partes DEVON."
 
-1026: "A sack used to\n"
-1027: "gather and hold\n"
-1028: "volcanic ash.");
+SOOT SACK
+1026: "SACCO ad habendum et\n"
+1027: "colligendum cineris\n"
+1028: "volcanii uti potes."
+
 1031: "The key for NEW\n"
 1032: "MAUVILLE beneath\n"
 1033: "MAUVILLE CITY.");
