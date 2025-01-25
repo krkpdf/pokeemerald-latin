@@ -11,7 +11,7 @@
 307:  "Cum copiam bonam collegeris, veni me\n"
 308:  "visum, fff-hha.$"
 311:  "Collegistine cineres, fff-hha?\n"
-312:  "Patere me videre, huff-hha.$"
+312:  "Patere me videre, fff-hha.$"
 315:  "Hmmm…\n"
 316:  "Non satis cineres hic habes, fff-hha.\l"
 317:  "Non possum vitrum hoc facere, fff-hha.\p"
