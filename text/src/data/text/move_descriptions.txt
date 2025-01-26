@@ -246,8 +246,10 @@ THUNDER BOLT
 342: "qui paralysim dare potest."
 
 THUNDER WAVE
-345: "A weak jolt of electricity\n"
-346: "that paralyzes the foe.");
+345: "Succutio infirma electrica\n"
+346: "quae hosti paralyzim dat.");
+
+ROCK THROW
 349: "A lightning attack that may\n"
 350: "cause paralysis.");
 353: "Throws small rocks to\n"
@@ -568,12 +570,20 @@ STEEL WING
 906: "keeping effects in play.");
 909: "Makes the foe repeat its\n"
 910: "last move over 2 to 6 turns.");
-913: "Inflicts bad damage if used\n"
-914: "on a foe switching out.");
+
+PURSUIT
+913: "Damnum infligit si apud\n"
+914: "hostem switching out utaris."
+
+RAPID SPIN
 917: "Spins the body at high\n"
 918: "speed to strike the foe.");
-921: "Allures the foe to reduce\n"
-922: "evasiveness.");
+
+SWEET SCENT
+921: "Hostem ad redigendam\n"
+922: "elusitatem allicit.");
+
+IRON TAIL
 925: "Attacks with a rock-hard\n"
 926: "tail. May lower DEFENSE.");
 929: "A claw attack that may\n"
@@ -659,12 +669,18 @@ NATURE POWER
 1069: "Typus impeti variat\n"
 1070: "secundum loci naturam."
 
+CHARGE
 1073: "Charges power to boost the\n"
 1074: "electric move used next.");
+
+TAUNT
 1077: "Taunts the foe into only\n"
 1078: "using attack moves.");
-1081: "Boosts the power of the\n"
-1082: "recipient's moves.");
+
+HELPING HAND
+1081: "Vim recipientis motuum\n"
+1082: "sursum urget."
+
 1085: "Tricks the foe into trading\n"
 1086: "held items.");
 1089: "Mimics the target and\n"
