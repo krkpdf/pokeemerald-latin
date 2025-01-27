@@ -17,7 +17,7 @@
 23: const u8 gText_ProfBirchMatchCallName[] = _("PROF. BIRCH");
 24:   "LUDUS NOVUS"
 25:   "CONTINUA"
-26:   "OPTIO"
+26:   "OPTIONES"
 27: const u8 gText_MainMenuMysteryGift[] = _("MYSTERY GIFT");
 28: const u8 gText_MainMenuMysteryGift2[] = _("MYSTERY GIFT");
 29: const u8 gText_MainMenuMysteryEvents[] = _("MYSTERY EVENTS");
@@ -206,14 +206,14 @@
 212: const u8 gText_IDNumber2[] = _("{ID}{NO}");
 213: const u8 gText_Space[] = _(" ");
 214: const u8 gText_SelectorArrow2[] = _("▶");
-215:  "Reverte ad\nfenestram priorem.");
-216:  "Quid tibi pacet facere?");
+215:  "Reverte ad\nfenestram priorem."
+216:  "Quid tibi pacet facere?"
 217:  "DA"
 218: const u8 gText_xVar1[] = _("×{STR_VAR_1}");
 219: const u8 gText_Berry2[] = _(" BERRY"); // Unused
 220:  "{STR_VAR_1} NUMMI"
 221:  "CLAUDE SACCUM"
-222:  "{STR_VAR_1} is\nselectum."
+222:  "{STR_VAR_1}\nselectum est."
 223: const u8 gText_CantWriteMail[] = _("You can't write\nMAIL here.");
 224:  "Nullus POKéMON\nest."
 225:  "Quorsum \n{STR_VAR_1}\nmovendum?"
@@ -439,29 +439,29 @@
 483: ALIGNED(4) const u8 gText_NotPkmnOtherTrainerWants[] = _("That isn't the type of POKéMON\nthat the other TRAINER wants.");
 484: ALIGNED(4) const u8 gText_ThatIsntAnEgg[] = _("That isn't an EGG.");
 485:  "INSCRIBE"
-486:  "IMPETUS"
-487:  "DEFENSIO"
+486:  "IMP."
+487:  "DEF."
 488:  "IMP SP."
 489:  "DEF SP."
-490:  "CELERITAS"
+490:  "CELER."
 491:  "SL"
 492: const u8 gText_EmptyString8[] = _(""); // Unused
 493: const u8 gText_OTSlash[] = _("OT/");
 494: const u8 gText_RentalPkmn[] = _("RENTAL POKéMON");
 495:  "TYPUS/"
 496:  "VIS"
-497:  "ACCURATIO"
-498:  "APPELLATIO"
+497:  "ACCURAT."
+498:  "APPELL."
 499: const u8 gText_Jam[] = _("JAM");
 500:  "STATUS"
 501:  "PUNCTA PER."
-502:  "GR. PROXIMUS"
+502:  "GR. PROXIMUM"
 503:  "VITTAE: {STR_VAR_1}"
 504:  ""
 505: const u8 gText_Events[] = _("EVENTS"); // Unused
 506:  "MUTA"
-507:  "INFO POKéMON"
-508:  "PERITIA POKéMON"
+507:  "POKéMON INFO"
+508:  "PERITIA"
 509:  "CERTAMINUM"
 510:  "AGONUM"
 511:  "INFO"
@@ -1525,9 +1525,9 @@
 1575: const u8 gEasyChatGroupName_Pokemon2[] = _("POKéMON2");
 1577: const u8 gText_ThreeQuestionMarks[] = _("???");
 1578: "SL MAX."
-1579: "IMPETUS"
-1580: "DEFENSIO"
-1581: "CELERITAS"
+1579: "IMP."
+1580: "DEF."
+1581: "CELER."
 1582: "IMP SP."
 1583: "DEF SP."
 1584: "{PLUS}"
@@ -1536,7 +1536,7 @@
 1587: const u8 gText_MixingRecords[] = _("Mixing records…");
 1588: const u8 gText_RecordMixingComplete[] = _("Record mixing completed.\nThank you for waiting.");
 1589: "NOMEN TIBI?"
-1590: "NOMEN ARCAE?");
+1590: "NOMEN ARCAE?"
 1591: "Agnomen {STR_VAR_1}?"
 1592: const u8 gText_TellHimTheWords[] = _("Tell him the words.");
 1593: const u8 gText_MoveOkBack[] = _("{DPAD_NONE}MOVE  {A_BUTTON}OK  {B_BUTTON}BACK");
@@ -1564,15 +1564,15 @@
 1615: const u8 gText_SelectThirdPkmn[] = _("Select the third POKéMON.");
 1616: const u8 gText_Rent[] = _("RENT");
 1617: "SUMMARIUM"
-1618: const u8 gText_Others2[] = _("OTHERS");
-1619: const u8 gText_Deselect[] = _("DESELECT");
+1618: "ALIA"
+1619: "DESELIGE"
 1620: const u8 gText_TheseThreePkmnOkay[] = _("Are these three POKéMON OK?");
 1621: "SIC"
 1622: "NON"
 1623: const u8 gText_CantSelectSamePkmn[] = _("Can't select same {PKMN}.");
 1624: "POKéMON MUTATIO"
-1625: "Selige POKéMON mutare."
-1626: "Select POKéMON to accept."
+1625: "Selige quod POKéMON mutandum."
+1626: "Selige quod POKéMON accipiendum."
 1627: "MUTA"
 1628: "SUMMARIUM"
 1629: "RESELIGE"
@@ -1698,9 +1698,9 @@
 1757: "TYPUS/" // Unused
 1758: "PP/"
 1759: "VIS/"
-1760: "ACCURATIO/"
-1761: "APPELLATIO"
-1762: const u8 gText_MoveRelearnerJam[] = _("JAM");
+1760: "ACCURAT./"
+1761: "APPEL."
+1762: "JAM"
 1763: const u8 gText_Kira[] = _("KIRA");
 1764: const u8 gText_Amy[] = _("AMY");
 1765: const u8 gText_John[] = _("JOHN");

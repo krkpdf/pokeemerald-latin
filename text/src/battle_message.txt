@@ -30,7 +30,7 @@
 84:   "{B_SCR_ACTIVE_ABILITY} a {B_SCR_ACTIVE_NAME_WITH_PREFIX}\n{B_EFF_NAME_WITH_PREFIX} dormire fecit!"
 85:   "{B_DEF_NAME_WITH_PREFIX} iam\ndormit!"
 86:   "{B_ATK_NAME_WITH_PREFIX} iam\ndormit!"
-87:   "{B_DEF_NAME_WITH_PREFIX}\nnon affectus est!"
+87:   "{B_DEF_NAME_WITH_PREFIX}\nnon affectum est!"
 88: static const u8 sText_PkmnWasPoisoned[] = _("{B_EFF_NAME_WITH_PREFIX}\nwas poisoned!");
 89: static const u8 sText_PkmnPoisonedBy[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\npoisoned {B_EFF_NAME_WITH_PREFIX}!");
 90: static const u8 sText_PkmnHurtByPoison[] = _("{B_ATK_NAME_WITH_PREFIX} is hurt\nby poison!");
@@ -244,7 +244,7 @@
 298: static const u8 sText_PkmnsXCuredItsYProblem[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncured its {B_BUFF1} problem!");
 299:  "{B_SCR_ACTIVE_ABILITY} a {B_SCR_ACTIVE_NAME_WITH_PREFIX}\nnon efficax fuit versus {B_EFF_NAME_WITH_PREFIX}!"
 300:  "acriter "
-301:  "surrectus est!"
+301:  "surrectum est!"
 302:  "acerbe "
 303:  "cecidit!");
 304:  "{B_ATK_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
@@ -254,7 +254,7 @@
 308:  "{B_DEF_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 309: "{B_ATK_NAME_WITH_PREFIX} peritiae\naltius surgi non possunt!"
 310: "{B_DEF_NAME_WITH_PREFIX} peritiae\ninferius cadere non possunt!"
-311:  "Ictus crisimus!"
+311:  "Ictus gravissimus!"
 312: static const u8 sText_OneHitKO[] = _("It's a one-hit KO!");
 313: static const u8 sText_123Poof[] = _("{PAUSE 32}1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p");
 314:  "Et…\p"
@@ -264,7 +264,7 @@
 318: "{PLAY_SE SE_FLEE}Abit secure!\p"
 319: "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fugit\nutens {B_LAST_ITEM}!\p"
 320:  "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fugit\nutens {B_ATK_ABILITY}!\p"
-321:  "{PLAY_SE SE_FLEE}{B_BUFF1} silvestris fugit!"
+321:  "{PLAY_SE SE_FLEE}{B_BUFF1} silvestre fugit!"
 322:  "Lusor vincit\n{B_LINK_OPPONENT1_NAME}!"
 323:  "Lusor tutudit {B_LINK_OPPONENT1_NAME}\net {B_LINK_OPPONENT2_NAME}!
 324:  "Lusor vincitur contra\n{B_LINK_OPPONENT1_NAME}!"
@@ -312,9 +312,9 @@
 366: static const u8 sText_PkmnWontObey[] = _("{B_ATK_NAME_WITH_PREFIX} won't\nobey!");
 367: static const u8 sText_PkmnTurnedAway[] = _("{B_ATK_NAME_WITH_PREFIX} turned away!");
 368: static const u8 sText_PkmnPretendNotNotice[] = _("{B_ATK_NAME_WITH_PREFIX} pretended\nnot to notice!");
-369: "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nabout to use {B_BUFF2}.\pVultne {B_PLAYER_NAME} \nPOKéMON mutare?"
+369: "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\n{B_BUFF2} usurum ust.\pVultne {B_PLAYER_NAME} \nPOKéMON mutare?"
 370:  "{B_ATK_NAME_WITH_PREFIX}\n{B_BUFF1} didicit!"
-371:  "Player vicit\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p"
+371:  "Lusor vicit\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p"
 372: static const u8 sText_CreptCloser[] = _("{B_PLAYER_NAME} crept closer to\n{B_OPPONENT_MON1_NAME}!");
 373: static const u8 sText_CantGetCloser[] = _("{B_PLAYER_NAME} can't get any closer!");
 374: static const u8 sText_PkmnWatchingCarefully[] = _("{B_OPPONENT_MON1_NAME} is watching\ncarefully!");
@@ -324,10 +324,10 @@
 378: static const u8 sText_ThrewPokeblockAtPkmn[] = _("{B_PLAYER_NAME} threw a {POKEBLOCK}\nat the {B_OPPONENT_MON1_NAME}!");
 379: static const u8 sText_OutOfSafariBalls[] = _("{PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of\nSAFARI BALLS! Game over!\p");
 380:  "{B_OPPONENT_MON1_NAME} aperitur!\p"
-381:  "{B_OPPONENT_MON1_NAME} silvestris aperitur!\p"
-382:  "{B_OPPONENT_MON1_NAME} silvestris aperitur!\p"
-383:  "{B_OPPONENT_MON1_NAME} silvestris aperitur!{PAUSE 127}"
-384:  "Silvestres {B_OPPONENT_MON1_NAME} et\n{B_OPPONENT_MON2_NAME} aperiuntur!\p"
+381:  "{B_OPPONENT_MON1_NAME} silvestre aperitur!\p"
+382:  "{B_OPPONENT_MON1_NAME} silvestre aperitur!\p"
+383:  "{B_OPPONENT_MON1_NAME} silvestre aperitur!{PAUSE 127}"
+384:  "Silvestria {B_OPPONENT_MON1_NAME} et\n{B_OPPONENT_MON2_NAME} aperiuntur!\p"
 385:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\ncertare volebat!\p"
 386:  "{B_LINK_OPPONENT1_NAME}\ncertare vult!"
 387:  "{B_LINK_OPPONENT1_NAME} et {B_LINK_OPPONENT2_NAME}\ncertare volunt!"
@@ -353,16 +353,16 @@
 407:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\n{B_BUFF1} revocavit!"
 408:  "{B_LINK_OPPONENT1_NAME}\n{B_BUFF1} revocavit!"
 409:  "{B_LINK_SCR_TRAINER_NAME}\n{B_BUFF1} revocavit!"
-410:  "Silvestris "
+410:  "Silvestre "
 411:  "Hostis "
 412:  ""
 413:  "Hostis"
-414:  "Socius"
+414:  "Socium"
 415:  "Hostis"
-416:  "Socius"
-417:  "Socius"
+416:  "Socium"
+417:  "Socium"
 418:  "Socius"
-419:  "{B_ATK_NAME_WITH_PREFIX}\nusus est {B_BUFF2}"
+419:  "{B_ATK_NAME_WITH_PREFIX}\n{B_BUFF2} usum est"
 420: static const u8 sText_ExclamationMark[] = _("!");
 421: static const u8 sText_ExclamationMark2[] = _("!");
 422: static const u8 sText_ExclamationMark3[] = _("!");
@@ -381,9 +381,9 @@
 448: static const u8 sText_PokeblockWasTooSweet[] = _("was too sweet!");
 449: static const u8 sText_PokeblockWasTooBitter[] = _("was too bitter!");
 450: static const u8 sText_PokeblockWasTooSour[] = _("was too sour!");
-461:  "{B_PLAYER_NAME} usus est\n {B_LAST_ITEM}!"
-462:  "VALIUS usus est\n{B_LAST_ITEM}!"
-463:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nusus est {B_LAST_ITEM}!"
+461:  "{B_PLAYER_NAME} {B_LAST_ITEM}\nusum est!"
+462:  "VALIUS {B_LAST_ITEM}\nusus est!"
+463:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\n{B_LAST_ITEM} usum est!"
 464: static const u8 sText_TrainerBlockedBall[] = _("The TRAINER blocked the BALL!");
 465: static const u8 sText_DontBeAThief[] = _("Don't be a thief!");
 466: static const u8 sText_ItDodgedBall[] = _("It dodged the thrown BALL!\nThis POKéMON can't be caught!");
