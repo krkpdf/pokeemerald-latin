@@ -1,3 +1,4 @@
+        "capiendorum POKéMO\n"
 2: "?????"
 
 MASTER BALL
@@ -6,7 +7,6 @@ MASTER BALL
 8:   "sine defectu."
 
 
-      |===================|
 ULTRA BALL
 11:   "Habet proportione\n"
 12:   "altior capiendi\n"
@@ -15,12 +15,12 @@ ULTRA BALL
 GREAT BALL
 16:   "Habet proportione\n"
 17:   "altior capiendi\n"
-18:   "quam POKé BALL.");
+18:   "quam POKé BALL."
 
 POKE BALL
 21:   "Est instrumentum\n"
-22:   "capiendi POKéMON\n"
-23:   "silvestres.");
+22:   "ad capienda\n"
+23:   "POKéMON silvestria."
 
 
 26: "A special BALL that\n"
@@ -774,9 +774,11 @@ ACRO BIKE
 1067: "NAVIM PERDITAM\n"
 1068: "inventum."
 
-1071: "Nifty goggles that\n"
-1072: "protect eyes from\n"
-1073: "desert sandstorms.");
+GO-GOGGLES
+1071: "Guggulae idoneae\n"
+1072: "quae oculos ab\n"
+1073: "arenis protegunt."
+
 1076: "A meteorite found\n"
 1077: "at METEOR FALLS.");
 1080: "A key that opens a\n"

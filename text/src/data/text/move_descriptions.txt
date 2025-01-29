@@ -12,7 +12,7 @@ KARATE CHOP
 
 DOUBLE SLAP
 13: "Hosti alapam identidem\n"
-14: "inter 2-5 vices ducit ."
+14: "inter 2-5 vices ducit."
 
 4
 17: "Repeatedly punches the foe\n"
@@ -56,7 +56,7 @@ RAZOR WIND
 
 SWORDS DANCE
 57: "Pugnae saltatio quae\n"
-58: "impetum magnopere auget."
+58: "IMPETUM magnopere auget."
 
 CUT
 61: "Hostem falcibus acutis,\n"
@@ -139,7 +139,7 @@ WRAP
 
 TAKE DOWN
 145: "Incursus temearius\n"
-146: "qui et utentem laedit ."
+146: "qui et utentem laedit."
 
 THRASH
 149: "Furia inter 2-3 vices\n"
@@ -171,8 +171,8 @@ BITE
 178: "titubationem infligens"
 
 GROWL
-181: "Fremit dulche ut IMPETUM\n"
-182: "hostis minuat."
+181: "Fremit dulche ut\n"
+182: "IMPETUM hostis minuat."
 
 ROAR
 185: "Efficit ut hostem fugiat\n"
@@ -384,7 +384,7 @@ AGILITY
 
 QUICK ATTACK
 393: "Citissimus impetus qui\n"
-394: "semper primum percuttit."
+394: "semper primum percutit."
 
 397: "Raises the user's ATTACK\n"
 398: "every time it is hit.");
@@ -1165,8 +1165,8 @@ AIR CUTTER
 1258: "High critical-hit ratio.");
 
 OVERHEAT
-1261: "Allows a full-power attack,\n"
-1262: "but sharply lowers SP. ATK.");
+1261: "Impetum maximi vis sinet, at\n"
+1262: "praecipiter IMP SP. minuit."
 
 ODOR SLEUTH
 1265: "Conamina hostis elusitatis\n"

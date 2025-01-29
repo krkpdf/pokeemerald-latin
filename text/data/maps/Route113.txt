@@ -2,7 +2,7 @@
 138:  "mirabilis est!\p"
 139:  "Accipe cineres volcanias has.\n"
 140:  "In vitrum fabrefieri potest.$"
-143:  "Ridiculum est per montis volcani\n"
+143:  "Ridiculum est per montis volcanii\n"
 144:  "cineres in solo et gramine gredi.\p"
 145:  "Videre ubi gressus est potest--valde\n"
 146:  "est idoneum!$"

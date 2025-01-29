@@ -1,4 +1,4 @@
-260:  "Heus, quomodo valet, in CHAMPIONEM\n"
+260:  "Heus, quomodo valet, in CAMPIONEM\n"
 261:  "tendens {PLAYER}?\p"
 262:  "VATESIUS GYMNIS RECTOR harum VILLARUM\n"
 263:  "POKéMON utitur typi ELECTRICI.\p"

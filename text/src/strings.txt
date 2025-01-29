@@ -248,11 +248,11 @@
 254:  "tabernam"
 255:  "PC"
 281:  "Reverte ad\n{STR_VAR_1}."
-282:  "RES"
+282:  "RERUM"
 283:  "POKé BALL"
 284:  "ML & MA"
-285:  "BACCAE"
-286:  "CARDINES"
+285:  "BACCARUM"
+286:  "CLAVIUM"
 297: const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
 298: const u8 gText_NumberItem_HM[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
 299: const u8 gText_SizeSlash[] = _("SIZE /");
@@ -372,7 +372,7 @@
 416: const u8 gText_PkmnRegainhedHealth[] = _("{STR_VAR_1} regained health.{PAUSE_UNTIL_PRESS}"); // Unused
 417: const u8 gText_PkmnBecameHealthy[] = _("{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}");
 418: const u8 gText_MovesPPIncreased[] = _("{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}");
-419: const u8 gText_PkmnElevatedToLvVar2[] = _("{STR_VAR_1} was elevated to\nLv. {STR_VAR_2}.");
+419: "{STR_VAR_1} elevatum est ad\nGr. {STR_VAR_2}.");
 420: const u8 gText_PkmnBaseVar2StatIncreased[] = _("{STR_VAR_1}'s base {STR_VAR_2}\nstat was raised.{PAUSE_UNTIL_PRESS}");
 421: const u8 gText_PkmnFriendlyBaseVar2Fell[] = _("{STR_VAR_1} turned friendly.\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}");
 422: const u8 gText_PkmnAdoresBaseVar2Fell[] = _("{STR_VAR_1} adores you!\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}");
@@ -448,11 +448,11 @@
 492: const u8 gText_EmptyString8[] = _(""); // Unused
 493: const u8 gText_OTSlash[] = _("OT/");
 494: const u8 gText_RentalPkmn[] = _("RENTAL POKéMON");
-495:  "TYPUS/"
+495:  "TYP./"
 496:  "VIS"
 497:  "ACCURAT."
-498:  "APPELL."
-499: const u8 gText_Jam[] = _("JAM");
+498:  "VENUST."
+499:  "VEXAT."
 500:  "STATUS"
 501:  "PUNCTA PER."
 502:  "GR. PROXIMUM"
@@ -580,11 +580,11 @@
 624: const u8 gText_Information[] = _("INFORMATION");
 625: const u8 gText_Mach[] = _("MACH");
 626: const u8 gText_Acro[] = _("ACRO");
-627: const u8 gText_Psn[] = _("PSN");
+627: const u8 gText_Psn[] = _("VNN");
 628: const u8 gText_Par[] = _("PAR");
-629: const u8 gText_Slp[] = _("SLP");
-630: const u8 gText_Brn[] = _("BRN");
-631: const u8 gText_Frz[] = _("FRZ");
+629: const u8 gText_Slp[] = _("DOR");
+630: const u8 gText_Brn[] = _("ADT");
+631: const u8 gText_Frz[] = _("GLD");
 632: const u8 gText_Toxic[] = _("TOXIC"); // Unused
 633: const u8 gText_Ok3[] = _("OK"); // Unused
 634: const u8 gText_Quit[] = _("QUIT"); // Unused
@@ -598,8 +598,8 @@
 642: const u8 gText_MultiBattle[] = _("MULTI BATTLE");
 643: const u8 gText_MrBriney[] = _("MR. BRINEY"); // Unused
 644: const u8 gText_Challenge[] = _("CHALLENGE");
-645: const u8 gText_Info3[] = _("INFO");
-646: const u8 gText_Lv50[] = _("LV. 50");
+645: "INFO"
+646: "GR. 50"
 647: const u8 gText_OpenLevel[] = _("OPEN LEVEL");
 648: const u8 gText_FreshWaterAndPrice[] = _("FRESH WATER{CLEAR_TO 0x48}¥200");
 649: const u8 gText_SodaPopAndPrice[] = _("SODA POP{CLEAR_TO 0x48}¥300");
@@ -720,7 +720,7 @@
 764: const u8 gText_BecomeLeader[] = _("BECOME LEADER");
 765: const u8 gText_JoinGroup[] = _("JOIN GROUP");
 766: const u8 gText_TwoStyles[] = _("TWO STYLES");
-767: const u8 gText_Lv50_3[] = _("LV. 50");
+767: "GR. 50"
 768: const u8 gText_OpenLevel2[] = _("OPEN LEVEL");
 769: const u8 gText_MonTypeAndNo[] = _("{PKMN} TYPE & NO.");
 770: const u8 gText_HoldItems[] = _("HOLD ITEMS");
@@ -766,8 +766,8 @@
 810: const u8 gText_SpaceSeconds[] = _(" seconds");
 811: const u8 gText_SpaceTimes[] = _(" time(s)");
 812: const u8 gText_Dot[] = _("."); // Unused
-813: const u8 gText_BigGuy[] = _("Big guy");
-814: const u8 gText_BigGirl[] = _("Big girl");
+813: const u8 gText_BigGuy[] = _("Puer magnus");
+814: const u8 gText_BigGirl[] = _("Puella magna");
 815: const u8 gText_Son[] = _("filius");
 816: const u8 gText_Daughter[] = _("filia");
 817: const u8 gText_BlueFlute[] = _("BLUE FLUTE");
@@ -818,7 +818,7 @@
 862:  "Exeas ex ARCA?"
 863:  "Quid vis facere?"
 864: const u8 gText_PleasePickATheme[] = _("Please pick a theme.");
-865: const u8 gText_PickTheWallpaper[] = _("Pick the wallpaper.");
+865: "Selige chartam parietalem."
 866:  "{DYNAMIC 0} seligitur."
 867: const u8 gText_JumpToWhichBox[] = _("Jump to which BOX?");
 868:  "In qua ARCA deponendum?"
@@ -855,8 +855,8 @@
 899:  "DIMITTE"
 900:  "SIGNA"
 901:  "NOMEN"
-902: const u8 gPCText_Jump[] = _("JUMP");
-903: const u8 gPCText_Wallpaper[] = _("WALLPAPER");
+902:  "SALTA"
+903: "CHARTA PARIETALIS"
 904:  "CAPE"
 905:  "DA"
 906:  "SUBSTITUE"
@@ -880,10 +880,10 @@
 924: const u8 gPCText_River[] = _("RIVER");
 925: const u8 gPCText_Sky[] = _("SKY");
 926: const u8 gPCText_PolkaDot[] = _("POLKA-DOT");
-927: const u8 gPCText_Pokecenter[] = _("POKéCENTER");
-928: const u8 gPCText_Machine[] = _("MACHINE");
-929: const u8 gPCText_Simple[] = _("SIMPLE");
-930:  "Quid tibi placet facere?" // Unused
+927: "POKéCENTRUM"
+928: "MACHINA"
+929: "SIMPLEX"
+930:  "Quid tibi facere placet?" // Unused
 931:  "REVOCA POKéMON"
 932:  "DEPONE POKéMON"
 933:  "MOVE POKéMON"
@@ -1695,12 +1695,12 @@
 1754: const u8 gText_MoveRelearnerWhichMoveToForget[] = _("Which move should be\nforgotten?\p");
 1755: const u8 gText_MoveRelearnerBattleMoves[] = _("BATTLE MOVES");
 1756: const u8 gText_MoveRelearnerContestMovesTitle[] = _("CONTEST MOVES");
-1757: "TYPUS/" // Unused
+1757: "TYP./" // Unused
 1758: "PP/"
 1759: "VIS/"
 1760: "ACCURAT./"
-1761: "APPEL."
-1762: "JAM"
+1761: "VENUST."
+1762: "VEXAT."
 1763: const u8 gText_Kira[] = _("KIRA");
 1764: const u8 gText_Amy[] = _("AMY");
 1765: const u8 gText_John[] = _("JOHN");

@@ -1,5 +1,5 @@
 55: static const u8 sText_Trainer1LoseText[] = _("{B_TRAINER1_LOSE_TEXT}");
-56:   "{B_BUFF1} meritus est{B_BUFF2}\n{B_BUFF3} Puncta PER.!\p"
+56:   "{B_BUFF1} meritum est{B_BUFF2}\n{B_BUFF3} Puncta PER.!\p"
 57: static const u8 sText_EmptyString4[] = _("");
 58: static const u8 sText_ABoosted[] = _(" a boosted");
 59:   "{B_BUFF1} progressus\nest ad GR. {B_BUFF2}!{WAIT_SE}\p"
@@ -246,7 +246,7 @@
 300:  "acriter "
 301:  "surrectum est!"
 302:  "acerbe "
-303:  "cecidit!");
+303:  "cecidit!"
 304:  "{B_ATK_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 305:  "{B_DEF_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 306: static const u8 sText_UsingItemTheStatOfPkmnRose[] = _("Using {B_LAST_ITEM}, the {B_BUFF1}\nof {B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_BUFF2}");
@@ -323,11 +323,11 @@
 377: static const u8 sText_PkmnIgnoredX[] = _("{B_OPPONENT_MON1_NAME} completely ignored\nthe {B_BUFF1}!");
 378: static const u8 sText_ThrewPokeblockAtPkmn[] = _("{B_PLAYER_NAME} threw a {POKEBLOCK}\nat the {B_OPPONENT_MON1_NAME}!");
 379: static const u8 sText_OutOfSafariBalls[] = _("{PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of\nSAFARI BALLS! Game over!\p");
-380:  "{B_OPPONENT_MON1_NAME} aperitur!\p"
-381:  "{B_OPPONENT_MON1_NAME} silvestre aperitur!\p"
-382:  "{B_OPPONENT_MON1_NAME} silvestre aperitur!\p"
-383:  "{B_OPPONENT_MON1_NAME} silvestre aperitur!{PAUSE 127}"
-384:  "Silvestria {B_OPPONENT_MON1_NAME} et\n{B_OPPONENT_MON2_NAME} aperiuntur!\p"
+380:  "{B_OPPONENT_MON1_NAME} apparuit!\p"
+381:  "{B_OPPONENT_MON1_NAME} silvestre apparuit!\p"
+382:  "{B_OPPONENT_MON1_NAME} silvestre apparuit!\p"
+383:  "{B_OPPONENT_MON1_NAME} silvestre apparuit!{PAUSE 127}"
+384:  "Silvestria {B_OPPONENT_MON1_NAME} et\n{B_OPPONENT_MON2_NAME} apparuint!\p"
 385:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\ncertare volebat!\p"
 386:  "{B_LINK_OPPONENT1_NAME}\ncertare vult!"
 387:  "{B_LINK_OPPONENT1_NAME} et {B_LINK_OPPONENT2_NAME}\ncertare volunt!"
@@ -339,9 +339,9 @@
 393:  "{B_LINK_OPPONENT1_NAME} misist {B_LINK_OPPONENT_MON1_NAME}!\n{B_LINK_OPPONENT2_NAME} misit {B_LINK_OPPONENT_MON2_NAME}!"
 394:  "{B_LINK_OPPONENT1_NAME} misit\n{B_BUFF1}!"
 395:  "{B_LINK_SCR_TRAINER_NAME} misit\n{B_BUFF1}!"
-396:  "Occede! {B_PLAYER_MON1_NAME}!"
-397:  "Occedete! {B_PLAYER_MON1_NAME} et\n{B_PLAYER_MON2_NAME}!"
-398:  "Occede! {B_BUFF1}!"
+396:  "Proccede! {B_PLAYER_MON1_NAME}!"
+397:  "Proccedete! {B_PLAYER_MON1_NAME} et\n{B_PLAYER_MON2_NAME}!"
+398:  "Proccede! {B_BUFF1}!"
 399:  "Fac! {B_BUFF1}!"
 400:  "Incede, {B_BUFF1}!"
 401:  "Hostis tuus languet!\nSubice eum, {B_BUFF1}!"
@@ -362,12 +362,12 @@
 416:  "Socium"
 417:  "Socium"
 418:  "Socius"
-419:  "{B_ATK_NAME_WITH_PREFIX}\n{B_BUFF2} usum est"
-420: static const u8 sText_ExclamationMark[] = _("!");
-421: static const u8 sText_ExclamationMark2[] = _("!");
-422: static const u8 sText_ExclamationMark3[] = _("!");
-423: static const u8 sText_ExclamationMark4[] = _("!");
-424: static const u8 sText_ExclamationMark5[] = _("!");
+419:  "{B_ATK_NAME_WITH_PREFIX}\n{B_BUFF2} usum est!"
+420: static const u8 sText_ExclamationMark[] = _("");
+421: static const u8 sText_ExclamationMark2[] = _("");
+422: static const u8 sText_ExclamationMark3[] = _("");
+423: static const u8 sText_ExclamationMark4[] = _("");
+424: static const u8 sText_ExclamationMark5[] = _("");
 425:  "SL"
 426:  "IMPETUS"
 427:  "DEFENSIO"
@@ -431,7 +431,7 @@
 1275: "PUGNA{CLEAR_TO 56}SACCUS\nPOKéMON{CLEAR_TO 56}FUGE"
 1276: const u8 gText_SafariZoneMenu[] = _("BALL{CLEAR_TO 56}{POKEBLOCK}\nGO NEAR{CLEAR_TO 56}FUGE");
 1277: "PP "
-1278: "TYPUS/"
+1278: "TYP./"
 1279: "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}PP\nTYPUS/"
 1280: const u8 gText_MoveInterfaceDynamicColors[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}");
 1281: "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}Quod motum oportet\noblivisci?"
