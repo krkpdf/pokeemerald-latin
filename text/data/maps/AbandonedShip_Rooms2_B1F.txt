@@ -1,4 +1,4 @@
-9: .string "This is a perfect place to go exploring!\n"
-10: .string "It's exciting here!\p"
-11: .string "I bet there're amazing treasures on\n"
-12: .string "board.$"
+9:       "Hic locus perfects ad explorandum est!\n"
+10:     "Excitans est hic!\p"
+11:     "Spondeo mirabilos thesauros in nave\n"
+12:     "esse.$"

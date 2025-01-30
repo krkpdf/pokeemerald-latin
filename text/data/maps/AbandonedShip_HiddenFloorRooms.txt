@@ -1,2 +1,2 @@
-115: .string "It's bright and shiny!\n"
-116: .string "But it's just trash…$"
+115:   "Clarum splendidumque est!\n"
+116:   "Sed tantum scruta est…$"

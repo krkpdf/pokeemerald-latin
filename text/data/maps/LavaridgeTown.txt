@@ -27,7 +27,7 @@
 312:  "VIAE 111 gredi.\p"
 313:  "Sine dubio illic nonnulla POKéMON, quae\n"
 314:  "solum in desertis habitant, sunt.\l"
-315:  "You might look around for those.\p"
+315:  "Fortasse pro illis circumspicias.\p"
 316:  "Quod ad me attinet…\n"
 317:  "NORMANUM, GYMNIS RECTOREM\l"
 318:  "PETALIBURGI, provocare agito.\p"

@@ -97,7 +97,7 @@
 343:  "certamine uti sinet.\p"
 344:  "Haec signum aestimationis meae est.\n"
 345:  "Nolli timidum esse ob eam capendam!$"
-348:  "MA50 SUPERFERVOREM continet.\p"
+348:  "MA50 EFFERVOREM continet.\p"
 349:  "Motus ille damnum grave in hostem\n"
 350:  "infligit.\p"
 351:  "Sed etiam IMP SP. praecipiter caedit\n"

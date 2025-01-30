@@ -92,7 +92,7 @@
 1140: .name = _("????????"),
 1151: .name = _("????????"),
 1164: .name = _("SUN STONE"),
-1175: .name = _("MOON STONE"),
+1175: "LAPIS LUNARIS"
 1186: .name = _("FIRE STONE"),
 1197: .name = _("THUNDERSTONE"),
 1208: .name = _("WATER STONE"),
@@ -108,8 +108,8 @@
 1320: .name = _("BIG PEARL"),
 1331: .name = _("STARDUST"),
 1342: .name = _("STAR PIECE"),
-1353: .name = _("NUGGET"),
-1364: .name = _("HEART SCALE"),
+1353: "GLOBULUS"
+1364: "CORDIS SQUAMA"
 1375: .name = _("????????"),
 1386: .name = _("????????"),
 1397: .name = _("????????"),
@@ -288,12 +288,12 @@
 3372: .name = _("BLUE ORB"),
 3384:  "SCANSORIUM"
 3396:  "GU-GUGGULAE"
-3408: .name = _("METEORITE"),
-3420: .name = _("RM. 1 KEY"),
-3432: .name = _("RM. 2 KEY"),
-3444: .name = _("RM. 4 KEY"),
-3456: .name = _("RM. 6 KEY"),
-3468: .name = _("STORAGE KEY"),
+3408:  "METEORUM"
+3420:  "CL. 1 CLAVIS"
+3432:  "CL. 2 CLAVIS"
+3444:  "CL. 4 CLAVIS"
+3456:  "CL. 6 CLAVIS"
+3468: "PRMPT. CLAVIS"
 3480: .name = _("ROOT FOSSIL"),
 3492: .name = _("CLAW FOSSIL"),
 3504: .name = _("DEVON SCOPE"),

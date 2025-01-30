@@ -654,11 +654,11 @@
 698: const u8 gText_Cute2[] = _("CUTE");
 699: const u8 gText_Smart2[] = _("SMART");
 700: const u8 gText_Tough2[] = _("TOUGH");
-701:  "RES"
-702:  "RES SUMMAE"
+701:  "RERUM"
+702:  "CLAVIUM"
 703: const u8 gText_Poke_Balls[] = _("POKé BALLS");
 704:  "ML & MA"
-705:  "BACCAE"
+705:  "BACCARUM"
 706:  "PC ALICUIUS"
 707:  "PC IANETTAE"
 708: const u8 gText_PlayersPC[] = _("PC {PLAYER}");

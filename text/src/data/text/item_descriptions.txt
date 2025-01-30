@@ -298,30 +298,42 @@ POTION
 353:  "infirmos silvestres\n"
 354:  "per 250 passi."
 
+ESCAPE ROPE
 357: "Use to escape\n"
 358: "instantly from a\n"
 359: "cave or a dungeon.");
+
+
 362: "Repels weak wild\n"
 363: "POKéMON for 100\n"
 364: "steps.");
-368: "Makes certain\n"
-369: "species of POKéMON\n"
-370: "evolve.");
-373: "Makes certain\n"
-374: "species of POKéMON\n"
-375: "evolve.");
-378: "Makes certain\n"
-379: "species of POKéMON\n"
-380: "evolve.");
-383: "Makes certain\n"
-384: "species of POKéMON\n"
-385: "evolve.");
-388: "Makes certain\n"
-389: "species of POKéMON\n"
-390: "evolve.");
-393: "Makes certain\n"
-394: "species of POKéMON\n"
-395: "evolve.");
+
+X STONES
+368: "Genera quaedam\n"
+369: "POKéMON evolvere\n"
+370: "coget."
+
+373: "Genera quaedam\n"
+374: "POKéMON evolvere\n"
+375: "coget."
+
+378: "Genera quaedam\n"
+379: "POKéMON evolvere\n"
+380: "coget."
+
+383: "Genera quaedam\n"
+384: "POKéMON evolvere\n"
+385: "coget."
+
+388: "Genera quaedam\n"
+389: "POKéMON evolvere\n"
+390: "coget."
+
+393: "Genera quaedam\n"
+394: "POKéMON evolvere\n"
+395: "coget."
+
+TINYMUSHROOM
 399: "A plain mushroom\n"
 400: "that would sell\n"
 401: "at a cheap price.");
@@ -340,12 +352,17 @@ POTION
 424: "A red gem shard.\n"
 425: "It would sell for a\n"
 426: "very high price.");
-429: "A nugget of pure\n"
-430: "gold. Can be sold at\n"
-431: "a high price.");
-434: "A lovely scale.\n"
-435: "It is coveted by\n"
-436: "collectors.");
+
+NUGGET
+429: "Globulus ex auro\n"
+430: "puro. Venditur\n"
+431: "magno pretio."
+
+HEART SCALE
+434: "Squama amabilis.\n"
+435: "Concupiscitur ab\n"
+436: "collectoribus."
+
 440: "A ZIGZAGOON-print\n"
 441: "MAIL to be held by\n"
 442: "a POKéMON.");
@@ -770,6 +787,7 @@ ACRO BIKE
 1062: "said to contain an\n"
 1063: "ancient power.");
 
+SCANNER
 1066: "Instrumentum intra\n"
 1067: "NAVIM PERDITAM\n"
 1068: "inventum."
@@ -779,23 +797,32 @@ GO-GOGGLES
 1072: "quae oculos ab\n"
 1073: "arenis protegunt."
 
-1076: "A meteorite found\n"
-1077: "at METEOR FALLS.");
-1080: "A key that opens a\n"
-1081: "door inside the\n"
-1082: "ABANDONED SHIP.");
-1085: "A key that opens a\n"
-1086: "door inside the\n"
-1087: "ABANDONED SHIP.");
-1090: "A key that opens a\n"
-1091: "door inside the\n"
-1092: "ABANDONED SHIP.");
-1095: "A key that opens a\n"
-1096: "door inside the\n"
-1097: "ABANDONED SHIP.");
-1100: "The key to the\n"
-1101: "storage inside the\n"
-1102: "ABANDONED SHIP.");
+METEORITE
+1076: "Meteorum inventum\n"
+1077: "CATARACTA METEORI."
+
+ABANDONED SHIP KEYS
+1080: "Clavis quae ianuam\n"
+1081: "in NAVE PERDITA\n"
+1082: "aperit."
+
+1085: "Clavis quae ianuam\n"
+1086: "in NAVE PERDITA\n"
+1087: "aperit."
+
+1090: "Clavis quae ianuam\n"
+1091: "in NAVE PERDITA\n"
+1092: "aperit."
+
+1095: "Clavis quae ianuam\n"
+1096: "in NAVE PERDITA\n"
+1097: "aperit."
+
+STORAGE KEY
+1100: "Clavis ad\n"
+1101: "promptuarium in\n"
+1102: "NAVE PERDITA."
+
 1105: "A fossil of an\n"
 1106: "ancient, seafloor-\n"
 1107: "dwelling POKéMON.");
