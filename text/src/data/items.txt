@@ -286,7 +286,7 @@
 3347: .name = _("EON TICKET"),
 3360: .name = _("RED ORB"),
 3372: .name = _("BLUE ORB"),
-3384:  "SCANSORIUM"
+3384:  "SCRUTATOR"
 3396:  "GU-GUGGULAE"
 3408:  "METEORUM"
 3420:  "CL. 1 CLAVIS"

@@ -1,4 +1,4 @@
 14:     "Urrrrppp…\p"
 15:     "Fastidium incipio habere tantum in\n"
 16:     "nave hac stando…\p"
-17:    "Neque movet se, sed…$"
+17:     "Neque movet se, sed…$"
