@@ -2,19 +2,24 @@
 
 ![](header.png)
 
-This is a project to translate Pokemon Emerald into Latin. 
-For now, only the translation files will be kept here. 
-These are meant to be combined with the Emerald Decompilation Project (https://github.com/pret/pokeemerald) and then compiled. 
-The English base text that is translated is extracted from the Decompilation Project also. 
+This project aims to translate Pokémon Emerald into Latin. 
+Currently, only the translation text files are hosted here. 
+These files are intended to be integrated with the [Emerald Decompilation Project](https://github.com/pret/pokeemerald) for compilation. 
+The base English text used for translation is also extracted from the Decompilation Project.
 
-WIKI: https://github.com/krkpdf/pokemon-emerald-latin/wiki
+*WIKI:* https://github.com/krkpdf/pokeemerald-latin/wiki
 
-## WORKFLOW
-1. Download the Decompilation Project from https://github.com/pret/pokeemerald 
-2. Use the extract_text script to extract all the text from the game (already done, see Text/)
-3. Find all the sprites containing English text (to be implemented)
-4. Add translations to the text, change sprites, and upload to repo
-5. Replace text in Decompilation Project (make.sh!) and compile
+## INSTALLATION
+1. Download the latest [Release](https://github.com/krkpdf/pokeemerald-latin/releases)
+2. Use Rom Patching Software, such as [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/), to create a working ROM file
+3. Flash the ROM to a cartridge or use an emulator to play the game
+
+## COMPILATION WORKFLOW
+0. Download the [Decompilation Project](https://github.com/pret/pokeemerald) and follow the [installation instructions](https://github.com/pret/pokeemerald/blob/master/INSTALL.md) 
+1. Download this project using `git clone https://github.com/krkpdf/pokeemerald-latin`
+2. Translate the text and submit a pull request with your changes
+3. Extract, translate and manually replace game graphics as needed
+4. Automatically replace text in the Decompilation Project folder and compile using `./make.sh` 
 
 
 https://discord.gg/j55s4pwrhw
