@@ -46,7 +46,7 @@
 302:   "Sed me fefellerunt.\n"
 303:   "Etiam METEORUM meum eripuerunt…\p"
 304:   "Et tunc alius circulus similis,\n"
-305:   "ORDO apparuit.\p"
+305:   "ORDO AQUA apparuit.\p"
 306:   "Postea…\n"
 307:   "Non capio nullum ex illo.\p"
 308:   "Sed ORDO MAGMA ille…\p"

@@ -780,12 +780,16 @@ ACRO BIKE
 1051: "The ticket for a\n"
 1052: "ferry to a distant\n"
 1053: "southern island.");
-1056: "A red, glowing orb\n"
-1057: "said to contain an\n"
-1058: "ancient power.");
-1061: "A blue, glowing orb\n"
-1062: "said to contain an\n"
-1063: "ancient power.");
+
+RED ORB
+1056: "Orbis ruber\n"
+1057: "ardensque antiquam\n"
+1058: "vim continet."
+
+BLUE ORB
+1061: "Orbis caeruleus\n"
+1062: "ardensque antiquam\n"
+1063: "vim continet."
 
 SCANNER
 1066: "Instrumentum intra\n"
