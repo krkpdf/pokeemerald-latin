@@ -982,18 +982,31 @@ TORMENT
 1037: "Torquet hostem et prohibit\n"
 1038: "usus consequentes motus."
 
+FLATTER
 1041: "Confuses the foe, but\n"
 1042: "raises its SP. ATK.");
+
+WILL-O-WISP
 1045: "Inflicts a burn on the foe\n"
 1046: "with intense fire.");
+
+MEMENTO
 1049: "The user faints and lowers\n"
 1050: "the foe's abilities.");
-1053: "Boosts ATTACK when burned,\n"
-1054: "paralyzed, or poisoned.");
+
+FACADE
+1053: "IMP. dum venenatum, adustum\n"
+1054: "aut cum paralysi sit, auget."
+
+FOCUS PUNCH
 1057: "A powerful loyalty attack.\n"
 1058: "The user flinches if hit.");
+
+SMELLINGSALT
 1061: "Powerful against paralyzed\n"
 1062: "foes, but also heals them.");
+
+FOLLOW ME
 1065: "Draws attention to make\n"
 1066: "foes attack only the user.");
 

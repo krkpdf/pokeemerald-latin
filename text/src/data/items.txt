@@ -1,16 +1,16 @@
 5:      "????????"
 18:     "SUPER BALL"
 31:     "ULTRA BALL"
-44:     "MAGNUS BALL"
+44:     "MAGNUM BALL"
 57:     "POKé BALL"
-70:   .name = _("SAFARI BALL"),
-83:   .name = _("NET BALL"),
-96:   .name = _("DIVE BALL"),
+70:     "SAFARIS BALL"
+83:     "RETE BALL"
+96:     "MERGUS BALL"
 109:   "NIDUS BALL"
 122:   "REPETIT BALL"
 135:   "CHRONO BALL"
-148:  .name = _("LUXURY BALL"),
-161:  .name = _("PREMIER BALL"),
+148:   "LUXUS BALL"
+161:   "HONORIS BALL"
 176:   "POTIO"
 190:   "ANTIDOTUM"
 203:   "SANA ADUSTUM"
@@ -61,7 +61,7 @@
 772:  .name = _("????????"),
 783:  .name = _("????????"),
 794:  .name = _("????????"),
-807:   "SL SUSRSUM"
+807:   "SL SURSUM"
 818:   "PROTEINA"
 829:   "FERRUM"
 840:   "CARBOS"

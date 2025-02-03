@@ -2,65 +2,65 @@
 2: "?????"
 
 MASTER BALL
-6:   "BALL optimus qui\n"
+6:   "BALL optimum qui\n"
 7:   "POKéMON capit\n"
 8:   "sine defectu."
 
 
 ULTRA BALL
-11:   "Habet proportione\n"
-12:   "altior capiendi\n"
+11:   "Habet proportionem\n"
+12:   "altiorem capiendi\n"
 13:   "quam GREAT BALL."
 
 GREAT BALL
-16:   "Habet proportione\n"
-17:   "altior capiendi\n"
+16:   "Habet proportionem\n"
+17:   "altiorem capiendi\n"
 18:   "quam POKé BALL."
 
 POKE BALL
-21:   "Est instrumentum\n"
-22:   "ad capienda\n"
-23:   "POKéMON silvestria."
+21:   "Instrumentum ad\n"
+22:   "silvestria POKéMON\n"
+23:   "capienda est."
 
+SAFARI BALL
+26: "BALL speciale quo\n"
+27: "tantum in AREA\n"
+28: "SAFARIS uti potes."
 
-26: "A special BALL that\n"
-27: "is used only in the\n"
-28: "SAFARI ZONE.");
+NET BALL
+31: "BALL efficacius in\n"
+32: "POKéMON typi AQUAE\n"
+33: "et CIMICIS."
 
+DIVE BALL
+36: "BALL efficacius in\n"
+37: "POKéMON in profundo\n"
+38: "maris."
 
-31: "A BALL that works\n"
-32: "well on WATER- and\n"
-33: "BUG-type POKéMON.");
+LEVEL BALL
+41: "BALL efficacius ad\n"
+42: "capiendos POKéMON\n"
+43: "infirmos."
 
+REPEAT BALL
+46: "BALL efficacius in\n"
+47: "POKéMON qua iam\n"
+48: "capta fuerunt."
 
-36: "A BALL that works\n"
-37: "better on POKéMON\n"
-38: "on the ocean floor.");
+TIMER BALL
+51: "BALL efficacius si\n"
+52: "certamen multas\n"
+53: "vices moratur."
 
+LUXURY BALL
+56: "BALL commodum\n"
+57: "quod POKéMON\n"
+58: "amiciora facit."
 
-41: "A BALL that works\n"
-42: "better on weaker\n"
-43: "POKéMON.");
-
-
-46: "A BALL that works\n"
-47: "better on POKéMON\n"
-48: "caught before.");
-
-
-51: "A BALL that gains\n"
-52: "power in battles\n"
-53: "taking many turns.");
-
-
-56: "A cozy BALL that\n"
-57: "makes POKéMON\n"
-58: "more friendly.");
-
-
-61: "A rare BALL made\n"
-62: "in commemoration\n"
-63: "of some event.");
+PREMIER BALL
+61: "BALL rarum factum\n"
+62: "in commemoratione\n"
+63: "alicuius rei."
 
 POTION
 67:   "Restaurat SL\n"
@@ -111,7 +111,7 @@ POTION
 123:  "SL eius plene."
 
 126:  "Aqua minerali\n"
-127:  "quae restaurat SL\n"
+127:  "quae SL restaurat\n"
 128:  "per 50 puncta."
 
 131:  "Mulsa carbonata\n"
@@ -185,7 +185,7 @@ POTION
       "silvestres." !!!!!!!!!! have to add manually!!!!!!
 
 214:  "Succus 100% purus\n"
-215:  "qui restaurat SL\n"
+215:  "qui SL restaurat\n"
 216:  "per 20 puncta."
 
 219:  "Revivescit plene et\n"
