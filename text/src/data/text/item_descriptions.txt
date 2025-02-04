@@ -10,7 +10,7 @@ MASTER BALL
 ULTRA BALL
 11:   "Habet proportionem\n"
 12:   "altiorem capiendi\n"
-13:   "quam GREAT BALL."
+13:   "quam MAGNUM BALL."
 
 GREAT BALL
 16:   "Habet proportionem\n"
