@@ -1,7 +1,6 @@
-      |=======================================|
-9:    "Quando certamen POKéMON incipit, ille\n"
-10:   "sinistrer indicis it primo.\p"
-11:   "Ergo, cum plus POKéMON in partim tuam\n"
-12:   "colliges, conare commutare ordinem\l"
-13:   "POKéMON.\p"
-14:   "Tibi opportunitatem dare possit.$"
+9:       "Quando certamen POKéMON incipit, \n"
+10:     "id a sinistra albi primum in campo it.\p"
+11:     "Ergo, cum plura POKéMON in manu tua\n"
+12:     "colligas, conare ordinem POKéMON\l"
+13:     "commutare.\p"
+14:     "Tibi commodum dare possit.$"
