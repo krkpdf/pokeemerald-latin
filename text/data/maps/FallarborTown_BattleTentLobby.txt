@@ -26,7 +26,7 @@
 337:  "Aliquem viribus et voluptate vincendi\n"
 338:  "dissilientem.\p"
 339:  "Si TRAHITORES sicut hoc sunt,\n"
-340:  "continue erim…\p"
+340:  "continue ero…\p"
 341:  "Oooops! Ignosce!\n"
 342:  "Mane id studens!$"
 345:  "SCOTUS: Loco temporis tui perdendis\n"

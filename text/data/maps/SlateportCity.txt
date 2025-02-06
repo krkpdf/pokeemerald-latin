@@ -119,7 +119,7 @@
 1144: "Nonne NAUAR. PUPPIUS est?$"
 1147: "Domina illa interrogatrix tam\n"
 1148: "praecellens est et bella.\p"
-1149: "Quando adolescam, erim diurnaria\n"
+1149: "Quando adolescam, ero diurnaria\n"
 1150: "internationalis!$"
 1153: "NAUAR. PUPPIUS dicit eos aliquod apud\n"
 1154: "imum maris invenisse.\p"

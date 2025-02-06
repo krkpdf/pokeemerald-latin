@@ -52,7 +52,7 @@
 345:  "Nullum est locum pro OVO hoc…$"
 348:  "Sicut vis, iqitur…\p"
 349:  "Si mutationem cordis de OVO hoc\n"
-350:  "excludendo habueris, ego hic erim.$"
+350:  "excludendo habueris, ego hic ero.$"
 353:  "Compluries OVUM apud HOSPITACULUM\n"
 354:  "POKéMON invenitur.\p"
 355:  "At id est saltem quod rumor dicit.$"
