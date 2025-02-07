@@ -69,7 +69,7 @@ try :
 
                 with open(file_path, 'r', encoding='utf-8') as input_file:
                     new_content = [extract_literal(line) for line in input_file.readlines()]
-                    new_content.append("\n")
+                    new_content[-1] = (new_content[-1][0], new_content[-1][1] + "\n")
 
                     for i, t in new_content:
                         n = i-1

@@ -5,12 +5,7 @@ python3 ./insert_text.py
 
 echo "MAKING"
 cd ../pokeemerald-master-translated/
-make
+make -j 8
 echo "DONE"
 
-cd ../text-translated
-git add text/*
-
-current="`date +'%Y-%m-%d'`"
-msg="automatic commit, version: $current"
-git commit -m "$msg"
+cd ../pokeemerald-latin
