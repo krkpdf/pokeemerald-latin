@@ -177,13 +177,13 @@
 183:  "INSCRIBE"
 184:  "DA"
 185: const u8 gMenuText_CheckTag[] = _("SPICE TAG");
-186:  "CONFIRMA"
+186:  "EXI"
 187:  "GRADERE"
-188:  "CANCELLA"
-189:  "CANCELLA"
+188:  "EXI"
+189:  "EXI"
 190:  "MONSTRA"
 191:  ""
-192:  "CANCELLA" // Unused
+192:  "EXI" // Unused
 193:  "RES"
 194:  "EPISTOLAE"
 195:  "CAPE"
@@ -320,7 +320,7 @@
 364:  "MUTA"
 365:  "MITTE"
 366:  "MUTA"
-367:  "SUMMARIUM"
+367:  "INFO"
 368:  "MOTUS" // Unused
 369:  "INTRA"
 370:  "NULLA IANUA"
@@ -346,7 +346,7 @@
 390: const u8 gText_MailMessageWillBeLost[] = _("If the MAIL is removed, the\nmessage will be lost. Okay?");
 391: const u8 gText_RemoveMailBeforeItem[] = _("MAIL must be removed before\nholding an item.{PAUSE_UNTIL_PRESS}");
 392:  "{STR_VAR_1} {STR_VAR_2}\nhabere dabitur.{PAUSE_UNTIL_PRESS}"
-393:  "{STR_VAR_1} iam habet unum\n{STR_VAR_2}.\pVis mutare has\n duas res?"
+393:  "{STR_VAR_1} iam {STR_VAR_2}\nhabet.\pVis has res\n mutare?"
 394:  "{STR_VAR_1} non ulla\nhabet.{PAUSE_UNTIL_PRESS}"
 395:  "{STR_VAR_2} receptum\na {STR_VAR_1}.{PAUSE_UNTIL_PRESS}"
 396: const u8 gText_MailTakenFromPkmn[] = _("MAIL was taken from the\nPOKéMON.{PAUSE_UNTIL_PRESS}");
@@ -381,13 +381,13 @@
 425: const u8 gText_PkmnGotOverInfatuation[] = _("{STR_VAR_1} got over its\ninfatuation.{PAUSE_UNTIL_PRESS}");
 426: const u8 gText_ThrowAwayItem[] = _("Throw away this\n{STR_VAR_1}?");
 427: const u8 gText_ItemThrownAway[] = _("The {STR_VAR_1}\nwas thrown away.{PAUSE_UNTIL_PRESS}");
-428:  "Quod POKéMON docendus?" // Unused
+428:  "Quod POKéMON docendum?" // Unused
 429:  "Selige POKéMON."
-430:  "Quorsum movendus?"
-431:  "Quod POKéMON docendum?"
-432:  "Ad quem POKéMON utendum?"
+430:  "Quocum mutandum?"
+431:  "Quid POKéMON docendum?"
+432:  "In quo POKéMON utendum?"
 433:  "Cui POKéMON dandum?"
-434:  "Quid faciendum cum {PKMN}?"
+434:  "Quid cum {PKMN} faciendum?"
 435: const u8 gText_NothingToCut[] = _("There's nothing to CUT.");
 436: const u8 gText_CantSurfHere[] = _("You can't SURF here.");
 437: const u8 gText_AlreadySurfing[] = _("You're already SURFING.");
@@ -403,7 +403,7 @@
 447: const u8 gText_NoIdenticalHoldItems[] = _("No identical hold items.");
 448: const u8 gText_CurrentIsTooFast[] = _("The current is much too fast!");
 449: const u8 gText_DoWhatWithMail[] = _("Do what with the MAIL?");
-450:  "Selige POKéMON aut CANCELLA."
+450:  "Selige POKéMON aut EXI."
 451:  "Selige POKéMON et affirma."
 452: const u8 gText_EnjoyCycling[] = _("Let's enjoy cycling!");
 453: const u8 gText_InUseAlready_PM[] = _("This is in use already.");
@@ -845,13 +845,13 @@
 889: const u8 gText_ItemIsNowHeld[] = _("{DYNAMIC 0} is now held.");
 890: const u8 gText_ChangedToNewItem[] = _("Changed to {DYNAMIC 0}.");
 891: const u8 gText_MailCantBeStored[] = _("MAIL can't be stored!");
-892:  "CANCELLA"
+892:  "EXI"
 893:  "COACERVA"
 894:  "RECIPE"
 895:  "SUBSTITUE"
 896:  "MOVE"
 897:  "PONE"
-898:  "SUMMARIUM"
+898:  "INFO"
 899:  "DIMITTE"
 900:  "SIGNA"
 901:  "NOMEN"
@@ -1430,7 +1430,7 @@
 1478: "MODUS CERTAMINUM"
 1479: "SONUS"
 1480: "FORMA"
-1481: "CANCELLA"
+1481: "EXI"
 1482: "MODUS BULLAE"
 1483: "{COLOR GREEN}{SHADOW LIGHT_GREEN}LENTE"
 1484: "{COLOR GREEN}{SHADOW LIGHT_GREEN}MED"
@@ -1563,7 +1563,7 @@
 1614: const u8 gText_SelectSecondPkmn[] = _("Select the second POKéMON.");
 1615: const u8 gText_SelectThirdPkmn[] = _("Select the third POKéMON.");
 1616: const u8 gText_Rent[] = _("RENT");
-1617: "SUMMARIUM"
+1617: "INFO"
 1618: "ALIA"
 1619: "DESELIGE"
 1620: const u8 gText_TheseThreePkmnOkay[] = _("Are these three POKéMON OK?");
@@ -1574,13 +1574,13 @@
 1625: "Selige quod POKéMON mutandum."
 1626: "Selige quod POKéMON accipiendum."
 1627: "MUTA"
-1628: "SUMMARIUM"
+1628: "INFO"
 1629: "RESELIGE"
 1630: const u8 gText_QuitSwapping[] = _("Quit swapping?");
 1631: "SIC"
 1632: "NON"
 1633: "{PKMN} MUTATIONIS"
-1634: "CANCELLA"
+1634: "EXI"
 1635: "MUTA" // Unused
 1636: "ACCIPE" // Unused
 1637: "ACCIPIAS  POKéMON?"

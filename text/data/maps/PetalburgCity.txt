@@ -1,6 +1,6 @@
       |=======================================|
 708:   "Quorsum VALIUS noster ivit?\p"
-7090: "Nobis mox necesse erit ad OPPIDUM\n"
+709:   "Nobis mox necesse erit ad OPPIDUM\n"
 710:   "VIRIDINEMORIS egredi…$"
 713:   "Hiya! Esne fortasse..\n"
 714:   "TRAHITOR tiro?\p"
