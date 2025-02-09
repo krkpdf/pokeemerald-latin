@@ -1,4 +1,4 @@
-13:   "PRAEFECTUM DEVON lapides raros\n"
-14:   "colligere delectatur.$"
-17:   "Puto puerum PRAEFECTI etiam\n"
-18:   "lapides raros colligere.$"
+13:     "PRAEFECTO DEVON lapides raros\n"
+14:     "colligere placet.$"
+17:     "Puto puerum PRAEFECTI etiam\n"
+18:     "lapides raros colligere.$"

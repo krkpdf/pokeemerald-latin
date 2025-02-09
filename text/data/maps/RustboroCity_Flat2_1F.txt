@@ -1,3 +1,3 @@
-19:   "Opifices SOCIETATIS DEVON in hac\n"
-20:   "insula habitant.$"
-23:   "SKITTY: Gyaaaah!$"
+19:     "Opifices SOCIETATIS DEVON in hac\n"
+20:     "insula habitant.$"
+23:     "SKITTY: Gyaaaah!$"

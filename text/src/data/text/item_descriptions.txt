@@ -282,8 +282,8 @@ POTION
 332:  "IMP SP. per unum\n"
 333:  "certamen."
 
-336:  "Utere fugere ex\n"
-337:  "quolibet certamine\n"
+336:  "Utere ad fugiendum\n"
+337:  "ex quolibet certamine\n"
 338:  "cum POKéMON."
 
 341:  "Utere fugere ex\n"
@@ -299,9 +299,9 @@ POTION
 354:  "per 250 passi."
 
 ESCAPE ROPE
-357: "Use to escape\n"
-358: "instantly from a\n"
-359: "cave or a dungeon.");
+357: "Utere ad effugiendum\n"
+358: "continue ex caverna\n"
+359: "aut crypta."
 
 
 362: "Repels weak wild\n"
@@ -536,16 +536,16 @@ HEART SCALE
 724: "lowered stat.");
 
 MACHO BRACE
-727:  "Res habendam, quae\n"
+727:  "Res tenenda, quae\n"
 728:  "auctum prodest, sed\n"
 729:  "CELERITATEM minuit.");
 
       |===================|
-732:  "Rem habendam, quae\n"
+732:  "Res tenenda, quae\n"
 733:  "puncta PER. ab\n"
 734:  "certamine meretur.");
 
-737:  "Rem habendam, quae\n"
+737:  "Res tenenda, quae\n"
 738:  "interdum permittit\n"
 739:  "illisum priorem."
 
@@ -574,11 +574,11 @@ MACHO BRACE
 778: "SP. ATK & SP. DEF of\n"
 779: "LATIOS & LATIAS.");
 
-782: "Rem habendam, quae\n"
+782: "Res tenenda, quae\n"
 783: "IMP SP. CLAMPERL\n"
 784: "auget."
 
-787: "Rem habendam, quae\n"
+787: "Res tenenda, quae\n"
 788: "DEF SP. CLAMPERL\n"
 789: "auget."
 
@@ -620,7 +620,7 @@ MACHO BRACE
 849: "GRASS-type moves.");
 
       |===================|
-852:  "Rem habendam, quae\n"
+852:  "Res tenenda, quae\n"
 853:  "vim motus typi\n"
 854:  "NOCTE auget."
 
@@ -656,7 +656,7 @@ MACHO BRACE
 904: "DRAGON-type moves.");
 
 SILK SCARF
-907: "Rem habendam, quae\n"
+907: "Res tenenda, quae\n"
 908: "vim motus typi\n"
 909: "SOLITO auget."
 
@@ -685,27 +685,27 @@ SILK SCARF
 948: "critical-hit ratio.");
 
 RED SCARF
-951: "Rem habendam, quae\n"
+951: "Res tenenda, quae\n"
 952: "ACRITATEM\n"
 953: "in AGONIBUS auget."
 
 BLUE SCARF
-956: "Rem habendam, quae\n"
+956: "Res tenenda, quae\n"
 957: "PULCHRITUDINEM\n"
 958: "in AGONIBUS auget."
 
 PINK SCARF
-961: "Rem habendam, quae\n"
+961: "Res tenenda, quae\n"
 962: "DULCITATEM\n"
 963: "in AGONIBUS auget."
 
 GREEN SCARF
-966: "Rem habendam, quae\n"
+966: "Res tenenda, quae\n"
 967: "SOLLERTIAM\n"
 968: "in AGONIBUS auget."
 
 YELLOW SCARF
-971: "Rem habendam, quae\n"
+971: "Res tenenda, quae\n"
 972: "FORTITUDINEM\n"
 973: "in AGONIBUS auget."
 
