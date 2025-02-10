@@ -2,7 +2,7 @@
 25:     "digna et congruentissima do!\p"
 26:     "Expressio mea est, uh…\n"
 27:     "generis mei excogitandi, ita, sic est!$"
-30:     " Agnomen tamen PEKACHUS ad PIKACHU\n"
+30:     "Agnomen tamen PEKACHUS ad PIKACHU\n"
 31:     "dare? Mihi vanum videtur.\p"
 32:     "Censeo bonum esse agnomine uti,\n"
 33:     "quod facile intellegitur, tamen…$"

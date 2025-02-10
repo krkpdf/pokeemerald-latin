@@ -560,8 +560,8 @@ DIZZY PUNCH
 586: "confuse the foe.");
 
 SPORE
-589: "Scatters a cloud of spores\n"
-590: "that always induce sleep.");
+589: "Nubem ex sporis dissipat\n"
+590: "quae semper somnum inducit."
 
 FLASH
 593: "Flabrum emittit luminis\n"
