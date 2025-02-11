@@ -5,7 +5,7 @@
 435:   "POKéMON illud obsidem prendere\n"
 436:   "inutile evasit!\p"
 437:   "Et putare me aufugisse…\n"
-438:   "In cuniculo hoc nusquam ducento!\p"
+438:   "In cuniculo hoc nusquam ducente!\p"
 439:   "Heus! Tu!\n"
 440:   "Itaque visne mecum certare?$"
 443:   "Urrrggh! Cursus meum in delictis ad\n"

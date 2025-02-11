@@ -41,7 +41,7 @@
 296:  "In CUNICULO FERRINEMI?\p"
 297:  "Ecce, accipe hanc!\n"
 298:  "Miserere mei!$"
-301:  "MA istam, decet tibi magis quam decet\n"
+301:  "MT istam, decet tibi magis quam decet\n"
 302:  "mihi.\p"
 303:  "Spero numquam te amplius videre!\n"
 304:  "Uahahaha!$"

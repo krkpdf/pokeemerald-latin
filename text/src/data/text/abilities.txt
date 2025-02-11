@@ -1,4 +1,6 @@
-Ability - Ops     
+Ability - Ops   
+CHANGE ABILITY_NAME_LENGTH in include/globals.h to 13
+
       "Graduale aumento VELOCITÀ."
 1:   "Ops nulla specialis."
 2:   "POKéMON silvestria repellit."
@@ -94,7 +96,7 @@ Ability - Ops
 92:   "VOLTSORPTIO" - VOLT ABSORB
 93:   "AQUAESORPTIO" - WATER ABSORB
 94:   "OBLIVIO" - OBLIVIOUS
-95:   "CLOUD NINE" - CLOUD NINE
+95:   "ANTITEMPESTAS" - CLOUD NINE
 96:   "CIMICUM OCULI" - COMPOUNDEYES
 97:   "INSOMNIA" - INSOMNIA
 98:   "COLORIS VICIS" - COLOR CHANGE

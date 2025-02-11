@@ -34,4 +34,4 @@
 395:   "reverteram.\l"
 396:   "{PLAYER}, etiam celeriter regredi debes.$"
 399:   "OPPIDUM OLDALE\n"
-400:   "“Ubi res omnes incipiunt parvas.”$"
+400:   "“Ubi res omnes incipiunt parvae.”$"

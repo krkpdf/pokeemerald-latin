@@ -75,8 +75,8 @@ WHIRLWIND
 74: "certamine flot."
 
 FLY
-77: "Flies up on the first turn,\n"
-78: "then strikes the next turn.");
+77: "Prima vice sursum volat, tum\n"
+78: "vice proxima percutit."
 
 BIND
 81: "Binds and squeezes the foe\n"
@@ -192,7 +192,7 @@ SONIC BOOM
 
 DISABLE
 201: "Psychice unum ex hostis\n"
-202: "motibus uti prohibit."
+202: "motibus uti prohibet."
 
 ACID
 205: "Acidum corium solventem\n"
@@ -203,12 +203,12 @@ EMBER
 210: "qui adustum efficit."
 
 FLAMETHROWER
-213: "A powerful fire attack that\n"
-214: "may inflict a burn.");
+213: "Impetus ignifer qui potest\n"
+214: "adustionem inducere."
 
 MIST
 217: "Nebulam, quae reductionem\n"
-218: "opem prohibit, creavit."
+218: "opem prohibet, creavit."
 
 WATER GUN
 221: "Spuit aquam ob hostem\n"
@@ -223,12 +223,12 @@ SURF
 230: "vi in hostem cadit."
 
 ICE BEAM
-233: "Blasts the foe with an icy\n"
-234: "beam that may freeze it.");
+233: "In hostem radio gelido flat\n"
+234: "qui eum congelare potest."
 
 BLIZZARD
-237: "Hits the foe with an icy\n"
-238: "storm that may freeze it.");
+237: "Hostem procella glaciali,\n"
+238: "quae gelare potest, tundit."
 
 PSYBEAM
 241: "Radium alienum emitit qui\n"
@@ -243,8 +243,8 @@ AURORA BEAM
 250: "beam that may lower ATTACK.");
 
 HYPER BEAM
-253: "Powerful, but leaves the\n"
-254: "user immobile the next turn.");
+253: "Validus, sed utentem vice\n"
+254: "proxima immobilem linquit."
 
 PECK
 257: "Icit hostem rostro\n"
@@ -295,8 +295,8 @@ RAZOR LEAF
 302: "High critical-hit ratio.");
 
 SOLAR BEAM
-305: "Absorbs light in one turn,\n"
-306: "then attacks next turn.");
+305: "Una vice lucem sorbet,\n"
+306: "tum impetit proxima vice."
 
 POISON POWDER
 309: "Pulverem venenosum spargit\n"
@@ -331,44 +331,44 @@ THUNDER SHOCK
 338: "may paralyze the foe.");
 
 THUNDER BOLT
-341: "Impetum fortem electricum\n"
+341: "Impetus fortis electricus\n"
 342: "qui paralysim dare potest."
 
 THUNDER WAVE
 345: "Succutio infirma electrica\n"
-346: "quae hosti paralyzim dat.");
+346: "quae hosti paralysim dat."
 
 THUNDER
-349: "A lightning attack that may\n"
-350: "cause paralysis.");
+349: "Impetus fulmineus qui\n"
+350: "paralysim dare potest."
 
 ROCK THROW
 353: "Lapides parvi iacit\n"
 354: "ad hostem feriendum."
 
 EARTHQUAKE
-357: "A powerful quake, but has\n"
-358: "no effect on flying foes.");
+357: "Quassatio magna, sed nullum\n"
+358: "est effectum in volantibus."
 
 FISSURE
 361: "A one-hit KO move that\n"
 362: "drops the foe in a fissure.");
 
 DIG
-365: "Primo vice sub terram fodit\n"
+365: "Prima vice sub terram fodit\n"
 366: "et sequenti vice assilit."
 
 TOXIC
-369: "Poisons the foe with an\n"
-370: "intensifying toxin.");
+369: "Hostem toxico crescente\n"
+370: "venenat."
 
 CONFUSION
 373: "Impetus psychicus qui\n"
 374: "stupefacere potest.");
 
 PSYCHIC
-377: "A powerful psychic attack\n"
-378: "that may lower SP. DEF.");
+377: "Impetus fortis mentalis\n"
+378: "qui DEF SP. minuere potest."
 
 HYPNOSIS
 381: "A hypnotizing move that\n"
@@ -442,8 +442,8 @@ BARRIER
 450: "sharply raises DEFENSE.");
 
 LIGHT SCREEN
-453: "Creates a wall of light that\n"
-454: "lowers SP. ATK damage.");
+453: "Murum ex luce creat qui\n"
+454: "damnum IMP SP. minuit."
 
 HAZE
 457: "Creates a black haze that\n"
@@ -454,7 +454,7 @@ REFLECT
 462: "impetos physicos elevat."
 
 FOCUS ENERGY
-465: "Vim colligitur ad augendum\n"
+465: "Vim colligitur ad augendam\n"
 466: "rationem ictuum gravium."
 
 BIDE
@@ -486,17 +486,20 @@ SMOG
 494: "that may also poison.");
 
 SLUDGE
-497: "PITUITA conicitur, damnum\n"
+497: "Pituita conicitur, damnum\n"
 498: "infligens. Potest venenare."
 
+BONE CLUB
 501: "Clubs the foe with a bone.\n"
 502: "May cause flinching.");
-505: "Incinerates everything it\n"
-506: "strikes. May cause a burn.");
+
+FIRE BLAST
+505: "Omnia ab eo tacta incinerat.\n"
+506: "Potest adustionem causare."
 
 WATERFALL
-509:  "Tanta vi ferit ut scandere\n"
-510:  "cataractam possit."
+509:  "Tanta vi impetit ut possit\n"
+510:  "cataractam scandere."
 
 CLAMP
 513: "Traps and squeezes the\n"
@@ -526,22 +529,32 @@ KINESIS
 537: "Hostem distringit. Potest\n"
 538: "accurationem minuere."
 
-
+SOFT-BOILED
 541: "Recovers up to half the\n"
 542: "user's maximum HP.");
+
+HIGH JUMP KICK
 545: "A jumping knee kick. If it\n"
 546: "misses, the user is hurt.");
+
+GLARE
 549: "Intimidates and frightens\n"
 550: "the foe into paralysis.");
+
+DREAM EATER
 553: "Takes one half the damage\n"
 554: "inflicted on a sleeping foe.");
+
+POISON GAS
 557: "Envelops the foe in a toxic\n"
 558: "gas that may poison.");
+
+BARRAGE
 561: "Hurls round objects at the\n"
 562: "foe 2 to 5 times.");
 
 LEECH LIFE
-565: "Impetum qui dimedium damni\n"
+565: "Impetum qui dimidium damni\n"
 566: "inflixi furatur."
 
 569: "Demands a kiss with a scary\n"
@@ -596,8 +609,8 @@ BONEMERANG
 622: "that strikes twice.");
 
 REST
-625: "The user sleeps for 2 turns,\n"
-626: "restoring HP and status.");
+625: "Qui utitur, 2 vices dormit,\n"
+626: "SL et statum restaurans."
 
 ROCK SLIDE
 629: "Large boulders are hurled.\n"
@@ -644,8 +657,8 @@ TRIPPLE KICK
 670: "row with rising intensity.");
 
 THIEF
-673: "While attacking, it may\n"
-674: "steal the foe's held item.");
+673: "Simul ac impetit, potest\n"
+674: "rem hoste tentam furari."
 
 SPIDER WEB
 677: "Ensnares the foe to stop it\n"
@@ -724,8 +737,8 @@ BELLY DRUM
 750: "sacrificing HP.");
 
 SLUDGE BOMB
-753:  "Pituita iactatur damnum\n"
-754:  "inflictum. Potest venenare."
+753:  "Pituita iactatur ut damnum\n"
+754:  "infligat. Potest venenare."
 
 MUD-SLAP
 757:  "Iacit limum in faciem hostis\n"
@@ -776,12 +789,12 @@ OUTRAGE
 802: "that confuses the user.");
 
 SANDSTORM
-805: "Causes a sandstorm that\n"
-806: "rages for several turns.");
+805: "Procellam arenaceam causat\n"
+806: "quae vices multas furat."
 
 GIGA DRAIN
-809: "An attack that steals half\n"
-810: "the damage inflicted.");
+809: "Impetus qui dimidium damni\n"
+810: "inflixi furatur."
 
 ENDURE
 813: "Endures any attack for\n"
@@ -836,20 +849,20 @@ HEAL BELL
 862: "all status abnormalities.");
 
 RETURN
-865: "An attack that increases\n"
-866: "in power with friendship.");
+865: "Impetus qui in vi crescit\n"
+866: "per amicitiam."
 
 PRESENT
 869: "A gift in the form of a\n"
 870: "bomb. May restore HP.");
 
 FRUSTRATION
-873: "An attack that is stronger\n"
-874: "if the TRAINER is disliked.");
+873: "Impetus qui validior est\n"
+874: "si ei TRAHITOR non placeat."
 
 SAFEGUARD
-877: "A mystical force prevents\n"
-878: "all status problems.");
+877: "Vis arcana status\n"
+878: "mala omnia prohibet."
 
 PAIN SPLIT
 881: "Adds the user and foe's HP,\n"
@@ -896,8 +909,8 @@ SWEET SCENT
 922: "elusitatem allicit.");
 
 IRON TAIL
-925: "Attacks with a rock-hard\n"
-926: "tail. May lower DEFENSE.");
+925: "Coda lapide duriore impetit.\n"
+926: "Potest DEF minuere."
 
 METAL CLAW
 929: "Impetus unguis qui\n"
@@ -923,26 +936,47 @@ HIDDEN POWER
 949: "Efficacia ex\n"
 950: "utente variat."
 
+CROSS CHOP
 953: "A double-chopping attack.\n"
 954: "High critical-hit ratio.");
+
+TWISTER
 957: "Whips up a vicious twister\n"
 958: "to tear at the foe.");
-961: "Boosts the power of WATER-\n"
-962: "type moves for 5 turns.");
-965: "Boosts the power of FIRE-\n"
-966: "type moves for 5 turns.");
+
+RAIN DANCE
+961: "Vim motuum typi AQUAE\n"
+962: "quinque vices auget."
+
+SUNNY DAY
+965: "Vim motuum typi IGNIS\n"
+966: "quinque vices auget."
+
+CRUNCH
 969: "Crunches with sharp fangs.\n"
 970: "May lower SP. DEF.");
+
+MIRROR COAT
 973: "Counters the foe's special\n"
 974: "attack at double the power.");
+
+PSYCH UP
 977: "Copies the foe's effect(s)\n"
 978: "and gives to the user.");
+
+EXTREME SPEED
 981: "An extremely fast and\n"
 982: "powerful attack.");
+
+ANCIENT POWER
 985: "An attack that may raise\n"
 986: "all stats.");
-989: "Hurls a black blob that may\n"
-990: "lower the foe's SP. DEF.");
+
+SHADOW BALL
+989: "Globum nigrum conicit qui\n"
+990: "DEF SP. minuere potest."
+
+FUTURE SIGHT
 993: "Heightens inner power to\n"
 994: "strike 2 turns later.");
 
@@ -964,22 +998,30 @@ FAKE OUT
 
 UPROAR
 1013: "Tumultum efficit inter 2-5\n"
-1014: "vices et somnum prohibit."
+1014: "vices et somnum prohibet."
 
 STOCKPILE
 1017: "Charges up power for up to\n"
 1018: "3 turns.");
+
+SPIT UP
 1021: "Releases stockpiled power\n"
 1022: "(the more the better).");
+
+SWALLOW
 1025: "Absorbs stockpiled power\n"
 1026: "and restores HP.");
+
+HEAT WAVE
 1029: "Exhales a hot breath on the\n"
 1030: "foe. May inflict a burn.");
-1033: "Summons a hailstorm that\n"
-1034: "strikes every turn.");
+
+HAIL
+1033: "Grandinis tempestatem\n"
+1034: "evocat quae vice omni icit."
 
 TORMENT
-1037: "Torquet hostem et prohibit\n"
+1037: "Torquet hostem et prohibet\n"
 1038: "usus consequentes motus."
 
 FLATTER
@@ -995,12 +1037,12 @@ MEMENTO
 1050: "the foe's abilities.");
 
 FACADE
-1053: "IMP. dum venenatum, adustum\n"
+1053: "IMP dum venenatum, adustum\n"
 1054: "aut cum paralysi sit, auget."
 
 FOCUS PUNCH
-1057: "A powerful loyalty attack.\n"
-1058: "The user flinches if hit.");
+1057: "Potente postremus impetit.\n"
+1058: "Qui utitur titubat si ictum."
 
 SMELLINGSALT
 1061: "Powerful against paralyzed\n"
@@ -1019,8 +1061,8 @@ CHARGE
 1074: "electric move used next.");
 
 TAUNT
-1077: "Taunts the foe into only\n"
-1078: "using attack moves.");
+1077: "Hostem ad tantum motus\n"
+1078: "offensos utendos provocat."
 
 HELPING HAND
 1081: "Vim recipientis motuum\n"
@@ -1058,35 +1100,52 @@ REVENGE
 1118: "si a hoste vulneratum."
 
 BRICK BREAK
-1121: "Destroys barriers such as\n"
-1122: "REFLECT and causes damage.");
+1121: "Obices ut REFLECTIONEM\n"
+1122: "frangit et damnum infligit."
 
 YAWN
 1125: "Hostem primum ad oscitandum\n"
 1126: "suadet, tum ad dormiendum."
 
+KNOCK OFF
 1129: "Knocks down the foe's held\n"
 1130: "item to prevent its use.");
+
+ENDEAVOR
 1133: "Gains power if the user's HP\n"
 1134: "is lower than the foe's HP.");
+
+ERUPTION
 1137: "The higher the user's HP,\n"
 1138: "the more damage caused.");
-1141: "The user swaps special\n"
-1142: "abilities with the target.");
+
+SKILL SWAP
+1141: "Qui utitur, opes speciales\n"
+1142: "cum hoste permutat."
+
+IMPRISON
 1145: "Prevents foes from using\n"
 1146: "moves known by the user.");
+
+REFRESH
 1149: "Heals poisoning, paralysis,\n"
 1150: "or a burn.");
+
+GRUDGE
 1153: "If the user faints, deletes\n"
 1154: "all PP of foe's last move.");
-1157: "Steals the effects of the\n"
-1158: "move the target uses next.");
-1161: "An attack with effects\n"
-1162: "that vary by location.");
+
+SNATCH
+1157: "Effecta motus, quo hostis\n"
+1158: "proximum utetur, furatur."
+
+SECRET POWER
+1161: "Impetus cum effectis\n"
+1162: "quae per locos variant."
 
 DIVE
-1165: "Urinatur sub aquam primo\n"
-1166: "vice et in proximo assilit."
+1165: "Urinatur sub aquam prima\n"
+1166: "vice et in proxima assilit."
 
 ARM THRUST
 1169: "Percussiones brachii recti\n"
@@ -1178,7 +1237,7 @@ AIR CUTTER
 1258: "High critical-hit ratio.");
 
 OVERHEAT
-1261: "Impetum maximi vis sinet, at\n"
+1261: "Impetere maxima vi sinet, at\n"
 1262: "praecipiter IMP SP. minuit."
 
 ODOR SLEUTH
@@ -1187,38 +1246,69 @@ ODOR SLEUTH
 
 ROCK TOMB
 1269: "Hostem lapidibus movere\n"
-1270: "prohibit et CELER. minuit."
+1270: "prohibet et CELER. minuit."
 
+SILVER WIND
 1273: "A powdery attack that may\n"
 1274: "raise abilities.");
+
+METAL SOUND
 1277: "Emits a horrible screech\n"
 1278: "that sharply lowers SP. DEF.");
+
+GRASS WHISTLE
 1281: "Lulls the foe into sleep\n"
 1282: "with a pleasant melody.");
+
+TICKLE
 1285: "Makes the foe laugh to\n"
 1286: "lower ATTACK and DEFENSE.");
+
+COSMIC POWER
 1289: "Raises DEFENSE and SP. DEF\n"
 1290: "with a mystic power.");
+
+WATER SPOUT
 1293: "Inflicts more damage if the\n"
 1294: "user's HP is high.");
+
+SIGNAL BEAM
 1297: "A strange beam attack that\n"
 1298: "may confuse the foe.");
+
+SHADOW PUNCH
 1301: "An unavoidable punch that\n"
 1302: "is thrown from shadows.");
+
+EXTRASENSORY
 1305: "Attacks with a peculiar\n"
 1306: "power. May cause flinching.");
+
+SKY UPPERCUT
 1309: "An uppercut thrown as if\n"
 1310: "leaping into the sky.");
+
+SAND TOMB
 1313: "Traps and hurts the foe in\n"
 1314: "quicksand for 2 to 5 turns.");
+
+SHEER COLD
 1317: "A chilling attack that\n"
 1318: "causes fainting if it hits.");
+
+MUDDY WATER
 1321: "Attacks with muddy water.\n"
 1322: "May lower accuracy.");
-1325: "Shoots 2 to 5 seeds in a row\n"
-1326: "to strike the foe.");
-1329: "An extremely speedy and\n"
-1330: "unavoidable attack.");
+
+BULLET SEED
+1325: "Semina inter 2-5 vices\n"
+1326: "iacit ob hostem iciendum."
+
+AERIAL ACE
+1329: "Impetus summe celer et\n"
+1330: "inevitabilis."
+
+ICICLE SPEAR
 1333: "Attacks the foe by firing\n"
 1334: "2 to 5 icicles in a row.");
 
@@ -1234,15 +1324,17 @@ HOWL
 1345: "Baritum edit ad augendum\n"
 1346: "spiritum ac IMPETUM auget."
 
-1349: "Slashes the foe with sharp\n"
-1350: "claws.");
+DRAGON CLAW
+1349: "Hostem unguibus acribus\n"
+1350: "lacerat."
 
+FRENZY PLANT
 1353: "Powerful, but leaves the\n"
 1354: "user immobile the next turn.");
 
 BULK UP
-1357: "Crassificat se ob levandum\n"
-1358: "ambo IMPETUM ac DEFENSIONEM.");
+1357: "Crassificat se ob levandos\n"
+1358: "ambo IMPETUM ac DEFENSIONEM."
 
 1361: "Bounces up, then down the\n"
 1362: "next turn. May paralyze.");
@@ -1265,7 +1357,7 @@ VOLT TACKLE
 
 MAGICAL LEAF
 1381: "Fronde mira impetit quae\n"
-1382: "non elusa esse potest."
+1382: "non elusam esse potest."
 
 WATER SPORT
 1385: "Qui utitur madefactum erit\n"
@@ -1288,9 +1380,14 @@ SHOCK WAVE
 1405: "Velox et inevitabilis\n"
 1406: "impetus electricus."
 
-1409: "Attacks with ultrasonic\n"
-1410: "waves. May confuse the foe.");
+WATER PULSE
+1409: "Undis ultrasonicis impetit.\n"
+1410: "Potest hostem stupefacere."
+
+DOOM DESIRE
 1413: "Summons strong sunlight to\n"
 1414: "attack 2 turns later.");
+
+PSYCHO BOOST
 1417: "Allows a full-power attack,\n"
 1418: "but sharply lowers SP. ATK.");

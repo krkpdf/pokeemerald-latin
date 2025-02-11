@@ -107,7 +107,7 @@
 1289: "sciunt super aqua itinerare poterunt.\p"
 1290: "Hoc donum meum tibi est. {PLAYER}, \n"
 1291: "certus sum te eo recte uti posse.$"
-1294: "PATER: MA42 SPECIEM continet.\p"
+1294: "PATER: MT42 SPECIEM continet.\p"
 1295: "Vim motuum duplicat si POKéMON\n"
 1296: "venenatum, aut adustum sit aut\l"
 1297: "ei paralysim datum est.\p"

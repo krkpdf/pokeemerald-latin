@@ -20,7 +20,7 @@
 184:  "Itaque, nam, total bummer, puer!\p"
 185:  "Heus, nam, tu! Claude id, scisne?\n"
 186:  "Modo, scisne, accipe hunc!$"
-190:  "Id est, quasi, MA41, scisne?\n"
+190:  "Id est, quasi, MT41, scisne?\n"
 191:  "Heus, TORMENTUM est, exaudisne me?\p"
 192:  "Nam, prohibit virum alium eodem motu\n"
 193:  "bis deinceps uti, vides?\p"

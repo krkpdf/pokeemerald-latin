@@ -24,7 +24,7 @@
 1035: "Utere in POKéMON et motus ad semina\n"
 1036: "celeriter iaculanda discebit.$"
 1039: "Verbum concilii!\p"
-1040: "MA, MACHINA ARTIS, tantum usui uni\n"
+1040: "MT, MACHINA TECHNICA, tantum usui uni\n"
 1041: "prodest.\p"
 1042: "Simul atque utaris, perdetur.\n"
 1043: "Meditare bis antequam utaris!$"

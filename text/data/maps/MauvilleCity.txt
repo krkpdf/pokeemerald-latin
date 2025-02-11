@@ -99,7 +99,7 @@
 603:  "VATESIUS: Uahahahaha!\p"
 604:  "Scivi, {PLAYER}{KUN}! Scivi me recte\n"
 605:  "seligisse tibi rogantem!\p"
-606:  "Haec est gratia mea--MA FULMEN\n"
+606:  "Haec est gratia mea--MT FULMEN\n"
 607:  "continentem!\p"
 608:  "Progredere, eam meritus est!$"
 611:  "VATESIUS: Uahahahaha!\p"

@@ -17,7 +17,7 @@
 351:  "Dilectio in profundo viscerum…\p"
 352:  "Oh, salve, non vidisti, num vidisti?\n"
 353:  "Recte, non refert.\p"
-354:  "Quomodo iuvabit te hanc MA pro POKéMON\n"
+354:  "Quomodo iuvabit te hanc MT pro POKéMON\n"
 355:  "tuis recipere?$"
 358:  "Affectio mea ad POKéMON mea…\n"
 359:  "Certus sum dilectionem mutuam esse!\p"

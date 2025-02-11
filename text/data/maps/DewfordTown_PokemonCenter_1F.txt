@@ -4,4 +4,4 @@
 33:   "invenire illic.$"
 36:   "Etiamsi POKéMON cadit et non potest\n"
 37:   "certare, nihilominus potest uti motus\l"
-38:   "a MACHINA LATENTI (ML) docturos.$"
+38:   "a MACHINA ABDITA (MA) docturos.$"

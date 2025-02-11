@@ -317,7 +317,7 @@
 361: const u8 gText_ICanPayVar1[] = _("I can pay ¥{STR_VAR_1}.\nWould that be okay?");
 362: const u8 gText_TurnedOverVar1ForVar2[] = _("Turned over the {STR_VAR_2}\nand received ¥{STR_VAR_1}.");
 363: const u8 gText_PokedollarVar1[] = _("¥{STR_VAR_1}");
-364:  "MUTA"
+364:  "PERMUTA"
 365:  "MITTE"
 366:  "MUTA"
 367:  "INFO"
@@ -667,7 +667,7 @@
 701:  "RERUM"
 702:  "CLAVIUM"
 703: const u8 gText_Poke_Balls[] = _("POKé BALLS");
-704:  "ML & MA"
+704:  "MA et MT"
 705:  "BACCARUM"
 706:  "PC ALICUIUS"
 707:  "PC IANETTAE"

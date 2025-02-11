@@ -836,180 +836,299 @@ STORAGE KEY
 1115: "A device by DEVON\n"
 1116: "that signals any\n"
 1117: "unseeable POKéMON.");
-1121: "Powerful, but makes\n"
-1122: "the user flinch if\n"
-1123: "hit by the foe.");
-1126: "Hooks and slashes\n"
-1127: "the foe with long,\n"
-1128: "sharp claws.");
-1131: "Generates an\n"
-1132: "ultrasonic wave\n"
-1133: "that may confuse.");
-1136: "Raises SP. ATK and\n"
-1137: "SP. DEF by focusing\n"
-1138: "the mind.");
-1141: "A savage roar that\n"
-1142: "makes the foe flee \n"
-1143: "to end the battle.");
-1146: "Poisons the foe\n"
-1147: "with a toxin that\n"
-1148: "gradually worsens.");
-1151: "Creates a hailstorm\n"
-1152: "that damages all\n"
-1153: "types except ICE.");
-1156: "Bulks up the body\n"
-1157: "to boost both\n"
-1158: "ATTACK & DEFENSE.");
-1161: "Shoots 2 to 5 seeds\n"
-1162: "in a row to strike\n"
-1163: "the foe.");
-1166: "The attack power\n"
-1167: "varies among\n"
-1168: "different POKéMON.");
-1171: "Raises the power of\n"
-1172: "FIRE-type moves\n"
-1173: "for 5 turns.");
-1176: "Enrages the foe so\n"
-1177: "it can only use\n"
-1178: "attack moves.");
-1181: "Fires an icy cold\n"
-1182: "beam that may\n"
-1183: "freeze the foe.");
-1186: "A brutal snow-and-\n"
-1187: "wind attack that\n"
-1188: "may freeze the foe.");
-1191: "Powerful, but needs\n"
-1192: "recharging the\n"
-1193: "next turn.");
-1196: "Creates a wall of\n"
-1197: "light that lowers\n"
-1198: "SP. ATK damage.");
-1201: "Negates all damage,\n"
-1202: "but may fail if used\n"
-1203: "in succession.");
-1206: "Raises the power of\n"
-1207: "WATER-type moves\n"
-1208: "for 5 turns.");
-1211: "Recovers half the\n"
-1212: "HP of the damage \n"
-1213: "this move inflicts.");
-1216: "Prevents status\n"
-1217: "abnormality with a\n"
-1218: "mystical power.");
-1221: "The less the user\n"
-1222: "likes you, the more\n"
-1223: "powerful this move.");
-1226: "Absorbs sunlight in\n"
-1227: "the 1st turn, then\n"
-1228: "attacks next turn.");
-1231: "Slams the foe with\n"
-1232: "a hard tail. It may\n"
-1233: "lower DEFENSE.");
-1236: "A powerful electric\n"
-1237: "attack that may\n"
-1238: "cause paralysis.");
-1241: "Strikes the foe\n"
-1242: "with a thunderbolt.\n"
-1243: "It may paralyze.");
-1246: "Causes a quake\n"
-1247: "that has no effect\n"
-1248: "on flying foes.");
-1251: "The more the user\n"
-1252: "likes you, the more\n"
-1253: "powerful this move.");
-1256: "Digs underground\n"
-1257: "the 1st turn, then\n"
-1258: "strikes next turn.");
-1261: "A powerful psychic\n"
-1262: "attack that may\n"
-1263: "lower SP. DEF.");
-1266: "Hurls a dark lump\n"
-1267: "at the foe. It may\n"
-1268: "lower SP. DEF.");
-1271: "Destroys barriers\n"
-1272: "like LIGHT SCREEN\n"
-1273: "and causes damage.");
-1276: "Creates illusory\n"
-1277: "copies to enhance\n"
-1278: "elusiveness.");
-1281: "Creates a wall of\n"
-1282: "light that weakens\n"
-1283: "physical attacks.");
-1286: "Zaps the foe with a\n"
-1287: "jolt of electricity\n"
-1288: "that never misses.");
-1291: "Looses a stream of\n"
-1292: "fire that may burn\n"
-1293: "the foe.");
-1296: "Hurls sludge at the\n"
-1297: "foe. It may poison\n"
-1298: "the foe.");
-1301: "Causes a sandstorm\n"
-1302: "that hits the foe\n"
-1303: "over several turns.");
-1306: "A powerful fire\n"
-1307: "attack that may\n"
-1308: "burn the foe.");
-1311: "Stops the foe from\n"
-1312: "moving with rocks.\n"
-1313: "May lower SPEED.");
-1316: "An extremely fast\n"
-1317: "attack that can't\n"
-1318: "be avoided.");
-1321: "Prevents the foe\n"
-1322: "from using the same\n"
-1323: "move in a row.");
-1326: "Raises ATTACK when\n"
-1327: "poisoned, burned,\n"
-1328: "or paralyzed.");
-1331: "Adds an effect to\n"
-1332: "attack depending\n"
-1333: "on the location.");
-1336: "The user sleeps for\n"
-1337: "2 turns to restore\n"
-1338: "health and status.");
-1341: "Makes it tough to\n"
-1342: "attack a foe of the\n"
-1343: "opposite gender.");
-1346: "While attacking,\n"
-1347: "it may steal the\n"
-1348: "foe's held item.");
-1351: "Spreads hard-\n"
-1352: "edged wings and\n"
-1353: "slams into the foe.");
-1356: "Switches abilities\n"
-1357: "with the foe on the\n"
-1358: "turn this is used.");
-1361: "Steals the effects\n"
-1362: "of the move the foe\n"
-1363: "is trying to use.");
-1366: "Enables full-power\n"
-1367: "attack, but sharply\n"
-1368: "lowers SP. ATK.");
-1372: "Attacks the foe\n"
-1373: "with sharp blades\n"
-1374: "or claws.");
-1377: "Flies up on the\n"
-1378: "first turn, then\n"
-1379: "attacks next turn.");
-1382: "Creates a huge\n"
-1383: "wave, then crashes\n"
-1384: "it down on the foe.");
-1387: "Builds enormous\n"
-1388: "power, then slams\n"
-1389: "the foe.");
-1392: "Looses a powerful\n"
-1393: "blast of light that\n"
-1394: "reduces accuracy.");
-1397: "A rock-crushingly\n"
-1398: "tough attack that\n"
-1399: "may lower DEFENSE.");
-1402: "Attacks the foe\n"
-1403: "with enough power\n"
-1404: "to climb waterfalls.");
-1407: "Dives underwater\n"
-1408: "the 1st turn, then\n"
-1409: "attacks next turn.");
+
+FOCUS PUNCH
+1121: "Validus, sed utenti\n"
+1122: "titubatio infertur\n"
+1123: "si a hoste iciatur."
+
+DRAGON CLAW
+1126: "Impigit ac lacerat\n"
+1127: "hostem unguibus\n"
+1128: "longis, acribusque."
+
+WATER PULSE
+1131: "Undam ultrasonicam,\n"
+1132: "quae stupefacere\n"
+1133: "potest, causat."
+
+CALM MIND
+1136: "IMP SP. ac DEF SP.\n"
+1137: "mente intendendo\n"
+1138: "auget."
+
+ROAR
+1141: "Rugitus immanis qui\n"
+1142: "hostem certamen\n"
+1143: "effugere coget."
+
+TOXIC
+1146: "Hostem toxico quod\n"
+1147: "gradatim gravius\n"
+1148: "fit venenat."
+
+HAIL
+1151: "Grandinem evocat,\n"
+1152: "quae typos omnes\n"
+1153: "praeter GELU laedit."
+
+BULK UP
+1156: "Corpus crassificat\n"
+1157: "ob ambo IMP ac DEF\n"
+1158: "levandos."
+
+BULLET SEED
+1161: "Semina inter 2-5\n"
+1162: "vices iacit ob\n"
+1163: "hostem iciendum."
+
+HIDDEN POWER
+1166: "Vis impetus variat\n"
+1167: "inter POKéMON\n"
+1168: "diversa."
+
+SUNNY DAY
+1171: "Vim motumm typi\n"
+1172: "IGNIS quinque\n"
+1173: "vices auget."
+
+TAUNT
+1176: "Hostem inflammat ut\n"
+1177: "tantum motibus uti\n"
+1178: "offensis possit."
+
+ICE BEAM
+1181: "Radium iacit ut gelu\n"
+1182: "frigidum qui hostem\n"
+1183: "congelare potest."
+
+BLIZZARD
+1186: "Impetus nivis ac\n"
+1187: "ventis ferus qui\n"
+1188: "hostem gelare quit."
+
+HYPER BEAM
+1191: "Validus, sed proxima\n"
+1192: "vice necesse erit\n"
+1193: "recuperare."
+
+LIGHT SCREEN
+1196: "Murum ex luce\n"
+1197: "creat qui damnum\n"
+1198: "IMP SP. minuit."
+
+PROTECT
+1201: "Damnum omnem vetat,\n"
+1202: "sed si in serie\n"
+1203: "utaris deficiet."
+
+RAIN DANCE
+1206: "Vim motuum typi\n"
+1207: "AQUAE quinque\n"
+1208: "vicet auget."
+
+GIGA DRAIN
+1211: "Dimidium SL damni\n"
+1212: "recuperat quod\n"
+1213: "motus hic infligit."
+
+SAFEGUARD
+1216: "Status mala per\n"
+1217: "vim arcanam\n"
+1218: "prohibet."
+
+FRUSTRATION
+1221: "Quo minus utenti\n"
+1222: "placeas, eo plus hic\n"
+1223: "motus validior fiet."
+
+SOLAR BEAM
+1226: "Solis lucem vice\n"
+1227: "prima sorbet, tum\n"
+1228: "proxima impetit."
+
+IRON TAIL
+1231: "Hostem coda dura\n"
+1232: "tundit. Potest\n"
+1233: "DEF minuere."
+
+THUNDERBOLT
+1236: "Impetus electricus\n"
+1237: "fortis qui potest\n"
+1238: "paralysim dare."
+
+THUNDER
+1241: "Hostem fulmine\n"
+1242: "icit. Potest\n"
+1243: "paralysim dare."
+
+EARTHQUAKE
+1246: "Tremorem causat\n"
+1247: "qui nullum effectum\n"
+1248: "est in volantibus."
+
+RETURN
+1251: "Quo plus utenti\n"
+1252: "placeas, eo validior\n"
+1253: "motus hic."
+
+DIG
+1256: "Prima vice sub\n"
+1257: "terram fodit, tum\n"
+1258: "proxima assilit."
+
+PSYCHIC
+1261: "Impetus fortis\n"
+1262: "mentalis qui DEF SP.\n"
+1263: "minuere potest."
+
+SHADOW BALL
+1266: "Globum nigrum iacit\n"
+1267: "in hostem. Potest\n"
+1268: "DEF SP. minuere."
+
+BRICK BREAK
+1271: "Obices ut LUCIS\n"
+1272: "VELUM frangit\n"
+1273: "et damnum infligit."
+
+DOUBLE TEAM
+1276: "Imitamina simulata\n"
+1277: "creat ad augendam\n"
+1278: "elusitatem."
+
+REFLECT
+1281: "Murum e lumine facit\n"
+1282: "qui impetos physicos\n"
+1283: "elevat."
+
+SHOCK WAVE
+1286: "Hostem unda excutit\n"
+1287: "electrica quae\n"
+1288: "numquam deficit."
+
+FLAMETHROWER
+1291: "Flumen igneum\n"
+1292: "liberat quod hostem\n"
+1293: "adurere potest."
+
+SLUDGE BOMB
+1296: "Pituita in hostem\n"
+1297: "conicit. Potest\n"
+1298: "hostem venenare."
+
+SANDSTORM
+1301: "Procellam arenosam\n"
+1302: "causat quae hostem\n"
+1303: "vices multas laedit."
+
+FIRE BLAST
+1306: "Impetus fortis\n"
+1307: "igneus qui hostem\n"
+1308: "adurere potest."
+
+ROCK TOMB
+1311: "Hostem lapidibus\n"
+1312: "movere prohibet et\n"
+1313: "CELER. minuit."
+
+AERIAL ACE
+1316: "Impetus maximopere\n"
+1317: "velox qui non\n"
+1318: "elusum esse potest."
+
+TORMENT
+1321: "Prohibet hostem\n"
+1322: "eodem motu uti\n"
+1323: "in serie."
+
+FACADE
+1326: "IMP auget si sit\n"
+1327: "venenatum, adustum\n"
+1328: "an paralysim habet."
+
+SECRET POWER
+1331: "Effectum impetui\n"
+1332: "addit secundum\n"
+1333: "loci naturam."
+
+REST
+1336: "Qui utitur, 2 vices\n"
+1337: "dormit ut salutem\n"
+1338: "et statum recuret."
+
+ATTRACT
+1341: "Efficit ut difficile\n"
+1342: "sit hostem sexu\n"
+1343: "contrario impetere."
+
+THIEF
+1346: "Dum impetit, potest\n"
+1347: "rem a hoste tentam\n"
+1348: "furari."
+
+STEEL WING
+1351: "Alas acie dura\n"
+1352: "extendit et in\n"
+1353: "hostem incurrit."
+
+SKILL SWAP
+1356: "Opes cum hoste\n"
+1357: "permutat vice\n"
+1358: "in qua utaris."
+
+SNATCH
+1361: "Effecta motus quo\n"
+1362: "hostis uti conatur\n"
+1363: "furatur."
+
+OVERHEAT
+1366: "Efficit ut summa vi\n"
+1367: "impetat, sed IMP SP.\n"
+1368: "praecipiter minuit."
+
+CUT
+1372: "Hostem laminis\n"
+1373: "acribus aut\n"
+1374: "unguibus impetit."
+
+FLY
+1377: "Vice prima sursum\n"
+1378: "volat, tum vice\n"
+1379: "proxima impetit."
+
+SURF
+1382: "Undam magnam creat,\n"
+1383: "tum vi super hoste\n"
+1384: "cadit."
+
+STRENGTH
+1387: "Vim ingentem\n"
+1388: "exstruit, tum\n"
+1389: "tundit hostem."
+
+FLASH
+1392: "Flabrum fortem ex\n"
+1393: "luce emittit quod\n"
+1394: "accurat. minuit."
+
+ROCK SMASH
+1397: "Impetus lapidem\n"
+1398: "frangens qui DEF.\n"
+1399: "minuere potest."
+
+WATERFALL
+1402: "Hostem tanta vi\n"
+1403: "impetit ut scandat\n"
+1404: "cataractam."
+
+DIVE
+1407: "Urinatur sub aquam\n"
+1408: "prima vice, tum\n"
+1409: "proxima assilit."
+
+
+
 1413: "A parcel for PROF.\n"
 1414: "OAK from a POKéMON\n"
 1415: "MART's clerk.");

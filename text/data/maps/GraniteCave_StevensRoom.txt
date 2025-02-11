@@ -7,7 +7,7 @@
 93:   "Sub tanta tribulatione passus est ob\n"
 94:   "istam ferrendam. Egeo gratias agere.\p"
 95:   "Sine me videre…\n"
-96:   "Tibi dabo hanc ML.\p"
+96:   "Tibi dabo hanc MT.\p"
 97:   "Continet motum, qui mihi ante omnia\n"
 98:   "delectet, ALA ARIE.$"
 101:  "AURELIUS: POKéMON tui per capaces\n"

@@ -85,7 +85,7 @@
 715:  "evanuit…$"
 718:  "Vae mihi!\p"
 719:  "Avunculus meus in VILLIS MALVARUM mihi\n"
-720:  "dicit LAPIDIS FRACTIONEM portandam\l"
+720:  "dicit LAPIDIS FRACTURAM portandam\l"
 721:  "esse si essem ad VIAM 111 iturus!\p"
 722:  "Avunculus meus? Is adversum TABERNAM\n"
 723:  "BIROTARUM in VILLIS MALVARUM habitat.$"
