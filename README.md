@@ -19,7 +19,8 @@ The base English text used for translation is also extracted from the Decompilat
 1. Download this project using `git clone https://github.com/krkpdf/pokeemerald-latin`
 2. Translate the text and submit a pull request with your changes
 3. Extract, translate and manually replace game graphics as needed
-4. Automatically replace text in the Decompilation Project folder and compile using `./make.sh` 
+4. Change ABILITY_NAME_LENGTH in include/globals.h to 13
+5. Automatically replace text in the Decompilation Project folder and compile using `./make.sh` 
 
 
 https://discord.gg/j55s4pwrhw
