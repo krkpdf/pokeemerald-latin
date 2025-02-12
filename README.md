@@ -23,4 +23,10 @@ The base English text used for translation is also extracted from the Decompilat
 5. Automatically replace text in the Decompilation Project folder and compile using `./make.sh` 
 
 
+## DISCLAIMER
+
+This project is an unofficial, fan-made translation of Pokémon Emerald into Latin and is intended for educational and linguistic purposes only. It is not affiliated with, endorsed by, or approved by Nintendo, Game Freak, The Pokémon Company, or any other official entity associated with the Pokémon franchise.
+
+Pokémon and all related trademarks, logos, and intellectual property are the property of their respective owners. This project is a non-commercial effort, and no financial gain is derived from its distribution. If you represent Nintendo, Game Freak, or The Pokémon Company and have concerns regarding this project, please contact me, and I will promptly address the issue.
+
 https://discord.gg/j55s4pwrhw
