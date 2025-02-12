@@ -41,4 +41,4 @@
 142:   "ac pharmaca pro diaetis melioribus.\p"
 143:   "“Nuper, DEVON instrumenta pro POKéMON\n"
 144:   "TRAHITORIBUS nundinari incipit, inter\l"
-145:   "quae systema POKéNAVIS et POKé BALL.”$"
+145:   "quae systema POKéNAVIS et POKé PILAS.”$"

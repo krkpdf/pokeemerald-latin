@@ -46,7 +46,7 @@
 363:   "Res omnes in SACCO, et…$"
 
 
-366:   "{RIVAL} POKé BALL est!\p"
+366:   "{RIVAL} POKé PILA est!\p"
 367:   "Melius est hic ubi sit linquere.$"
 
 370:   "MAIA: {PLAYER}{KUN}!\p" 

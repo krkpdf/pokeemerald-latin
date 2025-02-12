@@ -60,7 +60,7 @@
 288:   "Puer, certe difficile est commentarium\n"
 289:   "describere…$"
 292:   "Commentarium huius discipuli est…\p"
-293:   "POKéMON captanda sunt POKé BALLS\n"
+293:   "POKéMON captanda sunt POKé PILIS\n"
 294:   "utendo.\p"
 295:   "Usque sex POKéMON possunt TRAHITOREM\n"
 296:   "comitari.\p"

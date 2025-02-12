@@ -1,83 +1,85 @@
         "capiendorum POKéMO\n"
+BALL = PILA
+
 2: "?????"
 
 MASTER BALL
-6:   "BALL optimum qui\n"
-7:   "POKéMON capit\n"
+6:   "PILA omnium optima\n"
+7:   "quae POKéMON capit\n"
 8:   "sine defectu."
 
 
 ULTRA BALL
-11:   "Habet proportionem\n"
+11:   "Proportionem habet\n"
 12:   "altiorem capiendi\n"
-13:   "quam MAGNUM BALL."
+13:   "quam SUPER PILA."
 
 GREAT BALL
-16:   "Habet proportionem\n"
+16:   "Proportionem habet\n"
 17:   "altiorem capiendi\n"
-18:   "quam POKé BALL."
+18:   "quam POKé PILA."
 
 POKE BALL
 21:   "Instrumentum ad\n"
-22:   "silvestria POKéMON\n"
-23:   "capienda est."
+22:   "POKéMON silvestria\n"
+23:   "capienda."
 
 SAFARI BALL
-26: "BALL speciale quo\n"
+26: "PILA specialis quae\n"
 27: "tantum in AREA\n"
 28: "SAFARIS uti potes."
 
 NET BALL
-31: "BALL efficacius in\n"
+31: "PILA efficacior in\n"
 32: "POKéMON typi AQUAE\n"
 33: "et CIMICIS."
 
 DIVE BALL
-36: "BALL efficacius in\n"
+36: "PILA efficacior in\n"
 37: "POKéMON in profundo\n"
 38: "maris."
 
 LEVEL BALL
-41: "BALL efficacius ad\n"
-42: "capiendos POKéMON\n"
-43: "infirmos."
+41: "PILA efficacior ad\n"
+42: "capienda POKéMON\n"
+43: "infirma."
 
 REPEAT BALL
-46: "BALL efficacius in\n"
-47: "POKéMON qua iam\n"
+46: "PILA efficacior in\n"
+47: "POKéMON quae iam\n"
 48: "capta fuerunt."
 
 TIMER BALL
-51: "BALL efficacius si\n"
+51: "PILA efficacior si\n"
 52: "certamen multas\n"
 53: "vices moratur."
 
 LUXURY BALL
-56: "BALL commodum\n"
-57: "quod POKéMON\n"
+56: "PILA commoda\n"
+57: "quae POKéMON\n"
 58: "amiciora facit."
 
 PREMIER BALL
-61: "BALL rarum factum\n"
+61: "PILA rara facta\n"
 62: "in commemoratione\n"
 63: "alicuius rei."
 
 POTION
 67:   "Restaurat SL\n"
-68:   "unius POKéMON per\n"
-69:   "20 puncta."
+68:   "unius POKéMON\n"
+69:   "20 punctis."
 
 72:   "Sanat POKéMON\n"
 73:   "venenatum."
 
 76:   "Sanat POKéMON\n"
-77:   "ardentem."
+77:   "adustum."
 
 80:   "Regelat POKéMON\n"
 81:   "gelatum."
 
 84:   "Expergit POKéMON\n"
-85:   "dormientum."
+85:   "dormientem."
 
 88:   "Sanat a POKéMON\n"
 89:   "paralysim."
@@ -86,82 +88,82 @@ POTION
 93:   "SL et statum\n"
 94:   "unius POKéMON."
 
-97:   "Restaurat plena\n"
+97:   "Restaurat plene\n"
 98:   "SL unius POKéMON."
 
 101:  "Restaurat SL\n"
-102:  "unius POKéMON per\n"
-103:  "200 puncta."
+102:  "unius POKéMON\n"
+103:  "200 punctis."
 
 106:  "Restaurat SL\n"
-107:  "unius POKéMON per\n"
-108:  "50 puncta."
+107:  "unius POKéMON\n"
+108:  "50 punctsi."
 
-111:  "Sanat omnes\n"
-112:  "anomalias status\n"
-113:  "unius POKéMON."
+111:  "Sanat mala omnia\n"
+112:  "status unius\n"
+113:  "POKéMON."
 
-116:  "Revivescit POKéMON\n"
+116:  "Redanimat POKéMON\n"
 117:  "casum ad dimidium\n"
 118:  "SL eius."
 
       |===================|
-121:  "Revivescit POKéMON\n"
-122:  "casum implens\n"
-123:  "SL eius plene."
+121:  "Redanimat POKéMON\n"
+122:  "casum, plene SL\n"
+123:  "eius implens."
 
-126:  "Aqua minerali\n"
-127:  "quae SL restaurat\n"
-128:  "per 50 puncta."
+126:  "Aqua mineralis\n"
+127:  "quae SL 50 punctis\n"
+128:  "restaurat."
 
 131:  "Mulsa carbonata\n"
-132:  "quae restaurat SL\n"
-133:  "per 60 puncta."
+132:  "quae SL 60 punctis\n"
+133:  "restaurat."
 
 136:  "Potio dulcissima\n"
-137:  "quae restaurat SL\n"
-138:  "per 80 points."
+137:  "quae SL 80 punctis\n"
+138:  "restaurat."
 
-141:  "Lac nutrimentosum\n"
-142:  "quod restaurat SL\n"
-143:  "per 100 puncta."
+141:  "Lac alibile quod\n"
+142:  "SL 100 punctis\n"
+143:  "restaurat."
 
 146:  "Pulvis amarus\n"
-147:  "qui restaurat SL\n"
-148:  "per 50 puncta.");
+147:  "qui SL 50 punctis\n"
+148:  "restaurat."
 
 151:  "Radix amara\n"
-152:  "quae restaurat SL\n"
-153:  "per 200 puncta."
+152:  "quae SL 200 punctis\n"
+153:  "restaurat."
 
 156:  "Pulvis amarus\n"
-157:  "qui sanat omnes\n"
-158:  "anomalias status."
+157:  "qui omnia mala\n"
+158:  "status sanat."
 
       |===================|
 161:  "Herba amarissima\n"
-162:  "quae revivescit\n"
-163:  "unum POKéMON casum."
+162:  "quae POKéMON casum\n"
+163:  "redanimat."
 
-166:  "Restaurat PP\n"
-167:  "motus selecti\n"
-168:  "per 10."
+166:  "PP motus selecti\n"
+167:  "10 punctis\n"
+168:  "restaurat."
 
-171:  "Restaurat plene\n"
-172:  "PP unius motus\n"
-173:  "selecti."
+171:  "PP unius motus\n"
+172:  "selecti plene\n"
+173:  "restaurat."
 
       |===================|
 176:  "Restaurat PP omnium\n"
-177:  "motuum per 10."
+177:  "motuum 10 punctis."
 
 180:  "Restaurat plene\n"
-181:  "PP motus unius\n"
+181:  "PP unius motus\n"
 182:  "POKéMON."
 
-185:  "Specialitas localis\n"
-186:  "quae omnes mundat\n"
-187:  "anomalias status."
+185:  "Specialitas loci\n"
+186:  "quae omnia mundat\n"
+187:  "mala status."
 
 190:  "Tibia vitrea quae\n"
 191:  "expergit POKéMON\n"
@@ -176,21 +178,21 @@ POTION
 202:  "ab illecebra."
 
 205:  "Tibia vitrea quae\n"
-206:  "arcet POKéMON\n"
-207:  "silvestres."
+206:  "POKéMON arcet\n"
+207:  "silvestria."
 
       |===================|
 210:  "Tibia vitrea quae\n"
-211:  "illicit POKéMON\n"
+211:  "POKéMON inescat\n"
       "silvestres." !!!!!!!!!! have to add manually!!!!!!
 
 214:  "Succus 100% purus\n"
 215:  "qui SL restaurat\n"
-216:  "per 20 puncta."
+216:  "20 punctis."
 
-219:  "Revivescit plene et\n"
-220:  "restaurat omnes\n"
-221:  "POKéMON casos."
+219:  "Redanimat plene\n"
+220:  "et restaurat omnia\n"
+221:  "POKéMON casa."
 
 225:  "Sal extractus ab\n"
 226:  "profunditate abyssi\n"
@@ -201,22 +203,22 @@ POTION
 232:  "SPELUNCAE VADI."
 
 235:  "Testa facta ex\n"
-236:  "res antiqua. Potest\n"
-237:  "vendi parvo."
+236:  "re antiqua. Potest\n"
+237:  "vili vendi."
 
 240:  "Testa facta ex\n"
-241:  "res antiqua. Potest\n"
-242:  "vendi parvo."
+241:  "re antiqua. Potest\n"
+242:  "vili vendi."
 
 245:  "Testa facta ex\n"
-246:  "res antiqua. Potest\n"
-247:  "vendi parvo."
+246:  "re antiqua. Potest\n"
+247:  "vili vendi."
 
 250:  "Testa facta ex\n"
-251:  "res antiqua. Potest\n"
-252:  "vendi parvo."
+251:  "re antiqua. Potest\n"
+252:  "vili vendi."
 
-256:  "Auget SL naturale\n"
+256:  "Auget SL naturalem\n"
 257:  "unius POKéMON."
 
       |===================|
@@ -238,7 +240,7 @@ POTION
 
 280:  "Auget gradum\n"
 281:  "unius POKéMON\n"
-282:  "per unum."
+282:  "uno."
 
 285:  "Auget tectum PP\n"
 286:  "unius motus\n"
@@ -249,64 +251,63 @@ POTION
 292:  "POKéMON."
 
 295:  "Auget PP unius\n"
-296:  "motus ad maximam\n"
-297:  "possibilem."
+296:  "motus ad maxima\n"
+297:  "puncta eius."
 
       |===================|
-301:  "Prohibet certamine\n"
-302:  "subductionem\n"
+301:  "Certamine prohibet\n"
+302:  "deminutionem\n"
 303:  "staterarum."
 
-306:  "Auget proportionem\n"
-307:  "ictus crisimi\n"
-308:  "per unum certamen."
+306:  "Auget rationem\n"
+307:  "ictuum gravium unum\n"
+308:  "certamen."
 
 311:  "Auget stateram\n"
-312:  "IMPETI per unum\n"
+312:  "IMPETI unum\n"
 313:  "certamen."
 
       |===================|
 316:  "Auget stateram\n"
-317:  "DEFENSIONIS per\n"
+317:  "DEFENSIONIS\n"
 318:  "unum certamen."
 
 321:  "Auget stateram\n"
-322:  "CELERITATEM per\n"
+322:  "CELERITATIS\n"
 323:  "unum certamen."
 
 326:  "Auget accurationem\n"
-327:  "motuum impetendi\n"
-328:  "per unum certamen."
+327:  "motuum offensorum\n"
+328:  "unum certamen."
 
 331:  "Auget stateram\n"
-332:  "IMP SP. per unum\n"
+332:  "IMP SP. unum\n"
 333:  "certamen."
 
 336:  "Utere ad fugiendum\n"
 337:  "ex quolibet certamine\n"
 338:  "cum POKéMON."
 
-341:  "Utere fugere ex\n"
-342:  "quolibet certamine\n"
+341:  "Utere ad fugiendum\n"
+342:  "ex quolibet certamine\n"
 343:  "cum POKéMON."
       |===================|
 347:  "Repellit POKéMON\n"
-348:  "infirmos silvestres\n"
-349:  "per 200 passi."
+348:  "silvestria infirma\n"
+349:  "200 gradibus."
 
 352:  "Repellit POKéMON\n"
-353:  "infirmos silvestres\n"
-354:  "per 250 passi."
+353:  "silvestria infirma\n"
+354:  "250 gradibus."
 
 ESCAPE ROPE
 357: "Utere ad effugiendum\n"
 358: "continue ex caverna\n"
 359: "aut crypta."
 
-
-362: "Repels weak wild\n"
-363: "POKéMON for 100\n"
-364: "steps.");
+362: "Repellit POKéMON\n"
+363: "silvestria infirma\n"
+364: "100 gradibus."
 
 X STONES
 368: "Genera quaedam\n"
@@ -334,24 +335,29 @@ X STONES
 395: "coget."
 
 TINYMUSHROOM
-399: "A plain mushroom\n"
-400: "that would sell\n"
-401: "at a cheap price.");
-404: "A rare mushroom\n"
-405: "that would sell at a\n"
-406: "high price.");
-409: "A pretty pearl\n"
-410: "that would sell at a\n"
-411: "cheap price.");
-414: "A lovely large pearl\n"
-415: "that would sell at a\n"
-416: "high price.");
-419: "Beautiful red sand.\n"
-420: "Can be sold at a\n"
-421: "high price.");
-424: "A red gem shard.\n"
-425: "It would sell for a\n"
-426: "very high price.");
+399: "Fungus simplex\n"
+400: "qui pretio vili\n"
+401: "vendatur."
+
+404: "Fungus rarus\n"
+405: "qui magno pretio\n"
+406: "vendatur."
+
+409: "Margarita iucunda\n"
+410: "quae pretio parvo\n"
+411: "vendatur."
+
+414: "Margarita magna et\n"
+415: "dulcis quae magno\n"
+416: "pretio vendatur."
+
+419: "Arena pulchra rubra.\n"
+420: "Potest pretio magno\n"
+421: "vendi."
+
+424: "Testa gemmae rubrae.\n"
+425: "Pretio magno vendi\n"
+426: "potest."
 
 NUGGET
 429: "Globulus ex auro\n"
@@ -366,328 +372,422 @@ HEART SCALE
 440: "A ZIGZAGOON-print\n"
 441: "MAIL to be held by\n"
 442: "a POKéMON.");
+
 445: "A WINGULL-print\n"
 446: "MAIL to be held by\n"
 447: "a POKéMON.");
+
 450: "A PIKACHU-print\n"
 451: "MAIL to be held by\n"
 452: "a POKéMON.");
+
 455: "A MAGNEMITE-print\n"
 456: "MAIL to be held by\n"
 457: "a POKéMON.");
+
 460: "A SLAKOTH-print\n"
 461: "MAIL to be held by\n"
 462: "a POKéMON.");
+
 465: "A WAILMER-print\n"
 466: "MAIL to be held by\n"
 467: "a POKéMON.");
+
 470: "MAIL featuring a\n"
 471: "sketch of the\n"
 472: "holding POKéMON.");
+
 475: "A DUSKULL-print\n"
 476: "MAIL to be held by\n"
 477: "a POKéMON.");
+
 480: "A BELLOSSOM-print\n"
 481: "MAIL to be held by\n"
 482: "a POKéMON.");
+
 485: "MAIL featuring a\n"
 486: "sketch of the\n"
 487: "holding POKéMON.");
+
 490: "A gorgeous-print\n"
 491: "MAIL to be held\n"
 492: "by a POKéMON.");
+
 495: "MAIL featuring the\n"
 496: "drawings of three\n"
 497: "POKéMON.");
-501: "A hold item that\n"
-502: "heals paralysis\n"
-503: "in battle.");
-506: "A hold item that\n"
-507: "awakens POKéMON\n"
-508: "in battle.");
-511: "A hold item that\n"
-512: "heals poisoning\n"
-513: "in battle.");
-516: "A hold item that\n"
-517: "heals a burn in\n"
-518: "battle.");
-521: "A hold item that\n"
-522: "defrosts POKéMON\n"
-523: "in battle.");
-526: "A hold item that\n"
-527: "restores 10 PP in\n"
-528: "battle.");
-531: "A hold item that\n"
-532: "restores 10 HP in\n"
-533: "battle.");
-536: "A hold item that\n"
-537: "heals confusion\n"
-538: "in battle.");
-541: "A hold item that\n"
-542: "heals any status\n"
-543: "problem in battle.");
-546: "A hold item that\n"
-547: "restores 30 HP in\n"
-548: "battle.");
-551: "A hold item that\n"
-552: "restores HP but\n"
-553: "may confuse.");
-556: "A hold item that\n"
-557: "restores HP but\n"
-558: "may confuse.");
-561: "A hold item that\n"
-562: "restores HP but\n"
-563: "may confuse.");
-566: "A hold item that\n"
-567: "restores HP but\n"
-568: "may confuse.");
-571: "A hold item that\n"
-572: "restores HP but\n"
-573: "may confuse.");
+
+501: "Res tenenda, quae\n"
+502: "paralysim sanat\n"
+503: "in certamine."
+
+506: "Res tenenda, quae\n"
+507: "POKéMON exsuscitat\n"
+508: "in certamine."
+
+511: "Res tenenda, quae\n"
+512: "veneficium sanat\n"
+513: "in certamine."
+
+516: "Res tenenda, quae\n"
+517: "adustionem sanat\n"
+518: "in certamine."
+
+521: "Res tenenda, quae\n"
+522: "POKéMON regelat\n"
+523: "in certamine."
+
+526: "Res tenenda, quae\n"
+527: "10 PP in certamine\n"
+528: "restaurat."
+
+531: "Res tenenda, quae\n"
+532: "SL 10 pinctis in\n"
+533: "certamine sanat."
+
+536: "Res tenenda, quae\n"
+537: "confusionem sanat\n"
+538: "in certamine."
+
+541: "Res tenenda, quae\n"
+542: "malum quidlibet\n"
+543: "status sanat."
+
+546: "Res tenenda, quae\n"
+547: "SL 30 punctis in\n"
+548: "certamine sanat."
+
+551: "Res tenenda, quae\n"
+552: "SL restaurat sed\n"
+553: "saepe stupefacit."
+
+556: "Res tenenda, quae\n"
+557: "SL restaurat sed\n"
+558: "saepe stupefacit."
+
+561: "Res tenenda, quae\n"
+562: "SL restaurat sed\n"
+563: "saepe stupefacit."
+
+566: "Res tenenda, quae\n"
+567: "SL restaurat sed\n"
+568: "saepe stupefacit."
+
+571: "Res tenenda, quae\n"
+572: "SL restaurat sed\n"
+573: "saepe stupefacit."
+
 576: "{POKEBLOCK} ingredient.\n"
 577: "Plant in loamy soil\n"
-578: "to grow RAZZ.");
+578: "to grow RAZZ."
+
 581: "{POKEBLOCK} ingredient.\n"
 582: "Plant in loamy soil\n"
-583: "to grow BLUK.");
+583: "to grow BLUK."
+
 586: "{POKEBLOCK} ingredient.\n"
 587: "Plant in loamy soil\n"
 588: "to grow NANAB.");
+
 591: "{POKEBLOCK} ingredient.\n"
 592: "Plant in loamy soil\n"
 593: "to grow WEPEAR.");
+
 596: "{POKEBLOCK} ingredient.\n"
 597: "Plant in loamy soil\n"
 598: "to grow PINAP.");
+
 601: "Makes a POKéMON\n"
 602: "friendly but lowers\n"
 603: "base HP.");
+
 606: "Makes a POKéMON\n"
 607: "friendly but lowers\n"
 608: "base ATTACK.");
+
 611: "Makes a POKéMON\n"
 612: "friendly but lowers\n"
 613: "base DEFENSE.");
+
 616: "Makes a POKéMON\n"
 617: "friendly but lowers\n"
 618: "base SP. ATK.");
+
 621: "Makes a POKéMON\n"
 622: "friendly but lowers\n"
 623: "base SP. DEF.");
+
 626: "Makes a POKéMON\n"
 627: "friendly but lowers\n"
 628: "base SPEED.");
+
+BERRIES
 631: "{POKEBLOCK} ingredient.\n"
 632: "Plant in loamy soil\n"
 633: "to grow CORNN.");
+
 636: "{POKEBLOCK} ingredient.\n"
 637: "Plant in loamy soil\n"
 638: "to grow MAGOST.");
+
 641: "{POKEBLOCK} ingredient.\n"
 642: "Plant in loamy soil\n"
 643: "to grow RABUTA.");
+
 646: "{POKEBLOCK} ingredient.\n"
 647: "Plant in loamy soil\n"
 648: "to grow NOMEL.");
+
 651: "{POKEBLOCK} ingredient.\n"
 652: "Plant in loamy soil\n"
 653: "to grow SPELON.");
+
 656: "{POKEBLOCK} ingredient.\n"
 657: "Plant in loamy soil\n"
 658: "to grow PAMTRE.");
+
 661: "{POKEBLOCK} ingredient.\n"
 662: "Plant in loamy soil\n"
 663: "to grow WATMEL.");
+
 666: "{POKEBLOCK} ingredient.\n"
 667: "Plant in loamy soil\n"
 668: "to grow DURIN.");
+
 671: "{POKEBLOCK} ingredient.\n"
 672: "Plant in loamy soil\n"
 673: "to grow BELUE.");
+
 676: "A hold item that\n"
 677: "raises ATTACK in\n"
-678: "a pinch.");
+678: "a pinch."
+
 681: "A hold item that\n"
 682: "raises DEFENSE in\n"
-683: "a pinch.");
+683: "a pinch."
+
 686: "A hold item that\n"
 687: "raises SPEED in\n"
-688: "a pinch.");
+688: "a pinch."
+
 691: "A hold item that\n"
 692: "raises SP. ATK in\n"
-693: "a pinch.");
+693: "a pinch."
+
 696: "A hold item that\n"
 697: "raises SP. DEF in\n"
-698: "a pinch.");
+698: "a pinch."
+
 701: "A hold item that\n"
 702: "ups the critical-\n"
-703: "hit rate in a pinch.");
+703: "hit rate in a pinch."
+
 706: "A hold item that\n"
 707: "sharply boosts a\n"
-708: "stat in a pinch.");
+708: "stat in a pinch."
+
 711: "{POKEBLOCK} ingredient.\n"
 712: "Plant in loamy soil\n"
-713: "to grow a mystery.");
-717: "A hold item that\n"
-718: "casts a glare to\n"
-719: "reduce accuracy.");
-722: "A hold item that\n"
-723: "restores any\n"
-724: "lowered stat.");
+713: "to grow a mystery."
+
+
+BRIGHT POWDER
+717: "Res tenenda, quae\n"
+718: "fulgorem emittit ut\n"
+719: "accurat. reducat."
+
+722: "Res tenenda, quae\n"
+723: "stateram quamvis\n"
+724: "minutam restaurat."
 
 MACHO BRACE
 727:  "Res tenenda, quae\n"
 728:  "auctum prodest, sed\n"
-729:  "CELERITATEM minuit.");
+729:  "CELERITATEM minuit."
 
       |===================|
 732:  "Res tenenda, quae\n"
 733:  "puncta PER. ab\n"
-734:  "certamine meretur.");
+734:  "certamine meretur."
 
 737:  "Res tenenda, quae\n"
 738:  "interdum permittit\n"
-739:  "illisum priorem."
+739:  "primum illidere."
 
-742: "A hold item that\n"
-743: "calms spirits and\n"
-744: "fosters friendship.");
-747: "A hold item that\n"
-748: "snaps POKéMON out\n"
-749: "of infatuation.");
-752: "Raises a move's\n"
-753: "power, but permits\n"
-754: "only that move.");
-757: "A hold item that\n"
-758: "may cause flinching\n"
-759: "when the foe is hit.");
-762: "A hold item that\n"
-763: "raises the power of\n"
-764: "BUG-type moves.");
-767: "Doubles money in\n"
-768: "battle if the\n"
-769: "holder takes part.");
-772: "A hold item that\n"
-773: "helps repel wild\n"
-774: "POKéMON.");
-777: "Hold item: raises\n"
-778: "SP. ATK & SP. DEF of\n"
-779: "LATIOS & LATIAS.");
+742: "Res tenenda, quae\n"
+743: "animos sedat et\n"
+744: "amicitiam fovet."
+
+747: "Res tenenda, quae\n"
+748: "POKéMON liberat ex\n"
+749: "amoris amentia."
+
+752: "Vim motus auget,\n"
+753: "sed tantum motum\n"
+754: "illum permittet."
+
+757: "Res tenenda, quae\n"
+758: "titubare potest\n"
+759: "cum hostem illidit."
+
+762: "Res tenenda, quae\n"
+763: "vim motuum typi\n"
+764: "CIMICIS auget."
+
+767: "Pecuniam duplicat\n"
+768: "in certamine si qui\n"
+769: "tenet adsit."
+
+772: "Res tenenda, quae\n"
+773: "POKéMON silvestria\n"
+774: "repellere adiuvat."
+
+777: "Res tenenda: auget\n"
+778: "IMP SP. & DEF SP. ad\n"
+779: "LATIOS & LATIAS."
 
 782: "Res tenenda, quae\n"
-783: "IMP SP. CLAMPERL\n"
+783: "IMP SP. ad CLAMPERL\n"
 784: "auget."
 
 787: "Res tenenda, quae\n"
-788: "DEF SP. CLAMPERL\n"
+788: "DEF SP. ad CLAMPERL\n"
 789: "auget."
 
-792: "A hold item that\n"
-793: "assures fleeing\n"
-794: "from wild POKéMON.");
-797: "A wondrous hold\n"
-798: "item that prevents\n"
-799: "evolution.");
-802: "A hold item that\n"
-803: "occasionally\n"
-804: "prevents fainting.");
-807: "A hold item that\n"
-808: "boosts EXP. points\n"
-809: "earned in battle.");
-812: "A hold item that\n"
-813: "improves the\n"
-814: "critical-hit rate.");
-817: "A hold item that\n"
-818: "raises the power of\n"
-819: "STEEL-type moves.");
-822: "A hold item that\n"
-823: "gradually restores\n"
-824: "HP in battle.");
-827: "A strange scale\n"
-828: "held by DRAGON-\n"
-829: "type POKéMON.");
-832: "A hold item that\n"
-833: "raises the SP. ATK\n"
-834: "of PIKACHU.");
-837: "A hold item that\n"
-838: "raises the power of\n"
-839: "GROUND-type moves.");
-842: "A hold item that\n"
-843: "raises the power of\n"
-844: "ROCK-type moves.");
-847: "A hold item that\n"
-848: "raises the power of\n"
-849: "GRASS-type moves.");
+792: "Res tenenda, quae\n"
+793: "fugam ab POKéMON\n"
+794: "silvestri firmat."
+
+797: "Res tenenda mira,\n"
+798: "quae evolutionem\n"
+799: "prohibet."
+
+802: "Res tenenda, quae\n"
+803: "subinde concidere\n"
+804: "prohibet."
+
+807: "Res tenenda, quae\n"
+808: "puncta PER. auget\n"
+809: "in certamine capta."
+
+812: "Res tenenda, quae\n"
+813: "rationem ictuum\n"
+814: "gravium auget."
+
+817: "Res tenenda, quae\n"
+818: "vim motuum typi\n"
+819: "FERRI auget."
+
+822: "Res tenenda, quae\n"
+823: "gradatim SL sanat\n"
+824: "in certamine."
+
+827: "Squama insolta\n"
+828: "a POKéMON typi\n"
+829: "DRACONIS tenta."
+
+832: "Res tenenda, quae\n"
+833: "IMP SP. ad PIKACHU\n"
+834: "auget."
+
+837: "Res tenenda, quae\n"
+838: "vim motuum typi\n"
+839: "TERRAE auget."
+
+842: "Res tenenda, quae\n"
+843: "vim motuum typi\n"
+844: "LAPIDIS auget."
+
+847: "Res tenenda, quae\n"
+848: "vim motuum typi\n"
+849: "GRAMINIS auget."
 
       |===================|
 852:  "Res tenenda, quae\n"
-853:  "vim motus typi\n"
-854:  "NOCTE auget."
+853:  "vim motuum typi\n"
+854:  "NIGRI auget."
 
-857: "A hold item that\n"
-858: "boosts FIGHTING-\n"
-859: "type moves.");
-862: "A hold item that\n"
-863: "boosts ELECTRIC-\n"
-864: "type moves.");
-867: "A hold item that\n"
-868: "raises the power of\n"
-869: "WATER-type moves.");
-872: "A hold item that\n"
-873: "raises the power of\n"
-874: "FLYING-type moves.");
-877: "A hold item that\n"
-878: "raises the power of\n"
-879: "POISON-type moves.");
-882: "A hold item that\n"
-883: "raises the power of\n"
-884: "ICE-type moves.");
-887: "A hold item that\n"
-888: "raises the power of\n"
-889: "GHOST-type moves.");
-892: "A hold item that\n"
-893: "boosts PSYCHIC-\n"
-894: "type moves.");
-897: "A hold item that\n"
-898: "raises the power of\n"
-899: "FIRE-type moves.");
-902: "A hold item that\n"
-903: "raises the power of\n"
-904: "DRAGON-type moves.");
+857: "Res tenenda, quae\n"
+858: "vim motuum typi\n"
+859: "PUGNI auget."
+
+862: "Res tenenda, quae\n"
+863: "vim motuum typi\n"
+864: "ELECTRICIS auget."
+
+867: "Res tenenda, quae\n"
+868: "vim motuum typi\n"
+869: "AQUAE auget."
+
+872: "Res tenenda, quae\n"
+873: "vim motuum typi\n"
+874: "VOLANTIS auget."
+
+877: "Res tenenda, quae\n"
+878: "vim motuum typi\n"
+879: "VIRI auget."
+
+882: "Res tenenda, quae\n"
+883: "vim motuum typi\n"
+884: "GELUS auget."
+
+887: "Res tenenda, quae\n"
+888: "vim motuum typi\n"
+889: "LARVAE auget."
+
+892: "Res tenenda, quae\n"
+893: "vim motuum typi\n"
+894: "MENTIS auget."
+
+897: "Res tenenda, quae\n"
+898: "vim motuum typi\n"
+899: "IGNIS auget."
+
+902: "Res tenenda, quae\n"
+903: "vim motuum typi\n"
+904: "DRACONIS auget."
 
 SILK SCARF
 907: "Res tenenda, quae\n"
-908: "vim motus typi\n"
-909: "SOLITO auget."
+908: "vim motuum typi\n"
+909: "VULGARIS auget."
 
-912: "A peculiar box made\n"
-913: "by SILPH CO.");
-916: "A hold item that\n"
-917: "restores HP upon\n"
-918: "striking the foe.");
-921: "A hold item that\n"
-922: "slightly boosts\n"
-923: "WATER-type moves.");
-926: "A hold item that\n"
-927: "slightly lowers the\n"
-928: "foe's accuracy.");
-931: "A hold item that\n"
-932: "raises CHANSEY's\n"
-933: "critical-hit rate.");
-936: "A hold item that\n"
-937: "raises DITTO's\n"
-938: "DEFENSE.");
-941: "A hold item that \n"
-942: "raises CUBONE or\n"
-943: "MAROWAK's ATTACK.");
-946: "A hold item that\n"
-947: "raises FARFETCH'D's\n"
-948: "critical-hit ratio.");
+912: "Pyxis aliena a\n"
+913: "SILPH CO facta."
+
+916: "Res tenenda, quae\n"
+917: "SL restaurat ex\n"
+918: "hoste percutiendo."
+
+921: "Res tenenda, quae\n"
+922: "motus typi AQUAE\n"
+923: "parum auget."
+
+926: "Res tenenda, quae\n"
+927: "hostis accurationem\n"
+928: "parum minuit."
+
+931: "Res tenenda, quae\n"
+932: "ad CHANSEY ictus\n"
+933: "graves auget."
+
+936: "Res tenenda, quae\n"
+937: "DEFENSIONEM ad\n"
+938: "DITTO auget."
+
+941: "Res tenenda, quae\n"
+942: "IMPETUM ad CUBONE et\n"
+943: "MAROWAK auget."
+
+946: "Res tenenda, quae\n"
+947: "ictus graves ad\n"
+948: "FARFETCH'D auget."
+
 
 RED SCARF
 951: "Res tenenda, quae\n"
-952: "ACRITATEM\n"
-953: "in AGONIBUS auget."
+952: "ACRITATEM in\n"
+953: "AGONIBUS auget."
 
 BLUE SCARF
 956: "Res tenenda, quae\n"
@@ -696,18 +796,18 @@ BLUE SCARF
 
 PINK SCARF
 961: "Res tenenda, quae\n"
-962: "DULCITATEM\n"
-963: "in AGONIBUS auget."
+962: "DULCITATEM in\n"
+963: "AGONIBUS auget."
 
 GREEN SCARF
 966: "Res tenenda, quae\n"
-967: "SOLLERTIAM\n"
-968: "in AGONIBUS auget."
+967: "SOLLERTIAM in\n"
+968: "AGONIBUS auget."
 
 YELLOW SCARF
 971: "Res tenenda, quae\n"
-972: "FORTITUDINEM\n"
-973: "in AGONIBUS auget."
+972: "FORTITUDINEM in\n"
+973: "AGONIBUS auget."
 
 MACH BIKE
 977: "Birota plicatilis\n"
@@ -725,24 +825,24 @@ COIN CASE
       |===================|
 991:  "Utere apud aquam,\n"
 992:  "ut pisceris POKéMON\n"
-993:  "silvestres."
+993:  "silvestria."
 
 996:  "Virga piscandi\n"
-997:  "decens ob capiendum\n"
-998:  "POKéMON silvestres."
+997:  "decens ad capiendum\n"
+998:  "POKéMON silvestria."
 
 1001: "Virga piscandi\n"
-1002: "optima ob capiendum\n"
-1003: "POKéMON silvestres."
+1002: "optima ad capiendum\n"
+1003: "POKéMON silvestria."
 
       |===================|
 1006: "Tessera necessaria\n"
 1007: "ad navigandum in\n"
 1008: "portitore."
 
-1011: "The pass required\n"
-1012: "for entering\n"
-1013: "POKéMON CONTESTS.");
+1011: "Tessera necessaria\n"
+1012: "ad ineundum AGONES\n"
+1013: "POKéMON."
 
       |===================|
 1016: "Ad irrigationem\n"
@@ -755,41 +855,41 @@ COIN CASE
 1023: "partes DEVON."
 
 SOOT SACK
-1026: "SACCO ad habendum et\n"
-1027: "colligendum cineris\n"
-1028: "volcanii uti potes."
+1026: "SACCO ad tenendum,\n"
+1027: "colligendum cinerem\n"
+1028: "volcanium uti potes."
 
-1031: "The key for NEW\n"
-1032: "MAUVILLE beneath\n"
-1033: "MAUVILLE CITY.");
+1031: "Clavis pro NEW\n"
+1032: "MAUVILLE sub\n"
+1033: "MAUVILLE CITY."
 
 ACRO BIKE
 1036: "Birota plicatilis\n"
 1037: "saltandi et in rota\n"
 1038: "postica standi capax."
 
-1041: "A case for holding\n"
-1042: "{POKEBLOCK}S made with\n"
-1043: "a BERRY BLENDER.");
+1041: "Theca ad tenenda\n"
+1042: "{POKEBLOCK} facta\n"
+1043: "BACCARUM MIXTORIA."
 
       |===================|
 1046: "Epistola PRAEFECTI\n"
 1047: "SOCIETATIS DEVON\n"
 1048: "ad AURELIUM"
 
-1051: "The ticket for a\n"
-1052: "ferry to a distant\n"
-1053: "southern island.");
+1051: "Tessera pro\n"
+1052: "portitore australis\n"
+1053: "insulae longinquae."
 
 RED ORB
 1056: "Orbis ruber\n"
-1057: "ardensque antiquam\n"
-1058: "vim continet."
+1057: "ardensque vim\n"
+1058: "antiquam continet."
 
 BLUE ORB
 1061: "Orbis caeruleus\n"
-1062: "ardensque antiquam\n"
-1063: "vim continet."
+1062: "ardensque vim\n"
+1063: "antiquam continet."
 
 SCANNER
 1066: "Instrumentum intra\n"
@@ -827,15 +927,17 @@ STORAGE KEY
 1101: "promptuarium in\n"
 1102: "NAVE PERDITA."
 
-1105: "A fossil of an\n"
-1106: "ancient, seafloor-\n"
-1107: "dwelling POKéMON.");
-1110: "A fossil of an\n"
-1111: "ancient, seafloor-\n"
-1112: "dwelling POKéMON.");
-1115: "A device by DEVON\n"
-1116: "that signals any\n"
-1117: "unseeable POKéMON.");
+1105: "Fossile antiqui,\n"
+1106: "habitantis apud\n"
+1107: "mare imum POKéMON."
+
+1110: "Fossile antiqui,\n"
+1111: "habitantis apud\n"
+1112: "mare imum POKéMON."
+
+1115: "Instrumentum DEVON\n"
+1116: "quod POKéMON\n"
+1117: "invisibilia indicat."
 
 FOCUS PUNCH
 1121: "Validus, sed utenti\n"
@@ -964,8 +1066,8 @@ THUNDER
 
 EARTHQUAKE
 1246: "Tremorem causat\n"
-1247: "qui nullum effectum\n"
-1248: "est in volantibus."
+1247: "qui non volantes\n"
+1248: "affligit."
 
 RETURN
 1251: "Quo plus utenti\n"
@@ -1045,7 +1147,7 @@ TORMENT
 FACADE
 1326: "IMP auget si sit\n"
 1327: "venenatum, adustum\n"
-1328: "an paralysim habet."
+1328: "paralysimve habet."
 
 SECRET POWER
 1331: "Effectum impetui\n"

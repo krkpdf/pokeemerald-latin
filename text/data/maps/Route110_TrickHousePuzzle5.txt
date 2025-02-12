@@ -44,7 +44,7 @@
 976:  "Quid pretio maiore constat?\n"
 977:  "Tres PORTI EPSTL aut SANA ADUSTUM una?$"
 980:  "MECHAPUPAE TERTIAE TENTAMEN.\p"
-981:  "Vende MAGNUM BALL ac emi POTIONEM.\n"
+981:  "Vende MEGA PILAM ac emi POTIONEM.\n"
 982:  "Quanta pecunia restat?$"
 985:  "MECHAPUPAE TERTIAE TENTAMEN.\p"
 986:  "Constant unum REPELLE ac una MULSA\n"

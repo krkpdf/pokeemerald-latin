@@ -6,7 +6,7 @@
 51:   "vendere pro TABERNACULO MARTIS…\p"
 52:   "Videtur ut quippe necesse esse\n"
 53:   "in ipsius acumine confidere…$"
-56:   "NIDUS BALL melius in POKéMON infirmatis\n"
+56:   "NIDUS PILA melius in POKéMON infirmatis\n"
 57:   "fungitur.\p"
 58:   "VIRIDINEMUS unicus locus est in quo\n"
 59:   "emere possis.$"

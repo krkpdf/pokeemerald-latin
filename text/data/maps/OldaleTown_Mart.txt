@@ -1,6 +1,6 @@
 60:     "Apothecarius omnia vendita esse dicit.\n"
-61:     "Non possum POKé BALL quamquam emere.$"
-64:     "Montem POKé BALL empturus sum et\n"
+61:     "Non possum POKé PILAM quamquam emere.$"
+64:     "Montem POKé PILARUM empturus sum et\n"
 65:     "postea capiam montem POKéMON!$"
 68:     "Si POKéMON laesum sit et SL amittat\n"
 69:     "et concidat, non poterit certare.\p"

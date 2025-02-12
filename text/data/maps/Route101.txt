@@ -3,7 +3,7 @@
 267:   "Ey! Tu, illic!\n"
 268:   "Peto! Adiuva!\p"
 269:   "In SACCO meo!\n"
-270:   "POKé BALL est!$"
+270:   "POKé PILA est!$"
 273:   "Qu-Quo vadis?!\n"
 274:   "Noli me hoc statu relinquere!$"
 277:   "PROF. BIRCH: Uheu...\p"
