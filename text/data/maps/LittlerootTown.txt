@@ -68,7 +68,7 @@
 1014: "Recte putavi aliquod notabile de te\n"
 1015: "esse quando te primum vidi, sed hoc\l"
 1016: "numquam expectavi.\p"
-1017: "O, sic. Habesne adhuc POKéDEX quod\n"
+1017: "O, sic. Habesne adhuc POKéDICEM quam\n"
 1018: "tibi dedi?\p"
 1019: "Aliquid tibi ostendendum habeo.\n"
 1020: "Eamus in LAB meum.$"

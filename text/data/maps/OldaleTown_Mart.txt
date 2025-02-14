@@ -4,5 +4,5 @@
 65:     "postea capiam montem POKéMON!$"
 68:     "Si POKéMON laesum sit et SL amittat\n"
 69:     "et concidat, non poterit certare.\p"
-70:     "Ut prohibeas POKéMON tuo quominus\n"
+70:     "Ut prohibeas POKéMON tuum quominus\n"
 71:     "concidat, restitue SL eius POTIONE.$"

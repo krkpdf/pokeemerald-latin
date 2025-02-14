@@ -42,7 +42,7 @@
 360:   "Bene, care, quid putas de MATRE tua in\n"
 361:   "registro inscribendo?\p"
 362:   "… … …$"
-365:   "MATER in registro POKéNAV\n"
+365:   "MATER in registro POKéNAVIS\n"
 366:    "inscripta est.$"
 369:   "Fugiiiiih!$" 
 372:   "Huggoh, uggo uggo…$"

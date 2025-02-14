@@ -233,10 +233,14 @@
 239: const u8 gText_ItemFinderOnTop[] = _("Oh!\nThe ITEMFINDER's shaking wildly!{PAUSE_UNTIL_PRESS}");
 240: const u8 gText_ItemFinderNothing[] = _("… … … …Nope!\nThere's no response.{PAUSE_UNTIL_PRESS}");
 241: const u8 gText_CoinCase[] = _("Your COINS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}");
-242: const u8 gText_BootedUpTM[] = _("Booted up a TM.");
-243: const u8 gText_BootedUpHM[] = _("Booted up an HM.");
-244: const u8 gText_TMHMContainedVar1[] = _("It contained\n{STR_VAR_1}.\pTeach {STR_VAR_1}\nto a POKéMON?");
-245: const u8 gText_PlayerUsedVar2[] = _("{PLAYER} used the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
+
+
+242: "MT inserta est."
+243: "MA inserta est."
+244: "{STR_VAR_1}\ncontinuit.\pVisne {STR_VAR_1}\nPOKéMON docere?"
+245: "{PLAYER} usus est\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"
+
+
 246: const u8 gText_RepelEffectsLingered[] = _("But the effects of a REPEL\nlingered from earlier.{PAUSE_UNTIL_PRESS}");
 247: const u8 gText_UsedVar2WildLured[] = _("{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be lured.{PAUSE_UNTIL_PRESS}");
 248: const u8 gText_UsedVar2WildRepelled[] = _("{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be repelled.{PAUSE_UNTIL_PRESS}");
@@ -249,8 +253,8 @@
 255:  "PC"
 281:  "Reverte ad\n{STR_VAR_1}."
 282:  "RERUM"
-283:  "POKé BALL"
-284:  "ML & MA"
+283:  "POKé PILAE"
+284:  "MA & MT"
 285:  "BACCARUM"
 286:  "CLAVIUM"
 297: const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
@@ -298,25 +302,25 @@
 342:  "EXI"
 343:  "IN SACCUM: {STR_VAR_1}"
 344:  "Siste emendum."
-345: const u8 gText_Var1CertainlyHowMany[] = _("{STR_VAR_1}? Certainly.\nHow many would you like?");
-346: const u8 gText_Var1CertainlyHowMany2[] = _("{STR_VAR_1}? Certainly.\nHow many would you like?");
-347: const u8 gText_Var1AndYouWantedVar2[] = _("{STR_VAR_1}? And you wanted {STR_VAR_2}?\nThat will be ¥{STR_VAR_3}.");
-348: const u8 gText_Var1IsItThatllBeVar2[] = _("{STR_VAR_1}, is it?\nThat'll be ¥{STR_VAR_2}. Do you want it?");
-349: const u8 gText_YouWantedVar1ThatllBeVar2[] = _("You wanted {STR_VAR_1}?\nThat'll be ¥{STR_VAR_2}. Will that be okay?");
-350: const u8 gText_HereYouGoThankYou[] = _("Here you go!\nThank you very much.");
-351: const u8 gText_ThankYouIllSendItHome[] = _("Thank you!\nI'll send it to your home PC.");
-352: const u8 gText_ThanksIllSendItHome[] = _("Thanks!\nI'll send it to your PC at home.");
-353: const u8 gText_YouDontHaveMoney[] = _("You don't have enough money.{PAUSE_UNTIL_PRESS}");
-354: const u8 gText_NoMoreRoomForThis[] = _("You have no more room for this\nitem.{PAUSE_UNTIL_PRESS}");
-355: const u8 gText_SpaceForVar1Full[] = _("The space for {STR_VAR_1} is full.{PAUSE_UNTIL_PRESS}");
-356: const u8 gText_AnythingElseICanHelp[] = _("Is there anything else I can help\nyou with?");
-357: const u8 gText_CanIHelpWithAnythingElse[] = _("Can I help you with anything else?");
-358: const u8 gText_ThrowInPremierBall[] = _("I'll throw in a PREMIER BALL, too.{PAUSE_UNTIL_PRESS}");
-359: const u8 gText_CantBuyKeyItem[] = _("{STR_VAR_2}? Oh, no.\nI can't buy that.{PAUSE_UNTIL_PRESS}");
-360: const u8 gText_HowManyToSell[] = _("{STR_VAR_2}?\nHow many would you like to sell?");
-361: const u8 gText_ICanPayVar1[] = _("I can pay ¥{STR_VAR_1}.\nWould that be okay?");
-362: const u8 gText_TurnedOverVar1ForVar2[] = _("Turned over the {STR_VAR_2}\nand received ¥{STR_VAR_1}.");
-363: const u8 gText_PokedollarVar1[] = _("¥{STR_VAR_1}");
+345:  "{STR_VAR_1}? Profecto.\nQuomodo placet tibi?"
+346:  "{STR_VAR_1}? Profecto.\nQuot vis?"
+347:  "{STR_VAR_1}? Et {STR_VAR_2} volebas?\n¥{STR_VAR_3} erit."
+348:  "{STR_VAR_1}, estne?\n¥{STR_VAR_2} erit. Visne?"
+349:  "Volebas {STR_VAR_1}?\nErit ¥{STR_VAR_2}. Bene?"
+350:  "Hic habeas!\nGratias multas tibi ago."
+351:  "Gratias tibi!\nAd PC domesticum tuum mittam."
+352:  "Gratias!\nAd PC domesticum tuum mittam."
+353:  "Non satis pecuniam habes.{PAUSE_UNTIL_PRESS}");
+354:  "Non habes satis locum pro hac\nre.{PAUSE_UNTIL_PRESS}");
+355:  "Locus pro{STR_VAR_1} impletus est.{PAUSE_UNTIL_PRESS}");
+356:  "Aliqua res alia est qua\ntibi adiuvare possim?"
+357:  "Tibi aliqua re alia adiuvare possim?"
+358:  "HONORIS PILAM inicio, quoque.{PAUSE_UNTIL_PRESS}");
+359:  "{STR_VAR_2}? Oh, minime.\nNon possum emere.{PAUSE_UNTIL_PRESS}");
+360:  "{STR_VAR_2}?\nQuot vis vendere?"
+361:  "Possum ¥{STR_VAR_1} numerare.\nBene?"
+362:  "{STR_VAR_2} tradit\natque ¥{STR_VAR_1} recepit."
+363:  "¥{STR_VAR_1}"
 364:  "PERMUTA"
 365:  "MITTE"
 366:  "MUTA"
@@ -666,7 +670,7 @@
 700: const u8 gText_Tough2[] = _("TOUGH");
 701:  "RERUM"
 702:  "CLAVIUM"
-703: const u8 gText_Poke_Balls[] = _("POKé BALLS");
+703:  "POKé PILARUM"
 704:  "MA et MT"
 705:  "BACCARUM"
 706:  "PC ALICUIUS"
@@ -1435,24 +1439,24 @@
 1473: const u8 gText_ABtnRegistrationCounter[] = _("A Button: Registration Counter");
 1474: const u8 gText_ABtnTitleScreen[] = _("A Button: Title Screen");
 1475: "OPTIO"
-1476: "CELERITAS VERBORUM"
+1476: "CELER. VERBORUM"
 1477: "SCENA CERTAMINUM"
 1478: "MODUS CERTAMINUM"
 1479: "SONUS"
 1480: "FORMA"
 1481: "EXI"
 1482: "MODUS BULLAE"
-1483: "{COLOR GREEN}{SHADOW LIGHT_GREEN}LENTE"
+1483: "{COLOR GREEN}{SHADOW LIGHT_GREEN}LENTA"
 1484: "{COLOR GREEN}{SHADOW LIGHT_GREEN}MED"
-1485: "{COLOR GREEN}{SHADOW LIGHT_GREEN}CELERITER"
+1485: "{COLOR GREEN}{SHADOW LIGHT_GREEN}CELER"
 1486: "{COLOR GREEN}{SHADOW LIGHT_GREEN}SIC"
 1487: "{COLOR GREEN}{SHADOW LIGHT_GREEN}NON"
-1488: "{COLOR GREEN}{SHADOW LIGHT_GREEN}MUTA"
-1489: "{COLOR GREEN}{SHADOW LIGHT_GREEN}SET"
-1490: "{COLOR GREEN}{SHADOW LIGHT_GREEN}MONO"
-1491: "{COLOR GREEN}{SHADOW LIGHT_GREEN}STEREO"
-1492: "{COLOR GREEN}{SHADOW LIGHT_GREEN}TYPUS"
-1493: "{COLOR GREEN}{SHADOW LIGHT_GREEN}"
+1488: "{COLOR GREEN}{SHADOW LIGHT_GREEN}ELIGE"
+1489: "{COLOR GREEN}{SHADOW LIGHT_GREEN}FIXUM"
+1490: "{COLOR GREEN}{SHADOW LIGHT_GREEN}SIMPLEX"
+1491: "{COLOR GREEN}{SHADOW LIGHT_GREEN}DUPLEX"
+1492: "{COLOR GREEN}{SHADOW LIGHT_GREEN}TYP."
+1493: " {COLOR GREEN}{SHADOW LIGHT_GREEN}"
 1494: "{COLOR GREEN}{SHADOW LIGHT_GREEN}NORMALIS"
 1495: "{COLOR GREEN}{SHADOW LIGHT_GREEN}LR"
 1496: "{COLOR GREEN}{SHADOW LIGHT_GREEN}L=A"
@@ -1503,10 +1507,10 @@
 1541: const u8 gJPText_GameFreak[] = _("{COLOR RED}{SHADOW LIGHT_RED}ゲ-ムフリ-ク"); // Unused
 1542: const u8 gText_DiplomaEmpty[] = _("{COLOR RED}{SHADOW LIGHT_RED}"); // Unused
 1543: const u8 gText_Hoenn[] = _("HOENN");
-1544: const u8 gText_OhABite[] = _("Oh! A bite!");
-1545: const u8 gText_PokemonOnHook[] = _("A POKéMON's on the hook!{PAUSE_UNTIL_PRESS}");
-1546: const u8 gText_NotEvenANibble[] = _("Not even a nibble…{PAUSE_UNTIL_PRESS}");
-1547: const u8 gText_ItGotAway[] = _("It got away…{PAUSE_UNTIL_PRESS}");
+1544: "Oh! Morsus!"
+1545: "POKéMON in hamum est!{PAUSE_UNTIL_PRESS}");
+1546: "Ne morsiculum quidem…{PAUSE_UNTIL_PRESS}"
+1547: "Evadit…{PAUSE_UNTIL_PRESS}"
 1548: const u8 gText_XWillBeSentToY[] = _("{STR_VAR_2} will be\nsent to {STR_VAR_1}.");
 1549: const u8 gText_ByeByeVar1[] = _("Bye-bye, {STR_VAR_2}!");
 1550: const u8 gText_XSentOverY[] = _("{STR_VAR_1} sent over {STR_VAR_3}.");

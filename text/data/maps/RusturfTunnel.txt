@@ -27,7 +27,7 @@
 465:   "Ah, itaque {PLAYER}{KUN} es!\n"
 466:   "Ago tibi sincere gratias!\p"
 467:   "Nunc, si aliquid est, quod tibi vexat,\n"
-468:   "noli in me dicendo haesitare!\p"
+468:   "noli in mihi dicendo haesitare!\p"
 469:   "Potes mihi, ut fit, in tugurio meo apud\n"
 470:   "mare prope SILVAM PETALBURGI invenire.\p"
 471:   "Veni, PEECA, nobis gradiendum et viam\n"

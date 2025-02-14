@@ -4,7 +4,7 @@
 75:     "PETALIBURGI occurram.$"
 78:     "POKéMON meum evolutum est.\n"
 79:     "Nunc SL multam habet.\p"
-80:     "Oportet mihi ei POTIONES SUPERAS\n"
+80:     "Oportet mihi ei POTIONES SUPER\n"
 81:     "emere pro POTIONIBUS solitis.$"
 84:     "Adipiscor FUGAE FUNEM pro casu\n"
 85:     "in caverna errem.\p"

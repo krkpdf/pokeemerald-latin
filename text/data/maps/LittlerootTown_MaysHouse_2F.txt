@@ -50,7 +50,7 @@
 367:   "Melius est hic ubi sit linquere.$"
 
 370:   "MAIA: {PLAYER}{KUN}!\p" 
-371:   "Modo POKéDEX meum inspiciebam.\p"
+371:   "Modo POKéDICEM meam inspiciebam.\p"
 372:   "Adhuc multa POKéMON sunt, quae vidi et\n"
 373:   "non cepi.\p"
 374:   "Et multa sunt, quae mihi evolutura\n"
@@ -63,11 +63,11 @@
 383:   "obcurreremus, {PLAYER}{KUN}?$"
 
 386:   "BRENDAN: Salve, {PLAYER} es.\p"
-387:   "Modo POKéDEX meum inspiciebam.\p"
+387:   "Modo POKéDICEM meam inspiciebam.\p"
 388:   "Adhuc multa POKéMON sunt, quae capere\n"
 389:   "debeo, scio, tamen hoc mihi iam bonum\l"
 390:   "videtur.\p"
-391:   "Inspicere POKéDEX hoc mihi exitat,\n"
+391:   "Inspicere POKéDICEM hanc mihi exitat,\n"
 392:   "ut iterum in viam egrediar.$"
 395:   "BRENDAN: Mihi difficile videtur\n"
 396:   "diiudicare ubi POKéMON capere possim.\p"

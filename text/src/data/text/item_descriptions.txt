@@ -97,7 +97,7 @@ POTION
 
 106:  "Restaurat SL\n"
 107:  "unius POKéMON\n"
-108:  "50 punctsi."
+108:  "50 punctis."
 
 111:  "Sanat mala omnia\n"
 112:  "status unius\n"

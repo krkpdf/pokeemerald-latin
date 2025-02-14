@@ -68,7 +68,7 @@
 369:  "aberrat! Hoc potes pro certe habere!\p"
 370:  "… … … … … …$"
 373:  "GYMNIS RECTOR VATESIUS in registro\n"
-374:  "POKéNAV inscriptus est.$"
+374:  "POKéNAVIS inscriptus est.$"
 377:  "Spe magna tumesco, TRAHITORE iuveni\n"
 378:  "futurum tam felix pollicente viso!$"
 381:  "Uahahahah!\n"
