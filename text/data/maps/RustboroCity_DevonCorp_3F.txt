@@ -24,7 +24,7 @@
 230:   "pro TRAHITORE quoquam in ambage.\p"
 231:   "Tabulam provinciae HOENN habet.\p"
 232:   "Potes facillime locos CASTRI AQUARUM\n"
-233:   "et PORTI SAXEI spicere!\p"
+233:   "et PORTUS SAXEI spicere!\p"
 234:   "Obiter, audivi malefactores\n"
 235:   "sinistros--MAGMA et AQUA, credo--per\l"
 236:   "provinciam totam molestias facere.\p"

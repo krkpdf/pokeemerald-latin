@@ -640,8 +640,8 @@
 670: const u8 gText_MudkipDollAndPrice[] = _("MUDKIP DOLL   1,000 COINS");
 671: const u8 gText_50CoinsAndPrice[] = _("  50 COINS    ¥1,000");
 672: const u8 gText_500CoinsAndPrice[] = _("500 COINS  ¥10,000");
-673: const u8 gText_Excellent2[] = _("Excellent");
-674: const u8 gText_NotSoGood[] = _("Not so good");
+673: "Optimum"
+674: "Nec bene"
 675: const u8 gText_RedShard[] = _("RED SHARD");
 676: const u8 gText_YellowShard[] = _("YELLOW SHARD");
 677: const u8 gText_BlueShard[] = _("BLUE SHARD");
@@ -1456,7 +1456,7 @@
 1490: "{COLOR GREEN}{SHADOW LIGHT_GREEN}SIMPLEX"
 1491: "{COLOR GREEN}{SHADOW LIGHT_GREEN}DUPLEX"
 1492: "{COLOR GREEN}{SHADOW LIGHT_GREEN}TYP."
-1493: " {COLOR GREEN}{SHADOW LIGHT_GREEN}"
+1493: "{COLOR GREEN}{SHADOW LIGHT_GREEN}"
 1494: "{COLOR GREEN}{SHADOW LIGHT_GREEN}NORMALIS"
 1495: "{COLOR GREEN}{SHADOW LIGHT_GREEN}LR"
 1496: "{COLOR GREEN}{SHADOW LIGHT_GREEN}L=A"
@@ -1508,7 +1508,7 @@
 1542: const u8 gText_DiplomaEmpty[] = _("{COLOR RED}{SHADOW LIGHT_RED}"); // Unused
 1543: const u8 gText_Hoenn[] = _("HOENN");
 1544: "Oh! Morsus!"
-1545: "POKéMON in hamum est!{PAUSE_UNTIL_PRESS}");
+1545: "POKéMON in hamo est!{PAUSE_UNTIL_PRESS}");
 1546: "Ne morsiculum quidem…{PAUSE_UNTIL_PRESS}"
 1547: "Evadit…{PAUSE_UNTIL_PRESS}"
 1548: const u8 gText_XWillBeSentToY[] = _("{STR_VAR_2} will be\nsent to {STR_VAR_1}.");

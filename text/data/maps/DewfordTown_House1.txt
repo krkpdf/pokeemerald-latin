@@ -1,7 +1,7 @@
 23:     "Multum dicendum est pro habitando in\n"
 24:     "insula parva sicut hac in harmonia cum\l"
 25:     "POKéMON et familia.$"
-28:     "Discessi portus magnum PORTUS SAXEI\n"
+28:     "Discessi ab portu magno PORTUS SAXEI\n"
 29:     "ubi maritum meum hunc nupsi.\p"
 30:     "Vita lente in hac insula parva\n"
 31:     "progreditur. Sed cinctum esse per\l"
