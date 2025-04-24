@@ -19,7 +19,7 @@
 278:   "Er-hem! Video te in POKéMON AGONE\n"
 279:   "participavisse!\p"
 280:   "Quaeso! Patere me examinantem quomodo\n"
-281:   "tu POKéMON tus aluisti.\p"
+281:   "tu POKéMON tuum aluisti.\p"
 282:   "Mihi iucundat sine fine videre POKéMON\n"
 283:   "ab TRAHITORIBUS aliis alta.\p"
 284:   "Vultum gaudentem POKéMON recta cura\n"
