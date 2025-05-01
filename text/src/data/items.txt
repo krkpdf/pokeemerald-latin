@@ -1,6 +1,6 @@
          "THUNDERSTONEEE"
 5:       "????????"
-18:     "MASTER PILA"
+18:     "MAGISTER PILA"
 31:     "ULTRA PILA"
 44:     "MEGA PILA"
 57:     "POKé PILA"
