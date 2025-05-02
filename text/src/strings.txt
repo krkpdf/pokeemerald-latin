@@ -604,7 +604,7 @@
 634: const u8 gText_Quit[] = _("QUIT"); // Unused
 635: const u8 gText_SawIt[] = _("Saw it");
 636: const u8 gText_NotYet[] = _("Not yet");
-637:  "SIC"
+637:  "ITA"
 638:  "NON"
 639: const u8 gText_Info4[] = _("INFO"); // Unused
 640: const u8 gText_SingleBattle[] = _("SINGLE BATTLE");
@@ -1430,7 +1430,7 @@
 1464: const u8 gText_SavingDontTurnOff2[] = _("SAVING…\nDON'T TURN OFF THE POWER.");
 1465: const u8 gText_BlenderMaxSpeedRecord[] = _("BERRY BLENDER\nMAXIMUM SPEED RECORD!");
 1466: const u8 gText_234Players[] = _("2 PLAYERS\n3 PLAYERS\n4 PLAYERS");
-1467: "SIC\nNON"
+1467: "ITA\nNON"
 1468: const u8 gText_SelectorArrow3[] = _("▶");
 1469: const u8 gText_Peekaboo[] = _("PEEKABOO!");
 1470: const u8 gText_CommErrorCheckConnections[] = _("Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.");
@@ -1449,7 +1449,7 @@
 1483: "{COLOR GREEN}{SHADOW LIGHT_GREEN}LENTA"
 1484: "{COLOR GREEN}{SHADOW LIGHT_GREEN}MED"
 1485: "{COLOR GREEN}{SHADOW LIGHT_GREEN}CELER"
-1486: "{COLOR GREEN}{SHADOW LIGHT_GREEN}SIC"
+1486: "{COLOR GREEN}{SHADOW LIGHT_GREEN}ITA"
 1487: "{COLOR GREEN}{SHADOW LIGHT_GREEN}NON"
 1488: "{COLOR GREEN}{SHADOW LIGHT_GREEN}ELIGE"
 1489: "{COLOR GREEN}{SHADOW LIGHT_GREEN}FIXUM"
@@ -1581,7 +1581,7 @@
 1618: "ALIA"
 1619: "DESELIGE"
 1620: const u8 gText_TheseThreePkmnOkay[] = _("Are these three POKéMON OK?");
-1621: "SIC"
+1621: "ITA"
 1622: "NON"
 1623: const u8 gText_CantSelectSamePkmn[] = _("Can't select same {PKMN}.");
 1624: "POKéMON MUTATIO"
@@ -1591,7 +1591,7 @@
 1628: "INFO"
 1629: "RESELIGE"
 1630: const u8 gText_QuitSwapping[] = _("Quit swapping?");
-1631: "SIC"
+1631: "ITA"
 1632: "NON"
 1633: "{PKMN} MUTATIONIS"
 1634: "EXI"
