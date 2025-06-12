@@ -1,7 +1,7 @@
       |=======================================|
 58:     "Haec Systema POKéMON Coacervandi\n"
 59:     "electronica…\p"
-60:     "Quicumque haec confecit vere generis\n"
+60:     "Quicumque haec confecit vero generis\n"
 61:     "alicuius magi scientifici est!$"
 64:     "Quando POKéMON meus ORAN BACCAM edit,\n"
 65:     "SL recuperavit!$"
