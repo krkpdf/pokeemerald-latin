@@ -3,7 +3,7 @@
 46:   "Incendit vim aliquorum motuum etiamsi\n"
 47:   "tantum pro certatione una sit.$"
 50:   "Non videntur ulla certaminum manualia\n"
-51:   "vendere pro TABERNACULO MARTIS…\p"
+51:   "vendere pro TABERNACULO MARTIO…\p"
 52:   "Videtur ut quippe necesse esse\n"
 53:   "in ipsius acumine confidere…$"
 56:   "NIDUS PILA melius in POKéMON infirmatis\n"

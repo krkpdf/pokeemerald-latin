@@ -2,6 +2,6 @@
 39:    "CELERITATEM in certamine.\p"
 40:    "Ei adiuvabit primum percutere--magnum\n"
 41:    "enimvero commodum!$"
-44:    "Apud MONTIS CAMINATAE cacumen, loci\n"
+44:    "Apud MONTIS CAMINI cacumen, loci\n"
 45:    "specialitas est quae tantum ibi emetur.\p"
 46:   "Da POKéMON uni--laetitia exsultabitur.$"

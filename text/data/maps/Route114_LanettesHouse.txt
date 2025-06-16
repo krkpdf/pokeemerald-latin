@@ -39,5 +39,5 @@
 99:    "evoltione.\p"
 100:  "“Hic spes est te pervestigationem\n"
 101:  "in Systemata Coarcervandi continuere.\p"
-102:  "“A BILL missum\n"
+102:  "“A GILL missum\n"
 103:  "… … … … … … … …”$"

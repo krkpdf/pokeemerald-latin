@@ -30,7 +30,7 @@
 368:  "se ipsos sanare vel protegere possunt.$"
 371:  "SCOTUS: Heus illic, {PLAYER}{KUN}!\n"
 372:  "Putavi quod te hic videre possim.\p"
-373:  "TABERNACULUM MARTIS locus est ubi\n"
+373:  "TABERNACULUM MARTIUM locus est ubi\n"
 374:  "TRAHITORES fortes occurrere potes.\p"
 375:  "Non refert quid regulae sint,\n"
 376:  "neque quomodo certamina gerantur.\p"

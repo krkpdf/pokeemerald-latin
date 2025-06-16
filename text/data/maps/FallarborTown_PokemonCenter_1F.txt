@@ -17,6 +17,6 @@
 106:  "abhinc, species fuerunt?\p"
 107:  "Fortasse DELIRUS FOSSILIUM apud\n"
 108:  "extremum oppidum sciebit.$"
-111:  "In agris FALLARBORIS, novellas\n"
+111:  "In agris CASTANEARUM, novellas\n"
 112:  "arborum durarum ponimus quae\l"
 113:  "in cineribus volcaniis quidem virent.$"

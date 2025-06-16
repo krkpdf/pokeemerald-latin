@@ -9,7 +9,7 @@
 32:     "Bene, conabor paule magis ad res\n"
 33:     "contendere ab hoc tempore…$"
 36:     "Rector noster nobis iussit in MONTE\n"
-37:     "CAMINATAE fodere, itaque fodimus.\p"
+37:     "CAMINO fodere, itaque fodimus.\p"
 38:     "Et in fodiendi cursu, pervenimus in \n"
 39:     "aliquid, quod mentes nostras displosit!\p"
 40:     "Quid invenimus?\p"

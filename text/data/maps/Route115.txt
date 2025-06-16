@@ -3,6 +3,6 @@
 135:   "Numquam scis quando POKéMON silvestria\n"
 136:   "apparebunt. Suspensa plenum est.$"
 139:   "VIA 115\n"
-140:   "{DOWN_ARROW} URBS FERRIBORUS$"
+140:   "{DOWN_ARROW} URBS FERRIDUNUM$"
 143:   "CATARACTA METEORI\n"
-144:   "OPPIDUM FALLARBOR PER HANC$"
+144:   "OPPIDUM CASTANEAE TRANS HOC$"

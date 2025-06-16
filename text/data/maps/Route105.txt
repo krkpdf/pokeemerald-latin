@@ -4,7 +4,7 @@
 83:     "… … … … … …\n"
 84:     "Ubi es nunc?\l"
 85:     "Sonatur ventosus ubicumque sis.\p"
-86:     "Modo ab DEVON DOM. PETRAEO de\n"
+86:     "Modo ab SOCIETATIS DEVON DOM. SAXIO de\n"
 87:     "POKéNAVE tuo audivi, itaque decrevi,\l"
 88:     "ut tibi vocatum dem.\p"
 89:     "Sonatur tibi res bene valere,\n"

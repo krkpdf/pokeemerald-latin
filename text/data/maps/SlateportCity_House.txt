@@ -5,4 +5,4 @@
 17:     "staterarum POKéMON pertinet.$"
 20:     "TRAHITOR es, nonne?\p"
 21:     "Cum ad PORTUM SAXEUM venisti, graderis\n"
-22:     "videlicet ad TABERNACULUM MARTIS.$"
+22:     "videlicet ad TABERNACULUM MARTIUM.$"

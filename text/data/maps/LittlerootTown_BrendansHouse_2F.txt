@@ -7,7 +7,7 @@
 284:   "trahere confecerunt.\p"
 285:   "POKéMON portantes tam commodi sunt!\p"
 286:   "O, cura ut comprobes omnia super mensa\n"
-287:   "scriptorii esse.$"
+287:   "scriptorii adesse.$"
 290:   "{PLAYER} quaternum aperuit.\p"
 291:   "LEX PRIMA AMBAGIUM\n"
 292:   "Aperi INDICEM cum START.\p"

@@ -17,7 +17,7 @@
 43:     "TRAHITOR INSIGNE LAPIDEM meritus est.\p"
 44:     "Et, dissimiliter MT, MA uti potest\n"
 45:     "plus quam semel.$"
-48:     "Cum urbem FERRIBORI expanderent, \n"
+48:     "Cum urbem FERRIDUNUM expanderent, \n"
 49:     "pater meus adiuvit.\p"
 50:     "POKéMON sua CAESIONE uti iusit\n"
 51:     "ad arbores a loco purgandas.$"
