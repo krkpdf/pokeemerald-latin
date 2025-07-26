@@ -1,4 +1,3 @@
-      |=======================================|
 58:     "Haec Systema POKéMON Coacervandi\n"
 59:     "electronica…\p"
 60:     "Quicumque haec confecit vero generis\n"

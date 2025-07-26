@@ -30,7 +30,7 @@
 755:   "tui, te POKéMON TRAHITOREM esse?$"
 758:   "… … … … … …\p"
 759:   "Video, fortasse non es.\n"
-760:   "Vestimenta tua non valde immunda sunt.\p"
+760:   "Vestimenta tua vix immunda sunt.\p"
 761:   "Aut TRAHITOR tiro es, aut fortasse\n"
 762:   "modo puer vulgaris.$"
 765:   "Ambulo per terram quaerens TRAHITORES\n"

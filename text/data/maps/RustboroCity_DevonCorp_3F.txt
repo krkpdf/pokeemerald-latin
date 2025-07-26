@@ -59,7 +59,7 @@
 277:   "Um… De proposito, fasciculum istum,\n"
 278:   "quem pro nobis reduxisti…\p"
 279:   "Licet mihi tibi cogere, ut istum ad\n"
-280:   "NAVALE in PORTU SAXEO transportares?\p"
+280:   "NAVALE in PORTU SAXEO portares?\p"
 281:   "Terribile esset si malefactores illi\n"
 282:   "id iterum capere conarentur.\p"
 283:   "Uh… Hehehe, tunc, uh, possumne fidere,\n"

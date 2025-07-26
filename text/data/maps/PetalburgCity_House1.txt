@@ -1,4 +1,3 @@
-      |=======================================|
 13:     "Itinerare incredibile est!\p"
 14:     "Cum iuvenis eram, pererrabam maria et\n"
 15:     "montes!$"
@@ -6,7 +5,7 @@
 19:     "Cupio iterum ire in ambagibus cum\n" 
 20:     "aliquibus POKéMON…\p"
 21:     "Repens inter gramina humida…\n"
-22:     "Scandens montes saxeos et scrupeos…\p"
+22:     "Scandens montes saxeos et asperos…\p"
 23:     "Transiens maria furentia…\n"
 24:     "Pererrans in speluncis nigris…\p"
 25:     "Et, aliquando, etiam parvule desiderio\n"

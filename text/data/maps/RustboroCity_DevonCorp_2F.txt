@@ -42,7 +42,7 @@
 331:   "Peritia DEVON technologiae egregia\n"
 332:   "est, tibi dico.$"
 335:   "Oh, quam mirum!\n"
-336:   "Non solum unum, sed duo fossilia habes?\p"
+336:   "Non unum, sed duo fossilia habes?\p"
 337:   "Infeliciter, machina mea solum unum\n"
 338:   "POKéMON singulum reducere potest.\p"
 339:   "Velisne unum ex fossilibus tuis\n"

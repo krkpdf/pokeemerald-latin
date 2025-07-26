@@ -1,4 +1,3 @@
-      |=======================================|
 13:     "NORMANUS GYMNIS RECTOR OPPIDI nostri\n"
 14:     "novus factus est.\p"
 15:     "Puto eum familiam suam alicunde procul\n"

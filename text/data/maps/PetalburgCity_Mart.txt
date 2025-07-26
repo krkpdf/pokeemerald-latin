@@ -1,4 +1,3 @@
-      |=======================================|
 70:     "Etiamsi POKéMON nunc infirmum sit,\n"
 71:     "firmabitur et fortior fiet.\p"
 72:     "Maximi momenti amor est!\n"

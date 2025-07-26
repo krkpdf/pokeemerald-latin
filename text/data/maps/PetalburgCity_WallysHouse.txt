@@ -1,4 +1,3 @@
-      |=======================================|
 71:     "Tu es…\n"
 72:     "Ah, certe {PLAYER}{KUN} es, nonne?\p"
 73:     "Tibi gratia ago quia nuper cum VALIO\n"
@@ -7,7 +6,7 @@
 76:     "morbidus fuit.\p"
 77:     "Eum cum cognatis mansum in OPPIDUM\n"
 78:     "VIRIDINEMORIS aliquantisper misimus.\p"
-79:     "Aer enim multus purior illic est quam\p"
+79:     "Aer enim multus purior illic est quam\n"
 80:     "hic.\p"
 81:     "Quid est? Ubi est VALIUS?\n"
 82:     "Iam egressus est, VALIUS noster.\p"
@@ -17,7 +16,7 @@
 90:     "{PLAYER}{KUN}! Ignosce, veniam da\n"
 91:     "quia te huc traximus.\p"
 92:     "Tamen VALIUS noster ex quo iit OPPIDUM\n"
-93:     "VIRIDINEMORIS, per sanus factus est.\p"
+93:     "VIRIDINEMORIS, persanus factus est.\p"
 94:     "Tibi debemus hoc totum!\p"
 95:     "Ubi VALIUS OPPIDUM discessit, nonne ei\n"
 96:     "POKéMON capere adiuvisti?\p"
