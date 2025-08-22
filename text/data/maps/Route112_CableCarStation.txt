@@ -1,4 +1,4 @@
-90:   "TELEFERRICUM succedendi paratum est.\n"
-91:   "Visne apud eum esse?$"
-94:   "Quaeso, gradere huc.$"
-97:   "Quaeso, vehere nobiscum alio tempore.$"
+90:     "TELEFERRICUM succedendi paratum est.\n"
+91:     "Visne apud eum esse?$"
+94:     "Quaeso, gradere huc.$"
+97:     "Quaeso, vehere nobiscum alio tempore.$"

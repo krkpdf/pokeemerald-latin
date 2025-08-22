@@ -1,6 +1,6 @@
 31:     "CUNICULUS FEMORIS ille illic…\p"
-32:     "Primum, gregem magnam per petram\n"
-33:     "machina novissima fodientem habuimus.\l"
+32:     "Primum, gregem habuimus magnam machina\n"
+33:     "novissima per petram fodientem .\l"
 34:     "Tamen, nobis sistendum fuit.\p"
 35:     "Ut enim evenit, POKéMON silvestria\n"
 36:     "in loco illo male afficeremus si illic\l"
