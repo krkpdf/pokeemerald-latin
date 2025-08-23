@@ -1,4 +1,4 @@
-13:     "POKéMON meum naturam PROPERAM habet.\p"
+13:     "POKéMON meum natura PROPERA est.\p"
 14:     "Itaque maiorem CELERITATEM habet,\n"
 15:     "comparando cum ceteris POKéMON meis.\p"
 16:     "Fortasse natura sua ad emolumentum\n"

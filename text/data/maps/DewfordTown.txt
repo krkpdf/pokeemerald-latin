@@ -96,7 +96,7 @@
 781:   "Res pretiosissima in pretio.\n"
 782:   "Opinabarisne me non novisse?\p"
 783:   "“{STR_VAR_1}”…\n"
-784:   "Sunt, fortasse, abhinc quinque minutis.\p"
+784:   "Sunt, forte, abhinc quinque minutis.\p"
 785:   "Nunc, “{STR_VAR_2}” est quod vitale\n"
 786:   "est et cum temporibus concinit!$"
 789:   "Hmm…\n"

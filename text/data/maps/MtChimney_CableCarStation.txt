@@ -1,4 +1,4 @@
-89:   "TELEFERICUM ad delabendum paratum est.\n"
-90:   "Visne in eo esse?$"
-93:   "Quaeso, via hac gredere.$"
-96:   "Quaeso ut alio tempore nobiscum veharis.$"
+89:     "TELEFERICUM ad delabendum promptum.\n"
+90:     "Visne in eo adesse?$"
+93:     "Quaeso, via hac gredere.$"
+96:     "Peto ut alio tempore nobiscum veharis.$"

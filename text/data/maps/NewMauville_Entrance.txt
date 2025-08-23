@@ -1,5 +1,4 @@
-      |=======================================|
-50:   "Porta serata est.$"
-53:   "CLAVIS HYPOGAEI uti?$"
-56:   "{PLAYER} CLAVIM HYPOGAEI usus est.\p"
-57:   "Porta aperta est!$"
+50:     "Porta serata est.$"
+53:     "CLAVIS HYPOGAEI uti?$"
+56:     "{PLAYER} CLAVIM HYPOGAEI usus est.\p"
+57:     "Porta aperta est!$"
