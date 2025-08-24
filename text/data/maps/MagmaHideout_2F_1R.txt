@@ -6,7 +6,7 @@
 30:     "Suspicionem meam suscitas!\n"
 31:     "Certa mecum!$"
 34:     "Aiyiyi…\n"
-35:     "Superbia mea ut MAGMATIS membrum…$"
+35:     "Superbia mea quia MAGMATIS membrum…$"
 38:     "Si frigore perfers, debes te\n"
 39:     "ORDINEM MAGMA iungere.$"
 42:     "Mane ibi!\p"

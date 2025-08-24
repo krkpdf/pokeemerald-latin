@@ -40,7 +40,7 @@
 335:   "POKéMON, homines… Omnis vita mari\n"
 336:   "dependet.\p"
 337:   "Ergo, ORDO AQUA ad expansionem maris\n"
-338:   "dedictus est.\p"
+338:   "dedicatus est.\p"
 339:   "Nonne consentis? Id quo nos fungimur\n"
 340:   "vere magna susciptio est.\p"
 341:   "Ah, bene…\n"
