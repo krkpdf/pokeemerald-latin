@@ -312,7 +312,7 @@
 366: static const u8 sText_PkmnWontObey[] = _("{B_ATK_NAME_WITH_PREFIX} won't\nobey!");
 367: static const u8 sText_PkmnTurnedAway[] = _("{B_ATK_NAME_WITH_PREFIX} turned away!");
 368: static const u8 sText_PkmnPretendNotNotice[] = _("{B_ATK_NAME_WITH_PREFIX} pretended\nnot to notice!");
-369: "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\n{B_BUFF2} usurum ust.\pVultne {B_PLAYER_NAME} \nPOKéMON mutare?"
+369: "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\n{B_BUFF2} usurum est.\pVultne {B_PLAYER_NAME} \nPOKéMON mutare?"
 370:  "{B_ATK_NAME_WITH_PREFIX}\n{B_BUFF1} didicit!"
 371:  "Lusor vicit\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p"
 372: static const u8 sText_CreptCloser[] = _("{B_PLAYER_NAME} crept closer to\n{B_OPPONENT_MON1_NAME}!");
