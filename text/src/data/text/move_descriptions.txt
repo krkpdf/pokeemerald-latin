@@ -825,7 +825,7 @@ SPARK
 838: "hosti paralysim dare potest."
 
 FURY CUTTER
-841: "Impetus cuius vis tenditur\n"
+841: "Impetus cuius vis augescit\n"
 842: "cum sequentia plagorum."
 
 STEEL WING
