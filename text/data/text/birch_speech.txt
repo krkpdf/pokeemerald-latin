@@ -31,7 +31,7 @@
 46:     "Ah, bene!\p"
 47:     "{PLAYER}{KUN} ille es, qui ad oppidum\n"
 48:     "mihi carum RADICULAM veniet.\l"
-49:     "Nunc intellego!\p
+49:     "Nunc intellego!\p"
 50:     "$"
 53:     "Recte, esne promptus?\p"
 54:     "Tuae ambages propriae nunc vero\n"
