@@ -94,7 +94,7 @@
 98: const u8 gText_DefaultNameLucy[] = _("TITIA");
 99: const u8 gText_DefaultNameHalie[] = _("TERTIA");
 
-100:  "Hoc est, quod vocatur “POKéMON.”{PAUSE 96}\p"
+100:  "Hoc est quod “POKéMON” dicimus.{PAUSE 96}\p"
 101: const u8 gText_5MarksPokemon[] = _("????? POKéMON");
 102: const u8 gText_UnkHeight[] = _("{CLEAR_TO 0x0C}??'??”");
 103: const u8 gText_UnkWeight[] = _("????.? lbs.");
