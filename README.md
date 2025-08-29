@@ -8,6 +8,7 @@ These files are intended to be integrated with the [Emerald Decompilation Projec
 The base English text used for translation is also extracted from the Decompilation Project.
 
 *WIKI:* https://github.com/krkpdf/pokeemerald-latin/wiki
+
 *DISCORD:* https://discord.gg/ShA8rfBDwM
 
 ## INSTALLATION
