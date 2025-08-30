@@ -1,7 +1,7 @@
-55: static const u8 sText_Trainer1LoseText[] = _("{B_TRAINER1_LOSE_TEXT}");
+55:   "{B_TRAINER1_LOSE_TEXT}"
 56:   "{B_BUFF1} meritum est{B_BUFF2}\n{B_BUFF3} Puncta PER.!\p"
-57: static const u8 sText_EmptyString4[] = _("");
-58: static const u8 sText_ABoosted[] = _(" a boosted");
+57:   ""
+58:   " auctum"
 59:   "{B_BUFF1} progressus\nest ad GR. {B_BUFF2}!{WAIT_SE}\p"
 60:   "{B_BUFF1} discit\n{B_BUFF2}!{WAIT_SE}\p"
 61:   "{B_BUFF1} conatur\ndiscere {B_BUFF2}.\p"
@@ -10,15 +10,15 @@
 64:   "{B_BUFF1} oblitus est\n{B_BUFF2}.\p"
 65:   "{PAUSE 32}Desine discendi\n{B_BUFF2}?"
 66:   "{B_BUFF1} non didicit\n{B_BUFF2}.\p"
-67:   "Utaris proximum POKéMON?"
+67:   "Utaris proximo POKéMON?"
 68:   "{B_ATK_NAME_WITH_PREFIX}\nimpetus erravit!"
 69:   "{B_DEF_NAME_WITH_PREFIX}\nsemetipsum protexit!"
 70:   "{B_DEF_NAME_WITH_PREFIX} iniuriam\ncum {B_DEF_ABILITY} vitavit!"
-71: static const u8 sText_PkmnMakesGroundMiss[] = _("{B_DEF_NAME_WITH_PREFIX} makes GROUND\nmoves miss with {B_DEF_ABILITY}!");
+71:   "{B_DEF_NAME_WITH_PREFIX} motibus TERRAE\n cum {B_DEF_ABILITY} perdit!"
 72:   "{B_DEF_NAME_WITH_PREFIX} impetum\nvitavit!"
 73:   "{B_DEF_NAME_WITH_PREFIX} versum\nnulla efficit…"
-74:   "{B_ATK_NAME_WITH_PREFIX}\nconcidit!\p");
-75:   "{B_DEF_NAME_WITH_PREFIX}\nconcidit!\p");
+74:   "{B_ATK_NAME_WITH_PREFIX}\nconcidit!\p"
+75:   "{B_DEF_NAME_WITH_PREFIX}\nconcidit!\p"
 76:   "{B_PLAYER_NAME} propter victoriam\n¥{B_BUFF1} accepit!\p"
 77:   "{B_PLAYER_NAME} caret\nPOKéMON utiles!\p"
 78:   "{B_PLAYER_NAME} relanguit!{PAUSE_UNTIL_PRESS}"
@@ -31,120 +31,120 @@
 85:   "{B_DEF_NAME_WITH_PREFIX} iam\ndormit!"
 86:   "{B_ATK_NAME_WITH_PREFIX} iam\ndormit!"
 87:   "{B_DEF_NAME_WITH_PREFIX}\nnon affectum est!"
-88: static const u8 sText_PkmnWasPoisoned[] = _("{B_EFF_NAME_WITH_PREFIX}\nwas poisoned!");
-89: static const u8 sText_PkmnPoisonedBy[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\npoisoned {B_EFF_NAME_WITH_PREFIX}!");
-90: static const u8 sText_PkmnHurtByPoison[] = _("{B_ATK_NAME_WITH_PREFIX} is hurt\nby poison!");
-91: static const u8 sText_PkmnAlreadyPoisoned[] = _("{B_DEF_NAME_WITH_PREFIX} is already\npoisoned.");
-92: static const u8 sText_PkmnBadlyPoisoned[] = _("{B_EFF_NAME_WITH_PREFIX} is badly\npoisoned!");
-93: static const u8 sText_PkmnEnergyDrained[] = _("{B_DEF_NAME_WITH_PREFIX} had its\nenergy drained!");
-94: static const u8 sText_PkmnWasBurned[] = _("{B_EFF_NAME_WITH_PREFIX} was burned!");
-95: static const u8 sText_PkmnBurnedBy[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nburned {B_EFF_NAME_WITH_PREFIX}!");
-96: static const u8 sText_PkmnHurtByBurn[] = _("{B_ATK_NAME_WITH_PREFIX} is hurt\nby its burn!");
-97: static const u8 sText_PkmnAlreadyHasBurn[] = _("{B_DEF_NAME_WITH_PREFIX} already\nhas a burn.");
-98: static const u8 sText_PkmnWasFrozen[] = _("{B_EFF_NAME_WITH_PREFIX} was\nfrozen solid!");
-99: static const u8 sText_PkmnFrozenBy[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nfroze {B_EFF_NAME_WITH_PREFIX} solid!");
-100: static const u8 sText_PkmnIsFrozen[] = _("{B_ATK_NAME_WITH_PREFIX} is\nfrozen solid!");
-101: static const u8 sText_PkmnWasDefrosted[] = _("{B_DEF_NAME_WITH_PREFIX} was\ndefrosted!");
-102: static const u8 sText_PkmnWasDefrosted2[] = _("{B_ATK_NAME_WITH_PREFIX} was\ndefrosted!");
-103: static const u8 sText_PkmnWasDefrostedBy[] = _("{B_ATK_NAME_WITH_PREFIX} was\ndefrosted by {B_CURRENT_MOVE}!");
-104: static const u8 sText_PkmnWasParalyzed[] = _("{B_EFF_NAME_WITH_PREFIX} is paralyzed!\nIt may be unable to move!");
-105: static const u8 sText_PkmnWasParalyzedBy[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nparalyzed {B_EFF_NAME_WITH_PREFIX}!\lIt may be unable to move!");
-106: static const u8 sText_PkmnIsParalyzed[] = _("{B_ATK_NAME_WITH_PREFIX} is paralyzed!\nIt can't move!");
-107: static const u8 sText_PkmnIsAlreadyParalyzed[] = _("{B_DEF_NAME_WITH_PREFIX} is\nalready paralyzed!");
-108: static const u8 sText_PkmnHealedParalysis[] = _("{B_DEF_NAME_WITH_PREFIX} was\nhealed of paralysis!");
-109: static const u8 sText_PkmnDreamEaten[] = _("{B_DEF_NAME_WITH_PREFIX}'s\ndream was eaten!");
-110: static const u8 sText_StatsWontIncrease[] = _("{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\nwon't go higher!");
-111: static const u8 sText_StatsWontDecrease[] = _("{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwon't go lower!");
-112: static const u8 sText_TeamStoppedWorking[] = _("Your team's {B_BUFF1}\nstopped working!");
-113: static const u8 sText_FoeStoppedWorking[] = _("The foe's {B_BUFF1}\nstopped working!");
-114: static const u8 sText_PkmnIsConfused[] = _("{B_ATK_NAME_WITH_PREFIX} is\nconfused!");
-115: static const u8 sText_PkmnHealedConfusion[] = _("{B_ATK_NAME_WITH_PREFIX} snapped\nout of confusion!");
-116: static const u8 sText_PkmnWasConfused[] = _("{B_EFF_NAME_WITH_PREFIX} became\nconfused!");
-117: static const u8 sText_PkmnAlreadyConfused[] = _("{B_DEF_NAME_WITH_PREFIX} is\nalready confused!");
-118: static const u8 sText_PkmnFellInLove[] = _("{B_DEF_NAME_WITH_PREFIX}\nfell in love!");
-119: static const u8 sText_PkmnInLove[] = _("{B_ATK_NAME_WITH_PREFIX} is in love\nwith {B_SCR_ACTIVE_NAME_WITH_PREFIX}!");
-120: static const u8 sText_PkmnImmobilizedByLove[] = _("{B_ATK_NAME_WITH_PREFIX} is\nimmobilized by love!");
-121: static const u8 sText_PkmnBlownAway[] = _("{B_DEF_NAME_WITH_PREFIX} was\nblown away!");
-122: static const u8 sText_PkmnChangedType[] = _("{B_ATK_NAME_WITH_PREFIX} transformed\ninto the {B_BUFF1} type!");
-123: static const u8 sText_PkmnFlinched[] = _("{B_ATK_NAME_WITH_PREFIX} flinched!");
-124: static const u8 sText_PkmnRegainedHealth[] = _("{B_DEF_NAME_WITH_PREFIX} regained\nhealth!");
-125: static const u8 sText_PkmnHPFull[] = _("{B_DEF_NAME_WITH_PREFIX}'s\nHP is full!");
-126: static const u8 sText_PkmnRaisedSpDef[] = _("{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised SP. DEF!");
-127: static const u8 sText_PkmnRaisedSpDefALittle[] = _("{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised SP. DEF a little!");
-128: static const u8 sText_PkmnRaisedDef[] = _("{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised DEFENSE!");
-129: static const u8 sText_PkmnRaisedDefALittle[] = _("{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised DEFENSE a little!");
-130: static const u8 sText_PkmnCoveredByVeil[] = _("{B_ATK_PREFIX2}'s party is covered\nby a veil!");
-131: static const u8 sText_PkmnUsedSafeguard[] = _("{B_DEF_NAME_WITH_PREFIX}'s party is protected\nby SAFEGUARD!");
-132: static const u8 sText_PkmnSafeguardExpired[] = _("{B_ATK_PREFIX3}'s party is no longer\nprotected by SAFEGUARD!");
-133: static const u8 sText_PkmnWentToSleep[] = _("{B_ATK_NAME_WITH_PREFIX} went\nto sleep!");
-134: static const u8 sText_PkmnSleptHealthy[] = _("{B_ATK_NAME_WITH_PREFIX} slept and\nbecame healthy!");
-135: static const u8 sText_PkmnWhippedWhirlwind[] = _("{B_ATK_NAME_WITH_PREFIX} whipped\nup a whirlwind!");
-136: static const u8 sText_PkmnTookSunlight[] = _("{B_ATK_NAME_WITH_PREFIX} took\nin sunlight!");
-137: static const u8 sText_PkmnLoweredHead[] = _("{B_ATK_NAME_WITH_PREFIX} lowered\nits head!");
-138: static const u8 sText_PkmnIsGlowing[] = _("{B_ATK_NAME_WITH_PREFIX} is glowing!");
-139: static const u8 sText_PkmnFlewHigh[] = _("{B_ATK_NAME_WITH_PREFIX} flew\nup high!");
-140: static const u8 sText_PkmnDugHole[] = _("{B_ATK_NAME_WITH_PREFIX} dug a hole!");
-141: static const u8 sText_PkmnHidUnderwater[] = _("{B_ATK_NAME_WITH_PREFIX} hid\nunderwater!");
-142: static const u8 sText_PkmnSprangUp[] = _("{B_ATK_NAME_WITH_PREFIX} sprang up!");
-143: static const u8 sText_PkmnSqueezedByBind[] = _("{B_DEF_NAME_WITH_PREFIX} was squeezed by\n{B_ATK_NAME_WITH_PREFIX}'s BIND!");
-144: static const u8 sText_PkmnTrappedInVortex[] = _("{B_DEF_NAME_WITH_PREFIX} was trapped\nin the vortex!");
-145: static const u8 sText_PkmnTrappedBySandTomb[] = _("{B_DEF_NAME_WITH_PREFIX} was trapped\nby SAND TOMB!");
-146: static const u8 sText_PkmnWrappedBy[] = _("{B_DEF_NAME_WITH_PREFIX} was WRAPPED by\n{B_ATK_NAME_WITH_PREFIX}!");
-147: static const u8 sText_PkmnClamped[] = _("{B_ATK_NAME_WITH_PREFIX} CLAMPED\n{B_DEF_NAME_WITH_PREFIX}!");
-148: static const u8 sText_PkmnHurtBy[] = _("{B_ATK_NAME_WITH_PREFIX} is hurt\nby {B_BUFF1}!");
-149: static const u8 sText_PkmnFreedFrom[] = _("{B_ATK_NAME_WITH_PREFIX} was freed\nfrom {B_BUFF1}!");
-150: static const u8 sText_PkmnCrashed[] = _("{B_ATK_NAME_WITH_PREFIX} kept going\nand crashed!");
-151: const u8 gText_PkmnShroudedInMist[] = _("{B_ATK_PREFIX2} became\nshrouded in MIST!");
-152: static const u8 sText_PkmnProtectedByMist[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX} is protected\nby MIST!");
-153: const u8 gText_PkmnGettingPumped[] = _("{B_ATK_NAME_WITH_PREFIX} is getting\npumped!");
-154: static const u8 sText_PkmnHitWithRecoil[] = _("{B_ATK_NAME_WITH_PREFIX} is hit\nwith recoil!");
-155: static const u8 sText_PkmnProtectedItself2[] = _("{B_ATK_NAME_WITH_PREFIX} protected\nitself!");
-156: static const u8 sText_PkmnBuffetedBySandstorm[] = _("{B_ATK_NAME_WITH_PREFIX} is buffeted\nby the sandstorm!");
-157: static const u8 sText_PkmnPeltedByHail[] = _("{B_ATK_NAME_WITH_PREFIX} is pelted\nby HAIL!");
-158: static const u8 sText_PkmnsXWoreOff[] = _("{B_ATK_PREFIX1}'s {B_BUFF1}\nwore off!");
-159: static const u8 sText_PkmnSeeded[] = _("{B_DEF_NAME_WITH_PREFIX} was seeded!");
-160: static const u8 sText_PkmnEvadedAttack[] = _("{B_DEF_NAME_WITH_PREFIX} evaded\nthe attack!");
-161: static const u8 sText_PkmnSappedByLeechSeed[] = _("{B_ATK_NAME_WITH_PREFIX}'s health is\nsapped by LEECH SEED!");
+88:   "{B_EFF_NAME_WITH_PREFIX}\nvenenatum est!"
+89:   "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ope {B_SCR_ACTIVE_ABILITY}\n{B_EFF_NAME_WITH_PREFIX} venenavit!"
+90:  "{B_ATK_NAME_WITH_PREFIX} laesum est\nveneno!"
+91:  "{B_DEF_NAME_WITH_PREFIX} iam est\nvenenatum."
+92:  "{B_EFF_NAME_WITH_PREFIX} graviter\nvenenatum est!"
+93:  "{B_DEF_NAME_WITH_PREFIX} viribus\nexhaustum est!"
+94:  "{B_EFF_NAME_WITH_PREFIX} adustum est!"
+95:  "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ope {B_SCR_ACTIVE_ABILITY}\n{B_EFF_NAME_WITH_PREFIX} adussit!"
+96:  "{B_ATK_NAME_WITH_PREFIX} laessum est\nadustione sua!"
+97:  "{B_DEF_NAME_WITH_PREFIX} iam\nadustionem habet."
+98:  "{B_EFF_NAME_WITH_PREFIX} solidum\ncongelatum est!"
+99:  "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ope {B_SCR_ACTIVE_ABILITY}\n{B_EFF_NAME_WITH_PREFIX} solidum congelavit!"
+100: "{B_ATK_NAME_WITH_PREFIX} solidum\ncongelatum est!"
+101: "{B_DEF_NAME_WITH_PREFIX}\nregelatum est!"
+102: "{B_ATK_NAME_WITH_PREFIX}\nregelatum est!"
+103: "{B_ATK_NAME_WITH_PREFIX} regelatum\nab motu {B_CURRENT_MOVE} est!");
+104: "{B_EFF_NAME_WITH_PREFIX} paralysim habet!\nFieri potest eum movere nequi!"
+105: "{B_SCR_ACTIVE_NAME_WITH_PREFIX} ope {B_SCR_ACTIVE_ABILITY}\n{B_EFF_NAME_WITH_PREFIX} paralysim dedit!\lFieri potest eum movere nequi!"
+106: "{B_ATK_NAME_WITH_PREFIX} paralysim habet!\nNon valet movere!"
+107: "{B_DEF_NAME_WITH_PREFIX} iam\nparalysim habet!"
+108: "{B_DEF_NAME_WITH_PREFIX} paralysi\nsanatum est!"
+109: "{B_DEF_NAME_WITH_PREFIX} somnio\nspoliatum est!"
+110: "{B_ATK_NAME_WITH_PREFIX} statera {B_BUFF1}\nnon ultra augeri potest!"
+111: "{B_DEF_NAME_WITH_PREFIX} statera {B_BUFF1}\nnon ultra minueri potest!");
+112: "Manui tuae {B_BUFF1}\ndesinit!"
+113: "Hostis {B_BUFF1}\ndesinit!"
+114: "{B_ATK_NAME_WITH_PREFIX}\nstupefactum est!"
+115: "{B_ATK_NAME_WITH_PREFIX} confusione\nliberatum est!"
+116: "{B_EFF_NAME_WITH_PREFIX}\nstupefactum est!"
+117: "{B_DEF_NAME_WITH_PREFIX} iam\nstupefactum est!"
+118: "{B_DEF_NAME_WITH_PREFIX}\nin amorem incidit!"
+119: "{B_ATK_NAME_WITH_PREFIX} amat\n{B_SCR_ACTIVE_NAME_WITH_PREFIX}!"
+120: "{B_ATK_NAME_WITH_PREFIX} \namore immobilis est!"
+121: "{B_DEF_NAME_WITH_PREFIX} flatu\nexpulsum est!"
+122: "{B_ATK_NAME_WITH_PREFIX} transformatum\nest in typum {B_BUFF1}!"
+123: "{B_ATK_NAME_WITH_PREFIX} titubavit!"
+124: "{B_DEF_NAME_WITH_PREFIX} salutem\nredeptum est!"
+125: "{B_DEF_NAME_WITH_PREFIX} impletum\nest salute!"
+126: "{B_ATK_PREFIX2} motu {B_CURRENT_MOVE}\nDEF SP auxit!"
+127: "{B_ATK_PREFIX2} motu {B_CURRENT_MOVE}\nDEF SP paulum auxit!"
+128: "{B_ATK_PREFIX2} motu{B_CURRENT_MOVE}\nDEF auxit!"
+129: "{B_ATK_PREFIX2} motu {B_CURRENT_MOVE}\nDEF paulum auxit!"
+130: "{B_ATK_PREFIX2} et manus sua\nvelamine operta sunt!"
+131: "{B_DEF_NAME_WITH_PREFIX} et manus sua\nTUTELA MIRA protecta sunt!"
+132: "{B_ATK_PREFIX3} et manus sua non\niam TUTELA MIRA potecta sunt!"
+133: "{B_ATK_NAME_WITH_PREFIX} somnum\ncepit!"
+134: "{B_ATK_NAME_WITH_PREFIX} dormivit\net valuit!"
+135: "{B_ATK_NAME_WITH_PREFIX} turbinem\nup a whirlwind!"
+136: "{B_ATK_NAME_WITH_PREFIX} sol\ncepit!"
+137: "{B_ATK_NAME_WITH_PREFIX} caput\nsuum demisit!"
+138: "{B_ATK_NAME_WITH_PREFIX} lucet!"
+139: "{B_ATK_NAME_WITH_PREFIX} sursum\nin altitudinem subvolavit!"
+140: "{B_ATK_NAME_WITH_PREFIX} cavum fodit!"
+141: "{B_ATK_NAME_WITH_PREFIX} se sub\naquam abscondit!"
+142: "{B_ATK_NAME_WITH_PREFIX} subsiluit!"
+143: "{B_DEF_NAME_WITH_PREFIX} VINCTURA pressum\nest quam{B_ATK_NAME_WITH_PREFIX} egit!"
+144: "{B_DEF_NAME_WITH_PREFIX} in vertice\ncaptum est!"
+145: "{B_DEF_NAME_WITH_PREFIX} ARENAE TUMBA\ncaptum est!"
+146: "{B_ATK_NAME_WITH_PREFIX}\n{B_DEF_NAME_WITH_PREFIX}involvit!"
+147: "{B_ATK_NAME_WITH_PREFIX} constrinxit\n{B_DEF_NAME_WITH_PREFIX}!"
+148: "{B_ATK_NAME_WITH_PREFIX} laessum est\nab ope {B_BUFF1}!"
+149: "{B_ATK_NAME_WITH_PREFIX} liberatum est\nab {B_BUFF1}!"
+150: "{B_ATK_NAME_WITH_PREFIX} non\ndestitit et collisit!"
+151: "{B_ATK_PREFIX2} NEBULA\ncircumdatum est!"
+152: "{B_SCR_ACTIVE_NAME_WITH_PREFIX} NEBULA\nprotectum est!"
+153: "{B_ATK_NAME_WITH_PREFIX} viribus\nincenditur!"
+154: "{B_ATK_NAME_WITH_PREFIX} resiliente\npercussum est!"
+155: "{B_ATK_NAME_WITH_PREFIX}\nsemetipsum protegit!"
+156: "{B_ATK_NAME_WITH_PREFIX} procella\narenacea verberatum est!"
+157: "{B_ATK_NAME_WITH_PREFIX} GRANDINE\nlapidatum est!"
+158: "{B_ATK_PREFIX1} {B_BUFF1}\namisit!"
+159: "{B_DEF_NAME_WITH_PREFIX} seminatum est!"
+160: "{B_DEF_NAME_WITH_PREFIX} impetum\nevasit!"
+161: "{B_ATK_NAME_WITH_PREFIX}salute\na SUCTUS SEMINE haustum est!"
 162: "{B_ATK_NAME_WITH_PREFIX} est\ndormiens."
-163: "{B_ATK_NAME_WITH_PREFIX} evigilatur!"
-164: static const u8 sText_PkmnUproarKeptAwake[] = _("But {B_SCR_ACTIVE_NAME_WITH_PREFIX}'s UPROAR\nkept it awake!");
-165: static const u8 sText_PkmnWokeUpInUproar[] = _("{B_ATK_NAME_WITH_PREFIX} woke up\nin the UPROAR!");
-166: static const u8 sText_PkmnCausedUproar[] = _("{B_ATK_NAME_WITH_PREFIX} caused\nan UPROAR!");
-167: static const u8 sText_PkmnMakingUproar[] = _("{B_ATK_NAME_WITH_PREFIX} is making\nan UPROAR!");
-168: static const u8 sText_PkmnCalmedDown[] = _("{B_ATK_NAME_WITH_PREFIX} calmed down.");
-169: static const u8 sText_PkmnCantSleepInUproar[] = _("But {B_DEF_NAME_WITH_PREFIX} can't\nsleep in an UPROAR!");
-170: static const u8 sText_PkmnStockpiled[] = _("{B_ATK_NAME_WITH_PREFIX} STOCKPILED\n{B_BUFF1}!");
-171: static const u8 sText_PkmnCantStockpile[] = _("{B_ATK_NAME_WITH_PREFIX} can't\nSTOCKPILE any more!");
-172: static const u8 sText_PkmnCantSleepInUproar2[] = _("But {B_DEF_NAME_WITH_PREFIX} can't\nsleep in an UPROAR!");
-173: static const u8 sText_UproarKeptPkmnAwake[] = _("But the UPROAR kept\n{B_DEF_NAME_WITH_PREFIX} awake!");
-174: static const u8 sText_PkmnStayedAwakeUsing[] = _("{B_DEF_NAME_WITH_PREFIX} stayed awake\nusing its {B_DEF_ABILITY}!");
-175: static const u8 sText_PkmnStoringEnergy[] = _("{B_ATK_NAME_WITH_PREFIX} is storing\nenergy!");
-176: static const u8 sText_PkmnUnleashedEnergy[] = _("{B_ATK_NAME_WITH_PREFIX} unleashed\nenergy!");
-177: static const u8 sText_PkmnFatigueConfusion[] = _("{B_ATK_NAME_WITH_PREFIX} became\nconfused due to fatigue!");
-178: static const u8 sText_PlayerPickedUpMoney[] = _("{B_PLAYER_NAME} picked up\n¥{B_BUFF1}!\p");
-179: static const u8 sText_PkmnUnaffected[] = _("{B_DEF_NAME_WITH_PREFIX} is\nunaffected!");
-180: static const u8 sText_PkmnTransformedInto[] = _("{B_ATK_NAME_WITH_PREFIX} transformed\ninto {B_BUFF1}!");
-181: static const u8 sText_PkmnMadeSubstitute[] = _("{B_ATK_NAME_WITH_PREFIX} made\na SUBSTITUTE!");
-182: static const u8 sText_PkmnHasSubstitute[] = _("{B_ATK_NAME_WITH_PREFIX} already\nhas a SUBSTITUTE!");
-183: static const u8 sText_SubstituteDamaged[] = _("The SUBSTITUTE took damage\nfor {B_DEF_NAME_WITH_PREFIX}!\p");
-184: static const u8 sText_PkmnSubstituteFaded[] = _("{B_DEF_NAME_WITH_PREFIX}'s\nSUBSTITUTE faded!\p");
-185: static const u8 sText_PkmnMustRecharge[] = _("{B_ATK_NAME_WITH_PREFIX} must\nrecharge!");
-186: static const u8 sText_PkmnRageBuilding[] = _("{B_DEF_NAME_WITH_PREFIX}'s RAGE\nis building!");
-187: static const u8 sText_PkmnMoveWasDisabled[] = _("{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwas disabled!");
-188: static const u8 sText_PkmnMoveDisabledNoMore[] = _("{B_ATK_NAME_WITH_PREFIX} is disabled\nno more!");
-189: static const u8 sText_PkmnGotEncore[] = _("{B_DEF_NAME_WITH_PREFIX} got\nan ENCORE!");
+163: "{B_ATK_NAME_WITH_PREFIX} somno\nsomno solutum est!"
+164: "Sed {B_SCR_ACTIVE_NAME_WITH_PREFIX}\nTUMULTU vigil manebit!"
+165: "{B_ATK_NAME_WITH_PREFIX} in TUMULTU\nexperrectum est!"
+166: "{B_ATK_NAME_WITH_PREFIX} TUMULTUM\nconcievit!"
+167: "{B_ATK_NAME_WITH_PREFIX} TUMULTUM\nfacit!"
+168: "{B_ATK_NAME_WITH_PREFIX} requievit."
+169: "Sed {B_DEF_NAME_WITH_PREFIX} non\nin TUMULTU dormire potest!"
+170: "{B_ATK_NAME_WITH_PREFIX} ACERVAVIT\n{B_BUFF1}!"
+171: "{B_ATK_NAME_WITH_PREFIX} non ultra\nACERVARE potest!"
+172: "Sed {B_DEF_NAME_WITH_PREFIX}non\nin TUMULTU dormire potest!"
+173: "Sed TUMULTUS habuit\n{B_DEF_NAME_WITH_PREFIX} vigilem!"
+174: "{B_DEF_NAME_WITH_PREFIX} vigil mansit\nope utens {B_DEF_ABILITY}!"
+175: "{B_ATK_NAME_WITH_PREFIX} vim\naccumulat!"
+176: "{B_ATK_NAME_WITH_PREFIX} vim\nexsolvit!"
+177:"{B_ATK_NAME_WITH_PREFIX} stupefactum\nest ob fatigationem!"
+178: "{B_PLAYER_NAME} sublegit\n¥{B_BUFF1}!\p"
+179: "{B_DEF_NAME_WITH_PREFIX} est\ninaffectatum!"
+180: "{B_ATK_NAME_WITH_PREFIX} versum est\nin {B_BUFF1}!"
+181: "{B_ATK_NAME_WITH_PREFIX} fecit\nsibi VICARIUM!"
+182: "{B_ATK_NAME_WITH_PREFIX} iam\nVICARIUM habet!"
+183: "VICARIUS damnum accepit\npro {B_DEF_NAME_WITH_PREFIX}!\p"
+184: "{B_DEF_NAME_WITH_PREFIX} perdidit\nVICARIUM suum!\p"
+185: "{B_ATK_NAME_WITH_PREFIX} debet\nrequiescere!"
+186: "{B_DEF_NAME_WITH_PREFIX} in\nFURORE crescit!"
+187: static const u8 sText_PkmnMoveWasDisabled[] = _("{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwas disabled!"
+188: "{B_ATK_NAME_WITH_PREFIX} iam non\ndebilitatum est!"
+189: "{B_DEF_NAME_WITH_PREFIX} aceepit\nREPETITIONEM!"
 190: static const u8 sText_PkmnEncoreEnded[] = _("{B_ATK_NAME_WITH_PREFIX}'s ENCORE\nended!");
-191: static const u8 sText_PkmnTookAim[] = _("{B_ATK_NAME_WITH_PREFIX} took aim\nat {B_DEF_NAME_WITH_PREFIX}!");
-192: static const u8 sText_PkmnSketchedMove[] = _("{B_ATK_NAME_WITH_PREFIX} SKETCHED\n{B_BUFF1}!");
-193: static const u8 sText_PkmnTryingToTakeFoe[] = _("{B_ATK_NAME_WITH_PREFIX} is trying\nto take its foe with it!");
-194: static const u8 sText_PkmnTookFoe[] = _("{B_DEF_NAME_WITH_PREFIX} took\n{B_ATK_NAME_WITH_PREFIX} with it!");
+191: "{B_ATK_NAME_WITH_PREFIX} se in\n{B_DEF_NAME_WITH_PREFIX} intendit!"
+192: "{B_ATK_NAME_WITH_PREFIX} adumbravit\n{B_BUFF1}!"
+193: "{B_ATK_NAME_WITH_PREFIX} conatur\nhostem secum ducere!"
+194: "{B_DEF_NAME_WITH_PREFIX} secum\n{B_ATK_NAME_WITH_PREFIX} duxit!"
 195: static const u8 sText_PkmnReducedPP[] = _("Reduced {B_DEF_NAME_WITH_PREFIX}'s\n{B_BUFF1} by {B_BUFF2}!");
 196: static const u8 sText_PkmnStoleItem[] = _("{B_ATK_NAME_WITH_PREFIX} stole\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!");
-197: static const u8 sText_TargetCantEscapeNow[] = _("{B_DEF_NAME_WITH_PREFIX} can't\nescape now!");
-198: static const u8 sText_PkmnFellIntoNightmare[] = _("{B_DEF_NAME_WITH_PREFIX} fell into\na NIGHTMARE!");
-199: static const u8 sText_PkmnLockedInNightmare[] = _("{B_ATK_NAME_WITH_PREFIX} is locked\nin a NIGHTMARE!");
-200: static const u8 sText_PkmnLaidCurse[] = _("{B_ATK_NAME_WITH_PREFIX} cut its own HP and\nlaid a CURSE on {B_DEF_NAME_WITH_PREFIX}!");
-201: static const u8 sText_PkmnAfflictedByCurse[] = _("{B_ATK_NAME_WITH_PREFIX} is afflicted\nby the CURSE!");
+197: "{B_DEF_NAME_WITH_PREFIX} nunc\nnon evadere potest!"
+198: "{B_DEF_NAME_WITH_PREFIX} in\nINCUBONE cecidit!"
+199: "{B_ATK_NAME_WITH_PREFIX} in\nINCUBONE conclusum est!"
+200: "{B_ATK_NAME_WITH_PREFIX} SL propriam cecidit et\n {B_DEF_NAME_WITH_PREFIX} exsecratum est!"
+201: "{B_ATK_NAME_WITH_PREFIX} EXSECRATIONE\ninflixum est!"
 202: static const u8 sText_SpikesScattered[] = _("SPIKES were scattered all around\nthe opponent's side!");
 203: static const u8 sText_PkmnHurtBySpikes[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX} is hurt\nby SPIKES!");
 204: static const u8 sText_PkmnIdentified[] = _("{B_ATK_NAME_WITH_PREFIX} identified\n{B_DEF_NAME_WITH_PREFIX}!");

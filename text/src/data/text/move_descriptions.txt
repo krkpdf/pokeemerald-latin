@@ -79,8 +79,8 @@ FLY
 78: "vice proxima percutit."
 
 BIND
-81: "Binds and squeezes the foe\n"
-82: "for 2 to 5 turns.");
+81: "Vincit et comprimit hostem\n"
+82: "inter 2 et 5 vices."
 
 SLAM
 85: "Slams the foe with a long\n"
@@ -134,8 +134,8 @@ BODY SLAM
 138: "cause paralysis.");
 
 WRAP
-141: "Wraps and squeezes the foe\n"
-142: "2 to 5 times with vines, etc.");
+141: "Involvit et premit hostem\n"
+142: "inter 2-5 vices vitibus, etc."
 
 TAKE DOWN
 145: "Incursus temearius\n"
@@ -502,8 +502,8 @@ WATERFALL
 510:  "cataractam scandere."
 
 CLAMP
-513: "Traps and squeezes the\n"
-514: "foe for 2 to 5 turns.");
+513: "Capit et premit hostem\n"
+514: "inter 2 et 5 vices."
 
 SWIFT
 517: "Sprays star-shaped rays\n"
@@ -641,16 +641,16 @@ SLASH
 654: "ictuum gravium magna est."
 
 SUBSTITUTE
-657: "Creates a decoy using 1/4\n"
-658: "of the user's maximum HP.");
+657: "Illicem quarta SL suae\n"
+658: "maximae utens creat."
 
 STRUGGLE
 661: "Uti modo potes si PP nulla.\n"
 662: "Qui utitur etiam laedetur."
 
 SKETCH
-665: "Copies the foe's last move\n"
-666: "permanently.");
+665: "Exscribit hostis motum\n"
+666: "proximum in perpetuum."
 
 TRIPPLE KICK
 669: "Kicks the foe 3 times in a\n"
@@ -669,8 +669,8 @@ MIND READER
 682: "proximum motus in finem eat."
 
 NIGHTMARE
-685: "Inflicts 1/4 damage on a\n"
-686: "sleeping foe every turn.");
+685: "Omni vice 1/4 damni in\n"
+686: "hostem sopitum infligit."
 
 FLAME WHEEL
 689: "A fiery charge attack that\n"
@@ -681,8 +681,8 @@ SNORE
 694: "used only while asleep.");
 
 CURSE
-697: "A move that functions\n"
-698: "differently for GHOSTS.");
+697: "Motus qui pro LARVIS\n"
+698: "aliter agit."
 
 FLAIL
 701: "Plus damnum infligit\n"
@@ -1001,8 +1001,8 @@ UPROAR
 1014: "vices et somnum prohibet."
 
 STOCKPILE
-1017: "Charges up power for up to\n"
-1018: "3 turns.");
+1017: "Accumulat vim usque ad\n"
+1018: "3 vices."
 
 SPIT UP
 1021: "Releases stockpiled power\n"
@@ -1289,8 +1289,8 @@ SKY UPPERCUT
 1310: "leaping into the sky.");
 
 SAND TOMB
-1313: "Traps and hurts the foe in\n"
-1314: "quicksand for 2 to 5 turns.");
+1313: "Capit et laedit hostem in\n"
+1314: "syrti inter 2-5 vices."
 
 SHEER COLD
 1317: "A chilling attack that\n"
