@@ -466,8 +466,8 @@ METRONOME
 474: "POKéMON move at random.");
 
 MIRROR MOVE
-477: "Counters the foe's attack\n"
-478: "with the same move.");
+477: "Renititur hostis impetui\n"
+478: "eodem motu."
 
 SELFDESTRUCT
 481: "Damnum acerrimum infligit\n"
@@ -749,8 +749,8 @@ OCTAZOOKA
 762: "damage and cut accuracy.");
 
 SPIKES
-765: "Sets spikes that hurt a \n"
-766: "foe switching in.");
+765: "Clavi ponit qui hostem\n"
+766: "ineuntem laedunt."
 
 ZAP CANNON
 769: "Powerful and sure to cause\n"
@@ -765,8 +765,8 @@ DESTINY BOND
 778: "is also made to faint.");
 
 PERISH SONG
-781: "Any POKéMON hearing this\n"
-782: "song faints in 3 turns.");
+781: "Quod POKéMON hunc audiens\n"
+782: "post vices 3 peribit."
 
 ICY WIND
 785: "A chilling attack that\n"
@@ -797,8 +797,8 @@ GIGA DRAIN
 810: "inflixi furatur."
 
 ENDURE
-813: "Endures any attack for\n"
-814: "1 turn, leaving at least 1HP.");
+813: "Restitit impetum quemquam\n"
+814: "vicem, linquens 1SL quidem."
 
 CHARM
 817: "Hostem delenit et IMPETUM\n"
@@ -1090,8 +1090,11 @@ INGRAIN
 
 1105: "Boosts strength sharply,\n"
 1106: "but lowers abilities.");
-1109: "Reflects special effects\n"
-1110: "back to the attacker.");
+
+MAGIC COAT
+1109: "Remittit effectus speciales\n"
+1110: "in oppugnatorem."
+
 1113: "Recycles a used item for\n"
 1114: "one more use.");
 
@@ -1108,8 +1111,8 @@ YAWN
 1126: "suadet, tum ad dormiendum."
 
 KNOCK OFF
-1129: "Knocks down the foe's held\n"
-1130: "item to prevent its use.");
+1129: "Depellit rem quam hostis\n"
+1130: "habet ut usum eius prohibeat."
 
 ENDEAVOR
 1133: "Gains power if the user's HP\n"
@@ -1132,8 +1135,8 @@ REFRESH
 1150: "or a burn.");
 
 GRUDGE
-1153: "If the user faints, deletes\n"
-1154: "all PP of foe's last move.");
+1153: "Si utens concidat, perdit PP\n"
+1154: "omnia hostis motus proximi."
 
 SNATCH
 1157: "Effecta motus, quo hostis\n"
@@ -1356,7 +1359,7 @@ VOLT TACKLE
 1378: "slightly hurts the user.");
 
 MAGICAL LEAF
-1381: "Fronde mira impetit quae\n"
+1381: "Fronde impetit mira quae\n"
 1382: "non elusam esse potest."
 
 WATER SPORT

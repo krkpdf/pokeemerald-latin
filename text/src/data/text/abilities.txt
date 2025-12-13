@@ -21,7 +21,7 @@ CHANGE ABILITY_NAME_LENGTH in include/globals.h to 13
 17: "Typum in motum host. mutat."
 18: "Veneficium prohibit."
 19: "Igni icto, vim auget."
-20: "Effectus additos prohibet."
+20: "Effectus prohibet additos."
 21: "Confusionem prohibet."
 22: "Corpus ad solum constituit."
 23: "Hostis IMPETUM minuit."
@@ -46,7 +46,7 @@ CHANGE ABILITY_NAME_LENGTH in include/globals.h to 13
 42: "Adustionem prohibet."
 43: "POKéMON FERREUM irretit."
 44: "Motus sonoros evitat."
-45: "Paule SL in imbre recuperat."
+45: "Imbre paulum SL recuperat."
 46: "Procellam arenaceam vocat."
 47: "Usus PP hostis auget."
 48: "Tutela a calore et frigore."
@@ -56,7 +56,7 @@ CHANGE ABILITY_NAME_LENGTH in include/globals.h to 13
 52: "Casum accurationis evitat."
 53: "Casum IMPETUS evitat."
 54: "Potest res colligere."
-55: "Semel in 2 vicibus se movet."
+55: "Semel se in 2 vicibus movet."
 56: "Accurationem vi commutat."
 57: "Hostem ex tactu illicit."
 58: "Vim ad MINUS dat."
@@ -119,7 +119,7 @@ CHANGE ABILITY_NAME_LENGTH in include/globals.h to 13
 115: "NATATIO VELOX" - SWIFT SWIM
 116: "CHLOROFOLIUM" - CHLOROPHYLL
 117: "ILLUMINATIO" - ILLUMINATE
-118: "VESTIGATIO" - TRACE
+118: "DESCRIPTIO" - TRACE
 119: "VIS INGENS" - HUGE POWER
 120: "ACUS VENENATA" - POISON POINT
 121: "VIS INTERIOR" - INNER FOCUS
