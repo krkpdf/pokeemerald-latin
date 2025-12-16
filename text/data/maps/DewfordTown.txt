@@ -11,7 +11,7 @@
 660:   "DOM. MURIAEUS: Ahoy!\n"
 661:   "Invenimus terram in MYODROSIA.\p"
 662:   "Reor tibi abeundum ferendamque\n"
-663:   "EPISTOLAM ad, qui erat, SILEXERUM!$"
+663:   "EPISTOLAM ad, quis erat, SILEXERUM!$"
 666:   "DOM. MURIAEUS: EPISTOLAM tuam iam\n"
 667:   "tradidisti?\p"
 668:   "An significabas rursus ad FLORIBURGUM\n"

@@ -875,7 +875,7 @@ ACRO BIKE
       |===================|
 1046: "Epistola PRAEFECTI\n"
 1047: "SOCIETATIS DEVON\n"
-1048: "ad AURELIUM"
+1048: "ad SILEXERUM"
 
 1051: "Tessera pro\n"
 1052: "portitore australis\n"

@@ -12,7 +12,7 @@
 212:   "Sperabam te epistulam ad SILEXERUM\n"
 213:   "in MYODROSIA transportare.$"
 216:   "DOM. SAXIUS: Nunc, debes scire me\n"
-217:   "PRAEFECTUS magnus esse.\p"
+217:   "PRAEFECTUM magnum esse.\p"
 218:   "Igitur, numquam tam avarus essem, ut\n"
 219:   "tibi veniam peteret nihil retribuens.\p"
 220:   "Hoc ratio est qua te hoc habere volo!$"

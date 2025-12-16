@@ -701,8 +701,8 @@ COTTON SPORE
 714: "sharply reducing SPEED.");
 
 REVERSAL
-717: "Inflicts more damage when\n"
-718: "the user's HP is down.");
+717: "Plus damnum infligit cum\n"
+718: "utentis SL humilis sit."
 
 SPITE
 721: "Despiciendo PP hostis\n"
