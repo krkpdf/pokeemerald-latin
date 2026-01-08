@@ -1,4 +1,4 @@
-5: .categoryName = _("UNKNOWN"),
+5: "IGNOTUM"
 17: .categoryName = _("SEED"),
 29: .categoryName = _("SEED"),
 41: .categoryName = _("SEED"),

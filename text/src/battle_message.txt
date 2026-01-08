@@ -393,7 +393,7 @@
 466: "PILAM iactam elusit!\nPOKéMON hoc non capere potes!"
 467: "A POKéMON aberravisti!"
 468:  "O, non!\nPOKéMON erupit!"
-469:  "Vae!\nCaptus videbar!"
+469:  "Vae!\nCaptum videbar!"
 470:  "Aargh!\nPene habueris!"
 471:  "Heu!\nEt etiam tam proximus fuit!"
 472:  TODO "Arreptum!\n{B_OPPONENT_MON1_NAME} captum est!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p"

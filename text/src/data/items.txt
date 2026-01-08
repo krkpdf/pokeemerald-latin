@@ -386,7 +386,7 @@
 4437: .name = _("TEA"),
 4450: .name = _("MYSTICTICKET"),
 4463: .name = _("AURORATICKET"),
-4476: .name = _("POWDER JAR"),
+4476: "PLVRIS FICTILE"
 4489: .name = _("RUBY"),
 4502: .name = _("SAPPHIRE"),
 4517: .name = _("MAGMA EMBLEM"),

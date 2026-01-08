@@ -25,7 +25,7 @@
 682:   "Invenimus terram in MYODROSIA!\p"
 683:   "Modo huc veni et dic mihi quandocumque\n"
 684:   "iterum navim solvere velis!$"
-687:   "MR. BRINEY: Ahoy!\n"
+687:   "DOM. MURIAEUS: Ahoy!\n"
 688:   "Pro te, cumque in mare egrediar!\p"
 689:   "Nunc, amice mi, quorsum tenemur?$"
 692:   "DOM. MURIAEUS: FLORIBURGUM, nonne?\p"

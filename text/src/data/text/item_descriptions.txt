@@ -1307,9 +1307,12 @@ BIKE
 1523: "A ticket required\n"
 1524: "to board the ship\n"
 1525: "to BIRTH ISLAND.");
-1528: "Stores BERRY\n"
-1529: "POWDER made using\n"
-1530: "a BERRY CRUSHER.");
+
+POWDER JAR
+1528: "Colligit BACCAE\n"
+1529: "PULVEREM factum a\n"
+1530: "CONTERENTORE BACCAE."
+
 1533: "An exquisite, red-\n"
 1534: "glowing gem that\n"
 1535: "symbolizes passion.");

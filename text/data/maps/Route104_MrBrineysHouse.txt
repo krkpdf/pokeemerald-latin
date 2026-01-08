@@ -29,9 +29,9 @@
 137:   "Primum, egrediemur MYODROSIA.$"
 140:   "DOM MURIAEUS: Ahoy!\n"
 141:   "Scio omnia, quae dicere vis!\p"
-142:   "Opus est tibi NAUAR. PUPPII in
+142:   "Opus est tibi NAUAR. PUPPII in\n"
 143:   "MYODROSIA sarcinam dare.\p"
-144:   "Quid me facere indiges, nec est ulla\n"
+144:   "Quod me facere indiges, haud ulla est\n"
 145:   "difficultas - Pro opere rectus sum!\p"
 146:   "Primum, egrediemur MYODROSIA.$"
 149:   "DOM MURIAEUS: Ahoy!\n"
