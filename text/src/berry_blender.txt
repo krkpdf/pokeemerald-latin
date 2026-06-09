@@ -12,7 +12,7 @@
 270:   "FEMELLA"
 271:   "MAGISTER"
 272:   "COMES"
-273:   "DOMNIA"
+273:   "DOMINA"
 
 285:   "Preme Bullam A ad incipiendum."
 286:   "Mane momentum quaeso."
@@ -21,7 +21,7 @@
 289:   "BACCIS ad commiscendum in\nBACCARUM MIXTORIA eges.\p"
 290:   "{POKEBLOCK} THECA tua impleta est.\p"
 291:   " nullas habet BACCAS ad\nponendum in BACCARUM MIXTORIA."
-292:   "', eius {POKEBLOCK} THECA impleta est.\p"
+292:   ", eius {POKEBLOCK} THECA impleta est.\p"
 293:   "PROVENTI MIXTIONIS"
 294:   "BACCA ADHIBITA"
 295:   " BACCA"

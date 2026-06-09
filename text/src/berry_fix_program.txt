@@ -14,7 +14,7 @@
 50:     "imago supera appareat."
 51:     "Transmittens. Mane quaeso.\n"
 52:     "{COLOR RED}{SHADOW LIGHT_RED}Noli, quaeso, energiam disiungere nec\n"
-53:     "solve Game Boy Advance Ludi\nConexionis Restem."
+53:     "solve Game Boy Advance Ludi\nLink Restem."
 54:     "Quaeso sequere praescripta in POKéMON\n"
 55:     "Carbunculi/Sapphiri quadro."
 56:     "Transmissionis defectus.\n"

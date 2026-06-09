@@ -33,7 +33,7 @@
 48:     "Non videris {POKEBLOCK} THECAM\n"
 49:     "accipisse!\p"
 50:     "Hic omnem diem manebo!\n"
-51     "Adipiscere {POKEBLOCK} THECAM et festina huc!$"
+51:     "Adipiscere {POKEBLOCK} THECAM et festina huc!$"
 54:     "Hmmm!\p"
 55:     "{POKEBLOCK} THECA tua impleta videtur!\p"
 56:     "Hic omnem diem mansurus sum!\n"
