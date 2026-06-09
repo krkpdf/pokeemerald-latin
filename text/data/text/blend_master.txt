@@ -24,7 +24,7 @@
 35:     "tuum venit, preme tantum A Bullam.\p"
 36:     "Haec omnia quae tibi facienda sunt.\p"
 37:     "Quando videris quam accurate A Bullam\n"
-38:     "premo, comprendes.$"
+38:     "premo, comprehendes.$"
 41:     "Esto!\p"
 42:     "Incipiamus, igitur!\p"
 43:     "Omnes simul cum MISCENDI MAGISTRO,\n"
