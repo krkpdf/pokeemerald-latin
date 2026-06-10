@@ -1,2 +1,0 @@
-98: __attribute__((section(".text.consts")))
-102: .gameName = "pokemon emerald version",

@@ -18,7 +18,7 @@
 1027: "aspiciunt, vocatio ad certandum est.\p"
 1028: "Si non certare vis, absconde te ab\n"
 1029: "oculis eorum.$"
-1032: "Osse meo seminibus implendo fruor,\n"
+1032: "Ore meo seminibus implendo fruor,\n"
 1033: "tum illis celeriter expuendis!\p"
 1034: "Potes hoc habere, itaque conare!\p"
 1035: "Utere in POKéMON et motus ad semina\n"

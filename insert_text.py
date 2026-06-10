@@ -3,14 +3,16 @@
 
 import os
 import re
+import sys
 
 progress = {}
 
 
 script_dir = os.path.dirname(__file__)
 
-folder_path_a = os.path.join("..", "pokeemerald-master-translated") + os.sep # output folder
-folder_path_b = os.path.join(".", "text") + os.sep                           # input folder
+
+folder_path_a = sys.argv[2] # output folder
+folder_path_b = sys.argv[1] # input folder
 
 #print(folder_path_a, folder_path_b)
 

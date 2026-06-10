@@ -1,1 +1,0 @@
-1201: static const u8 sText_PokenavCallEllipsis[] = _("………………\p");

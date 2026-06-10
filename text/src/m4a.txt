@@ -1,2 +1,0 @@
-6: #define BSS_CODE __attribute__((section(".bss.code")))
-318: asm("swi 0x2A");

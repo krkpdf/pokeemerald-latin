@@ -1,1 +1,0 @@
-659: StringCopy(ptr, gText_FromSpace); // Odd, "From" text is already printed in PrintMailText

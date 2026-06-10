@@ -1,1 +1,0 @@
-163: itemId = ITEMS_COUNT; // Use last icon, the "return to field" arrow
