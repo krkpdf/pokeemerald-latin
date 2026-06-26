@@ -30,7 +30,7 @@ The base English text used for translation is also extracted from the Decompilat
 
 
 ### Macronizer (Optional)
-Generates a build with automatically added vowel-length accents. Values can be manually edited after the first run-through. 
+Generates a build with automatically added vowel-length accents. Values can be manually edited after the first run-through (manually edited text will be overwritten if the `macronize.py` script is executed again). 
 
 #### Prerequisites:
 - Complete the main workflow above first.
