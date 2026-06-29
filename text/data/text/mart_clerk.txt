@@ -1,5 +1,5 @@
-2:  "Hospite acciperis!\p"
+2:  "Benigne excipiaris!\p"
 3:  "Quomodo liceat mihi tibi servire?$"
 6:  "Revenias libenter!$"
-9:  "{PLAYER}{STRING 5}, hospite acciperis!\p"
+9:  "{PLAYER}{STRING 5}, benigne excipiaris!\p"
 10: "Quid pro te facere possum?$"

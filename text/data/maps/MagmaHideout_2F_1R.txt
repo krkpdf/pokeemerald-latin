@@ -11,7 +11,7 @@
 39:     "ORDINEM MAGMA iungere.$"
 42:     "Mane ibi!\p"
 43:     "Num vere expectas me os meum clusum\n"
-44:     "habere et te praeter me saltare pati?$"
+44:     "habere et te praeter me salire pati?$"
 47:     "Ooh uou!\n"
 48:     "Concedo!$"
 51:     "Fortasse melius fuisset si te modo\n"

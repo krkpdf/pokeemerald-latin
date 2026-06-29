@@ -176,7 +176,7 @@
 1662: "in AGONEM.\p"
 1663: "POKéMON tuo est Initus Nu. {STR_VAR_2}.$"
 1666: "AGON mox incipiet.$"
-1669: "Hospite acciperis! Haec est POKéMON\n"
+1669: "Benigne excipiaris! Haec est POKéMON\n"
 1670: "AGONUM LINK mensa receptoria.\p"
 1671: "Licet tibi AGONES simul cum uno vel\n"
 1672: "duobus amicis inire.$"

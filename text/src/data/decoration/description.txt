@@ -126,7 +126,7 @@
 220: "qui si calcabitur\n"
 221: "fulgebit."
 224: "Tapes subdolosus\n"
-225: "qui saltat cum\n"
+225: "qui salit cum\n"
 226: "calcatur."
 229: "Tapes subdolosus\n"
 230: "qui circumagitur\n"

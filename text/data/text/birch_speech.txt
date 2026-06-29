@@ -1,5 +1,5 @@
 2:       "Salve! Paenitet me morae meae!\p"
-3:       "Hospite acciperis ad mundum POKéMON!\p"
+3:       "Benigne excipiaris ad mundum POKéMON!\p"
 4:       "BETULIUS nomen mihi est.\p"
 5:       "Sed omnes me PROFESSOREM POKéMON\n"
 6:       "vocant.\p"

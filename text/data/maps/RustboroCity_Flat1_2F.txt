@@ -6,7 +6,7 @@
 87:     "Non enim facile est cenas quotidianas\n"
 88:     "excogitare.$"
 91:     "O, salve!\n"
-92:     "Hospite ad domum CAPSICI acciperis.\p"
+92:     "Benigne ad domum CAPSICI excipiaris.\p"
 93:     "Rogatum tibi habeo.\n"
 94:     "Umquam infantem curavisti?\p"
 95:     "Vide, pater novus sum, igitur mihi\n"

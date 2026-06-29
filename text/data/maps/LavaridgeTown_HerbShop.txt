@@ -1,4 +1,4 @@
-45:     "Hospite acciperis ad domum medicaminis\n"
+45:     "Benigne excipiaris ad domum medicaminis\n"
 46:     "efficacis et vilis, TABERNAM HERBARUM!$"
 49:     "Venistine medicamenta herbalia\n"
 50:     "in LAVAERIGIO visum?\p"

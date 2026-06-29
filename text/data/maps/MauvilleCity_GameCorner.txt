@@ -14,7 +14,7 @@
 653:   "THECA NUMMUM tuam impleta est.$"
 656:   "Oh… Non sunt tibi NUMMI necesse, ita?\n"
 657:   "Bonam fortunam pro ambage tua!$"
-660:   "Hospite acciperis.\p"
+660:   "Benigne excipiaris.\p"
 661:   "Potest hic NUMMOS tuos pro praemiis\n"
 662:   "commutare.$"
 665:   "Quod praemium placet tibi?$"

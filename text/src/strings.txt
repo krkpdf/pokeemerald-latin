@@ -839,7 +839,7 @@
 864: const u8 gText_PleasePickATheme[] = _("Please pick a theme.");
 865: "Selige chartam parietalem."
 866:  "{DYNAMIC 0} seligitur."
-867: "In quam ARCAM salta?"
+867: "In quam ARCAM salies?"
 868:  "In qua ARCA deponendum?"
 869:  "{DYNAMIC 0} depositum est."
 870:  "ARCA repleta est."

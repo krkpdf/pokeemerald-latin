@@ -27,7 +27,7 @@
 201:   "Et omnia finita sunt dum adhuc\n"
 202:   "vestigia figere conabamur…$"
 205:   "Si BIROTAM ACRO haberem, possem\n"
-206:   "per hiatus saltare.$"
+206:   "per crepidines salire.$"
 209:   "Cum asperitati huic assueverit, tum\n"
 210:   "certo vincam!\p"
 211:   "Potes me in POKéNAVE tuo inscribere?$"
