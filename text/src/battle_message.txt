@@ -382,7 +382,7 @@
 432:  "elusitas"
 446: "nimis fervidus fuit!"
 447: "nimis siccus fuit!"
-448: "nimis dulcis fuit!"
+448: "nimis suavis fuit!"
 449: "nimis amarus fuit!"
 450: "nimis acidus fuit!"
 461:  "{B_PLAYER_NAME} re {B_LAST_ITEM}\nusum est!"

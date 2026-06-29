@@ -3,7 +3,7 @@ import re
 
 progress = {}
 
-pattern = r"\d+:[ ]+\""
+pattern = r"\d+:.*\".*\".*"
 
 folder_path = f".{os.sep}text{os.sep}"
 
@@ -15,16 +15,12 @@ for root, _, files in os.walk(folder_path):
         
         if "ipynb" not in myfile_path:
             with open(file_path, 'r', encoding='utf-8') as input_file:
-                content = [line for line in input_file.readlines()]
-                # Matches digits followed by a colon and a double quote
+                content = [line for line in input_file.readlines() if re.match(pattern, line)]
 
-                if "      |=======================================|" in content[0]:
-                    content = content[1:]
-                
                 if "pokedex_text.txt" not in myfile_path and  \
                     ".json" not in myfile_path and            \
                     "description" not in myfile_path:          
-                    count = sum(1 for line in content if re.match(pattern, line))
+                    count = len([line for line in content if ".string" not in line and ".braille" not in line and ".name" not in line and ".nickname" not in line and ".trainerName" not in line and ".monName" not in line and ".categoryName" not in line and " const " not in line and "_(\"" not in line])
                     
                 else:
                     count = 0

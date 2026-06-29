@@ -351,8 +351,8 @@ EARTHQUAKE
 358: "est effectum in volantibus."
 
 FISSURE
-361: "A one-hit KO move that\n"
-362: "drops the foe in a fissure.");
+361: "KO unius ictus motus qui\n"
+362: "hostem in fissuram deicit."
 
 DIG
 365: "Prima vice sub terram fodit\n"
@@ -709,8 +709,8 @@ SPITE
 722: "motus ultimi caedit."
 
 POWDER SNOW
-725: "Blasts the foe with a snowy\n"
-726: "gust. May cause freezing.");
+725: "Afflat in hostem procella\n"
+726: "nivea. Potest congelare."
 
 PROTECT
 729: "Impetos eludit, sed\n"

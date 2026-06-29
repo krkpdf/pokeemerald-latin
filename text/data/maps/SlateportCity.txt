@@ -2,7 +2,7 @@
 955:   "iactabo et te quod eges vendam!$"
 958:   "Hem?\n"
 959:   "{STR_VAR_1} tuum…$"
-962:   "In eo se stupende iactavit!\p"
+962:   "In eo se stupendo in modo iactavit!\p"
 963:   "Ut recompensationem eius, quaeso, da ei\n"
 964:   "LABORIS VITTAM hanc.$"
 967:   "{PLAYER} LABORIS VITTAM accepit.$"

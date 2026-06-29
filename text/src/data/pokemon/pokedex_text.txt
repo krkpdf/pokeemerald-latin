@@ -1023,7 +1023,7 @@ HOENN
 
 3 - Sceptile
 1526: "In iungala potestas eius non habet\n"
-1527: "coaequalis. Dilligenter hic POKéMON curat\n"
+1527: "coaequalis. Dilligenter hoc POKéMON curat\n"
 1528: "arboribus et plantis. Regulat temperaturam\n"
 1529: "corporis apricando in sole."
 

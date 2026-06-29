@@ -173,10 +173,10 @@
 174:  "IDNu. /" // Unused
 175:  "NOMEN"
 176:  "IDNu."
-177:  "PROF. BIRCH in periculo est!\nMitte POKéMON et libera eum!"
+177:  "PROF. BETULIUS in periculo est!\nMitte POKéMON et libera eum!"
 178:  "Visne hoc POKéMON seligere?"
 179: const u8 gText_Pokemon4[] = _("POKéMON"); // Unused
-180: const u8 gText_FlyToWhere[] = _("FLY to where?");
+180: "Ubinam VOLARE?"
 181:  "UTERE"
 182:  "IACE"
 183:  "ADNOTA"
@@ -262,17 +262,17 @@
 284:  "MA & MT"
 285:  "BACCARUM"
 286:  "CLAVIUM"
-297: const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
-298: const u8 gText_NumberItem_HM[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
+297: "{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}"
+298: "{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}"
 299: "MAGN. /"
 300: "FIRM. /"
-301: const u8 gText_Var1DotVar2[] = _("{STR_VAR_1}.{STR_VAR_2}”");
+301: "{STR_VAR_1}.{STR_VAR_2}”"
 304: "Per mitis"
 305: "Mitis"
 306: "Dura"
 307: "Per dura"
 308: "Durissima"
-310: const u8 gText_NumberVar1Var2[] = _("{NO}{STR_VAR_1} {STR_VAR_2}");
+310: "{NO}{STR_VAR_1} {STR_VAR_2}"
 311: "BACC. NOTA"
 312: "RUBER {POKEBLOCK}"
 313: "CAERULEUS {POKEBLOCK}"
@@ -282,26 +282,26 @@
 317: "PURPUREUS {POKEBLOCK}"
 318: "INDICUS {POKEBLOCK}"
 319: "SPADIX {POKEBLOCK}"
-320: const u8 gText_LiteBluePokeblock[] = _("LITEBLUE {POKEBLOCK}");
-321: const u8 gText_OlivePokeblock[] = _("OLIVE {POKEBLOCK}");
-322: const u8 gText_GrayPokeblock[] = _("GRAY {POKEBLOCK}");
-323: const u8 gText_BlackPokeblock[] = _("BLACK {POKEBLOCK}");
-324: const u8 gText_WhitePokeblock[] = _("WHITE {POKEBLOCK}");
-325: const u8 gText_GoldPokeblock[] = _("GOLD {POKEBLOCK}");
-326: const u8 gText_Spicy[] = _("SPICY");
-327: const u8 gText_Dry[] = _("DRY");
-328: const u8 gText_Sweet[] = _("SWEET");
-329: const u8 gText_Bitter[] = _("BITTER");
-330: const u8 gText_Sour[] = _("SOUR");
+320: "SUBCAERULEUS {POKEBLOCK}"
+321: "OLIVACEUS {POKEBLOCK}"
+322: "CANUS {POKEBLOCK}"
+323: "NIGER {POKEBLOCK}"
+324: "ALBUS {POKEBLOCK}"
+325: "AUREUS {POKEBLOCK}"
+326: "ACRE"
+327: "SICCUM"
+328: "SUAVE"
+329: "AMARUM"
+330: "ACIDUM"
 331: const u8 gText_Tasty[] = _("TASTY"); // Unused
 332: const u8 gText_Feel[] = _("FEEL"); // Unused
 333: const u8 gText_StowCase[] = _("Stow CASE.");
-334: const u8 gText_LvVar1[] = _("{LV}{STR_VAR_1}");
-335: const u8 gText_ThrowAwayVar1[] = _("Throw away this\n{STR_VAR_1}?");
-336: const u8 gText_Var1ThrownAway[] = _("The {STR_VAR_1}\nwas thrown away.");
-337: const u8 gText_Var1AteTheVar2[] = _("{STR_VAR_1} ate the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
-338: const u8 gText_Var1HappilyAteVar2[] = _("{STR_VAR_1} happily ate the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
-339: const u8 gText_Var1DisdainfullyAteVar2[] = _("{STR_VAR_1} disdainfully ate the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
+334: "{LV}{STR_VAR_1}"
+335: "Deice hoc\n{STR_VAR_1}?"
+336: "{STR_VAR_1}\ndeiectum est."
+337: "{STR_VAR_1} edit\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"
+338: "{STR_VAR_1} feliciter edit\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"
+339: "{STR_VAR_1} fastidiose edit\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}"
 340:  "EME"
 341:  "VENDE"
 342:  "EXI"
@@ -315,13 +315,13 @@
 350:  "Hic habeas!\nGratias multas tibi ago."
 351:  "Gratias tibi!\nAd PC domesticum tuum mittam."
 352:  "Gratias!\nAd PC domesticum tuum mittam."
-353:  "Non satis pecuniam habes.{PAUSE_UNTIL_PRESS}");
-354:  "Non habes satis locum pro hac\nre.{PAUSE_UNTIL_PRESS}");
-355:  "Locus pro{STR_VAR_1} impletus est.{PAUSE_UNTIL_PRESS}");
+353:  "Non satis pecuniam habes.{PAUSE_UNTIL_PRESS}"
+354:  "Non habes satis locum pro hac\nre.{PAUSE_UNTIL_PRESS}"
+355:  "Locus pro{STR_VAR_1} impletus est.{PAUSE_UNTIL_PRESS}"
 356:  "Aliqua res alia est qua\ntibi adiuvare possim?"
 357:  "Tibi aliqua re alia adiuvare possim?"
-358:  "HONORIS PILAM inicio, quoque.{PAUSE_UNTIL_PRESS}");
-359:  "{STR_VAR_2}? Oh, minime.\nNon possum emere.{PAUSE_UNTIL_PRESS}");
+358:  "HONORIS PILAM inicio, quoque.{PAUSE_UNTIL_PRESS}"
+359:  "{STR_VAR_2}? Oh, minime.\nNon possum emere.{PAUSE_UNTIL_PRESS}"
 360:  "{STR_VAR_2}?\nQuot vis vendere?"
 361:  "Possum ¥{STR_VAR_1} numerare.\nBene?"
 362:  "{STR_VAR_2} tradit\natque ¥{STR_VAR_1} recepit."
@@ -339,26 +339,26 @@
 374:  "SL"
 375:  "IMP SP."
 376:  "DEF SP."
-377: const u8 gText_WontHaveEffect[] = _("It won't have any effect.{PAUSE_UNTIL_PRESS}");
-378: const u8 gText_CantBeUsedOnPkmn[] = _("This can't be used on\nthat POKéMON.{PAUSE_UNTIL_PRESS}");
-379: const u8 gText_PkmnCantSwitchOut[] = _("{STR_VAR_1} can't be switched\nout!{PAUSE_UNTIL_PRESS}");
-380: const u8 gText_PkmnAlreadyInBattle[] = _("{STR_VAR_1} is already\nin battle!{PAUSE_UNTIL_PRESS}");
-381: const u8 gText_PkmnAlreadySelected[] = _("{STR_VAR_1} has already been\nselected.{PAUSE_UNTIL_PRESS}");
-382: const u8 gText_PkmnHasNoEnergy[] = _("{STR_VAR_1} has no energy\nleft to battle!{PAUSE_UNTIL_PRESS}");
-383: const u8 gText_CantSwitchWithAlly[] = _("You can't switch {STR_VAR_1}'s\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}");
-384: const u8 gText_EggCantBattle[] = _("An EGG can't battle!{PAUSE_UNTIL_PRESS}");
-385: const u8 gText_CantUseUntilNewBadge[] = _("This can't be used until a new\nBADGE is obtained.{PAUSE_UNTIL_PRESS}");
-386: const u8 gText_NoMoreThanVar1Pkmn[] = _("No more than {STR_VAR_1} POKéMON\nmay enter.{PAUSE_UNTIL_PRESS}");
-387: const u8 gText_SendMailToPC[] = _("Send the removed MAIL to\nyour PC?");
-388: const u8 gText_MailSentToPC[] = _("The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}");
-389: const u8 gText_PCMailboxFull[] = _("Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}");
-390: const u8 gText_MailMessageWillBeLost[] = _("If the MAIL is removed, the\nmessage will be lost. Okay?");
-391: const u8 gText_RemoveMailBeforeItem[] = _("MAIL must be removed before\nholding an item.{PAUSE_UNTIL_PRESS}");
+377: "Nullum habebit effectum.{PAUSE_UNTIL_PRESS}"
+378: "Haec non in POKéMON illud\nadhiberi potest.{PAUSE_UNTIL_PRESS}"
+379: "{STR_VAR_1} non amoveri\npotest!{PAUSE_UNTIL_PRESS}"
+380: "{STR_VAR_1} iam est\nin certamine!{PAUSE_UNTIL_PRESS}"
+381: "{STR_VAR_1} iam est\nselectum.{PAUSE_UNTIL_PRESS}"
+382: "{STR_VAR_1} nullam habet\nreliquam vim pro certamine!{PAUSE_UNTIL_PRESS}"
+383: "Non licet tibi {STR_VAR_1}\nPOKéMON uno tuorum mutare!{PAUSE_UNTIL_PRESS}"
+384: "OVUM nequit certare!{PAUSE_UNTIL_PRESS}"
+385: "Hoc non uti potes donec\nINSIGNE novum adeptus sis.{PAUSE_UNTIL_PRESS}"
+386: "Non plura quam {STR_VAR_1} POKéMON\ninire possunt.{PAUSE_UNTIL_PRESS}"
+387: "EPISTOLAM remotam ad PC\ntuum mitte?"
+388: "EPISTOLA ad PC tuum missa est.{PAUSE_UNTIL_PRESS}"
+389: "PC tui ARCA CURSUALIS referta est.{PAUSE_UNTIL_PRESS}"
+390: "Si EPISTOLA remota erit,\nnuntium perditur. Bene?"
+391: "EPISTOLA removenda est\nante rem tenendam.{PAUSE_UNTIL_PRESS}"
 392:  "{STR_VAR_1} {STR_VAR_2}\nhabere dabitur.{PAUSE_UNTIL_PRESS}"
 393:  "{STR_VAR_1} iam {STR_VAR_2}\nhabet.\pVis has res\n mutare?"
 394:  "{STR_VAR_1} non ulla\nhabet.{PAUSE_UNTIL_PRESS}"
 395:  "{STR_VAR_2} receptum\na {STR_VAR_1}.{PAUSE_UNTIL_PRESS}"
-396: const u8 gText_MailTakenFromPkmn[] = _("MAIL was taken from the\nPOKéMON.{PAUSE_UNTIL_PRESS}");
+396: "EPISTOLA de POKéMON\naccepta est.{PAUSE_UNTIL_PRESS}"
 397:  "{STR_VAR_2} acceptum et\nsubstitutus est cum {STR_VAR_1}.{PAUSE_UNTIL_PRESS}"
 398: const u8 gText_PkmnHoldingItemCantHoldMail[] = _("This POKéMON is holding an\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}");
 399: const u8 gText_MailTransferredFromMailbox[] = _("MAIL was transferred from\nthe MAILBOX.{PAUSE_UNTIL_PRESS}");
@@ -381,7 +381,7 @@
 416: const u8 gText_PkmnRegainhedHealth[] = _("{STR_VAR_1} regained health.{PAUSE_UNTIL_PRESS}"); // Unused
 417: const u8 gText_PkmnBecameHealthy[] = _("{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}");
 418: const u8 gText_MovesPPIncreased[] = _("{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}");
-419: "{STR_VAR_1} elevatum est ad\nGr. {STR_VAR_2}.");
+419: "{STR_VAR_1} elevatum est ad\nGr. {STR_VAR_2}."
 420: const u8 gText_PkmnBaseVar2StatIncreased[] = _("{STR_VAR_1}'s base {STR_VAR_2}\nstat was raised.{PAUSE_UNTIL_PRESS}");
 421: const u8 gText_PkmnFriendlyBaseVar2Fell[] = _("{STR_VAR_1} turned friendly.\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}");
 422: const u8 gText_PkmnAdoresBaseVar2Fell[] = _("{STR_VAR_1} adores you!\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}");
@@ -397,9 +397,9 @@
 432:  "In quo POKéMON utendum?"
 433:  "Cui POKéMON dandum?"
 434:  "Quid cum {PKMN} faciendum?"
-435: const u8 gText_NothingToCut[] = _("There's nothing to CUT.");
-436: const u8 gText_CantSurfHere[] = _("You can't SURF here.");
-437: const u8 gText_AlreadySurfing[] = _("You're already SURFING.");
+435:  "Nullum est CAEDENDI."
+436:  "Non potes hic SURFARE."
+437:  "Iam SURFAS."
 438:  "Hic uti non licet."
 439:  "Quod motus restaurandum?"
 440:  "PP cuius motus levandum?"
@@ -551,8 +551,8 @@
 576:  "CADI RERUM"
 577:  "EPISTOLAE"
 578:  "DEPONE RES"
-579:  "REVOCA RES");
-580:  "IACE RES");
+579:  "REVOCA RES"
+580:  "IACE RES"
 581:  "Coacerva res in PC."
 582:  "Accipe res ex PC."
 583:  "Eice res coacervatas in PC."
@@ -597,18 +597,18 @@
 622: const u8 gText_Count[] = _("COUNT"); //unused
 623: const u8 gText_Registry[] = _("REGISTRY");
 624: const u8 gText_Information[] = _("INFORMATION");
-625: const u8 gText_Mach[] = _("MACH");
-626: const u8 gText_Acro[] = _("ACRO");
-627: const u8 gText_Psn[] = _("VNN");
-628: const u8 gText_Par[] = _("PAR");
-629: const u8 gText_Slp[] = _("DOR");
-630: const u8 gText_Brn[] = _("ADT");
-631: const u8 gText_Frz[] = _("GLD");
+625:"MACH"
+626: ACRO"
+627: "VNN"
+628: "PAR"
+629: "DOR"
+630: "ADT"
+631: "GLD"
 632: const u8 gText_Toxic[] = _("TOXIC"); // Unused
 633: const u8 gText_Ok3[] = _("OK"); // Unused
 634: const u8 gText_Quit[] = _("QUIT"); // Unused
-635: const u8 gText_SawIt[] = _("Saw it");
-636: const u8 gText_NotYet[] = _("Not yet");
+635: "Vidi"
+636: "Non iam"
 637:  "ITA"
 638:  "NON"
 639: const u8 gText_Info4[] = _("INFO"); // Unused
@@ -659,20 +659,20 @@
 684: const u8 gText_TM35AndPrice[] = _("TM35{CLEAR_TO 0x48}4,000 COINS");
 685: const u8 gText_TM24AndPrice[] = _("TM24{CLEAR_TO 0x48}4,000 COINS");
 686: const u8 gText_TM13AndPrice[] = _("TM13{CLEAR_TO 0x48}4,000 COINS");
-687: const u8 gText_Cool[] = _("COOL");
-688: const u8 gText_Beauty[] = _("BEAUTY");
-689: const u8 gText_Cute[] = _("CUTE");
-690: const u8 gText_Smart[] = _("SMART");
-691: const u8 gText_Tough[] = _("TOUGH");
-692: const u8 gText_Normal[] = _("NORMAL");
-693: const u8 gText_Super[] = _("SUPER");
-694: const u8 gText_Hyper[] = _("HYPER");
-695: const u8 gText_Master[] = _("MASTER");
-696: const u8 gText_Cool2[] = _("COOL");
-697: const u8 gText_Beauty2[] = _("BEAUTY");
-698: const u8 gText_Cute2[] = _("CUTE");
-699: const u8 gText_Smart2[] = _("SMART");
-700: const u8 gText_Tough2[] = _("TOUGH");
+687: "ACER"
+688: "PULCHER"
+689: "DULCIS"
+690: "SOLLERS"
+691: "FORTIS"
+692: "NORMALIS"
+693: "SUPER"
+694: "ULTER"
+695: "MAGISTER"
+696: "ACER"
+697: "PULCHER"
+698: "DULCIS"
+699: "SOLLERS"
+700: "FORTIS"
 701:  "RERUM"
 702:  "CLAVIUM"
 703:  "POKé PILARUM"
@@ -680,7 +680,7 @@
 705:  "BACCARUM"
 706:  "PC ALICUIUS"
 707:  "PC IANETTAE"
-708: const u8 gText_PlayersPC[] = _("PC {PLAYER}");
+708: "PC {PLAYER}"
 709:  "VIA VICTORUM"
 710:  "DISCONNECTE"
 711: const u8 gText_Opponent[] = _("OPPONENT");
@@ -839,7 +839,7 @@
 864: const u8 gText_PleasePickATheme[] = _("Please pick a theme.");
 865: "Selige chartam parietalem."
 866:  "{DYNAMIC 0} seligitur."
-867: const u8 gText_JumpToWhichBox[] = _("Jump to which BOX?");
+867: "In quam ARCAM salta?"
 868:  "In qua ARCA deponendum?"
 869:  "{DYNAMIC 0} depositum est."
 870:  "ARCA repleta est."
@@ -884,21 +884,21 @@
 909: const u8 gPCText_Scenery1[] = _("SCENERY 1");
 910: const u8 gPCText_Scenery2[] = _("SCENERY 2");
 911: const u8 gPCText_Scenery3[] = _("SCENERY 3");
-912: const u8 gPCText_Etcetera[] = _("ETCETERA");
-913: const u8 gPCText_Friends[] = _("FRIENDS");
-914: const u8 gPCText_Forest[] = _("FOREST");
-915: const u8 gPCText_City[] = _("CITY");
-916: const u8 gPCText_Desert[] = _("DESERT");
+912: "ETCETERA"
+913: "AMICI"
+914: "SILVA"
+915: "URBS"
+916: "DESERTUM"
 917: const u8 gPCText_Savanna[] = _("SAVANNA");
-918: const u8 gPCText_Crag[] = _("CRAG");
-919: const u8 gPCText_Volcano[] = _("VOLCANO");
-920: const u8 gPCText_Snow[] = _("SNOW");
-921: const u8 gPCText_Cave[] = _("CAVE");
-922: const u8 gPCText_Beach[] = _("BEACH");
-923: const u8 gPCText_Seafloor[] = _("SEAFLOOR");
-924: const u8 gPCText_River[] = _("RIVER");
-925: const u8 gPCText_Sky[] = _("SKY");
-926: const u8 gPCText_PolkaDot[] = _("POLKA-DOT");
+918: "SCOPULUS"
+919: "VULCANUS"
+920: "NIX"
+921: "CAVERNA"
+922: "LITUS"
+923: "MARE FUNDUM"
+924: "FLUMEN"
+925: "COELUM"
+926: "ORBICULA"
 927: "POKéCENTRUM"
 928: "MACHINA"
 929: "SIMPLEX"
@@ -1054,23 +1054,23 @@
 1079: const u8 gText_PokemonLeague[] = _("POKéMON LEAGUE");
 1080: const u8 gText_PokemonCenter[] = _("POKéMON CENTER");
 1081: const u8 gText_GetsAPokeBlockQuestion[] = _(" gets a {POKEBLOCK}?");
-1082: const u8 gText_Coolness[] = _("Coolness ");
-1083: const u8 gText_Beauty3[] = _("Beauty ");
-1084: const u8 gText_Cuteness[] = _("Cuteness ");
-1085: const u8 gText_Smartness[] = _("Smartness ");
-1086: const u8 gText_Toughness[] = _("Toughness ");
-1087: const u8 gText_WasEnhanced[] = _("was enhanced!");
-1088: const u8 gText_NothingChanged[] = _("Nothing changed!");
-1089: const u8 gText_WontEatAnymore[] = _("It won't eat anymore…");
+1082: "Acritudo "
+1083: "Pulchritudo "
+1084: "Dulcitudo "
+1085: "Sollertia "
+1086: "Fortitudo "
+1087: "accedit!"
+1088: "Nihil mutatum est!"
+1089: "Non vult magis edere…"
 1090: const u8 gText_SaveFailedCheckingBackup[] = _("Save failed. Checking the backup\nmemory… Please wait.\n{COLOR RED}“Time required: about 1 minute”");
 1091: const u8 gText_BackupMemoryDamaged[] = _("The backup memory is damaged, or\nthe internal battery has run dry.\nYou can still play, but not save.");
 1092: const u8 gText_GamePlayCannotBeContinued[] = _("{COLOR RED}“Game play cannot be continued.\nReturning to the title screen…”");
 1093: const u8 gText_CheckCompleted[] = _("Check completed.\nAttempting to save again.\nPlease wait.");
 1094: const u8 gText_SaveCompleteGameCannotContinue[] = _("Save completed.\n{COLOR RED}“Game play cannot be continued.\nReturning to the title screen.”");
 1095: const u8 gText_SaveCompletePressA[] = _("Save completed.\n{COLOR RED}“Please press the A Button.”");
-1096: const u8 gText_Ferry[] = _("FERRY");
-1097: const u8 gText_SecretBase[] = _("SECRET BASE");
-1098: const u8 gText_Hideout[] = _("HIDEOUT");
+1096: "PORTITOR"
+1097: "SUFFUGIUM SECRETUM"
+1098: "REFUGIUM"
 1099: const u8 gText_ResetRTCConfirmCancel[] = _("Reset RTC?\nA: Confirm, B: Cancel");
 1100: const u8 gText_PresentTime[] = _("Present time in game");
 1101: const u8 gText_PreviousTime[] = _("Previous time in game");
@@ -1080,37 +1080,37 @@
 1105: const u8 gText_SaveFailed[] = _("Save failed…");
 1106: const u8 gText_NoSaveFileCantSetTime[] = _("There is no save file, so the time\ncan't be set.");
 1107: const u8 gText_InGameClockUsable[] = _("The in-game clock adjustment system\nis now useable.");
-1108: const u8 gText_Slots[] = _("SLOTS");
-1109: const u8 gText_Roulette[] = _("ROULETTE");
-1110: const u8 gText_Good[] = _("Good");
-1111: const u8 gText_VeryGood[] = _("Very good");
-1112: const u8 gText_Excellent[] = _("Excellent");
-1113: const u8 gText_SoSo[] = _("So-so");
-1114: const u8 gText_Bad[] = _("Bad");
-1115: const u8 gText_TheWorst[] = _("The worst");
-1116: const u8 gText_Spicy2[] = _("spicy");
-1117: const u8 gText_Dry2[] = _("dry");
-1118: const u8 gText_Sweet2[] = _("sweet");
-1119: const u8 gText_Bitter2[] = _("bitter");
-1120: const u8 gText_Sour2[] = _("sour");
-1121: const u8 gText_Single[] = _("SINGLE");
-1122: const u8 gText_Double[] = _("DOUBLE");
-1123: const u8 gText_Jackpot[] = _("jackpot");
-1124: const u8 gText_First[] = _("first");
-1125: const u8 gText_Second[] = _("second");
-1126: const u8 gText_Third[] = _("third");
-1127: const u8 gText_0Pts[] = _("0 pts");
-1128: const u8 gText_10Pts[] = _("10 pts");
-1129: const u8 gText_20Pts[] = _("20 pts");
-1130: const u8 gText_30Pts[] = _("30 pts");
-1131: const u8 gText_40Pts[] = _("40 pts");
-1132: const u8 gText_50Pts[] = _("50 pts");
-1133: const u8 gText_60Pts[] = _("60 pts");
-1134: const u8 gText_70Pts[] = _("70 pts");
-1135: const u8 gText_80Pts[] = _("80 pts");
-1136: const u8 gText_90Pts[] = _("90 pts");
-1137: const u8 gText_100Pts[] = _("100 pts");
-1138: const u8 gText_QuestionMark[] = _("?");
+1108: "ALEATORIA"
+1109: "ROTULA"
+1110: "Bonum"
+1111: "Per bonum"
+1112: "Excellens"
+1113: "Haud bonum"
+1114: "Malum"
+1115: "Pessimum"
+1116: "acre"
+1117: "siccum"
+1118: "suave"
+1119: "amarum"
+1120: "acidum"
+1121: "SIMPLEX"
+1122: "DUPLEX"
+1123: "pinguis sort"
+1124: "primus"
+1125: "secundus"
+1126: "tertius"
+1127: "0 pcta"
+1128: "10 pcta"
+1129: "20 pcta"
+1130: "30 pcta"
+1131: "40 pcta"
+1132: "50 pcta"
+1133: "60 pcta"
+1134: "70 pcta"
+1135: "80 pcta"
+1136: "90 pcta"
+1137: "100 pcta"
+1138: "?"
 1139: const u8 gText_KissPoster16BP[] = _("KISS POSTER{CLEAR_TO 0x5E}16BP");
 1140: const u8 gText_KissCushion32BP[] = _("KISS CUSHION{CLEAR_TO 0x5E}32BP");
 1141: const u8 gText_SmoochumDoll32BP[] = _("SMOOCHUM DOLL{CLEAR_TO 0x5E}32BP");
@@ -1280,8 +1280,8 @@
 1307: ALIGNED(4) const u8 gText_1DotF700[] = _("1. {DYNAMIC 0}");
 1308: ALIGNED(4) const u8 gText_SpaceTimes2[] = _(" time(s)");
 1309: ALIGNED(4) const u8 gText_XDotY[] = _("{STR_VAR_1}.{STR_VAR_2}");
-1310: ALIGNED(4) const u8 gText_Var1Berry[] = _("{STR_VAR_1} BERRY");
-1311: ALIGNED(4) const u8 gText_TimeColon[] = _("Hora:");
+1310: "{STR_VAR_1} BACCA"
+1311: "Hora:"
 1312: ALIGNED(4) const u8 gText_PressingSpeed[] = _("Pressing Speed:");
 1313: ALIGNED(4) const u8 gText_Silkiness[] = _("Silkiness:");
 1314: ALIGNED(4) const u8 gText_StrVar1[] = _("{STR_VAR_1}");
@@ -1332,10 +1332,10 @@
 1359: const u8 gText_BattleFactoryDesc[] = _("Aim for victory using rental POKéMON!\nYour knowledge will be tested.");
 1360: const u8 gText_BattlePikeDesc[] = _("Select one of three paths to battle!\nYour luck will be tested.");
 1361: const u8 gText_BattlePyramidDesc[] = _("Aim for the top with exploration!\nYour bravery will be tested.");
-1362: const u8 gText_ContinueMenuPlayer[] = _("LUSOR");
-1363: const u8 gText_ContinueMenuTime[] = _("HORA");
-1364: const u8 gText_ContinueMenuPokedex[] = _("POKéDEX");
-1365: const u8 gText_ContinueMenuBadges[] = _("INSIGNIA");
+1362: "LUSOR"
+1363: "HORA"
+1364: "POKéDEX"
+1365: "INSIGNIA"
 1366: const u8 gText_Powder[] = _("POWDER");
 1367: const u8 gText_BerryPickingRecords[] = _("DODRIO BERRY-PICKING RECORDS");
 1368: const u8 gText_BerriesPicked[] = _("BERRIES picked:");
@@ -1345,11 +1345,11 @@
 1372: const u8 gText_10P30P50P50P[] = _("{CLEAR_TO 0x03}10P{CLEAR_TO 0x2B}30P{CLEAR_TO 0x53}50P{CLEAR_TO 0x77}{EMOJI_MINUS}50P");
 1373: const u8 gText_AnnouncingRankings[] = _("Announcing rankings!");
 1374: const u8 gText_AnnouncingPrizes[] = _("Announcing prizes!");
-1375: const u8 gText_1Colon[] = _("1:");
-1376: const u8 gText_2Colon[] = _("2:");
-1377: const u8 gText_3Colon[] = _("3:");
-1378: const u8 gText_4Colon[] = _("4:");
-1379: const u8 gText_5Colon[] = _("5:");
+1375: "1:"
+1376: "2:"
+1377: "3:"
+1378: "4:"
+1379: "5:"
 1380: const u8 gText_FirstPlacePrize[] = _("The first-place winner gets\nthis {DYNAMIC 0}!");
 1381: const u8 gText_CantHoldAnyMore[] = _("You can't hold any more!");
 1382: const u8 gText_FilledStorageSpace[] = _("It filled its storage space.");
@@ -1436,8 +1436,8 @@
 1465: const u8 gText_BlenderMaxSpeedRecord[] = _("BERRY BLENDER\nMAXIMUM SPEED RECORD!");
 1466: const u8 gText_234Players[] = _("2 PLAYERS\n3 PLAYERS\n4 PLAYERS");
 1467: "ITA\nNON"
-1468: const u8 gText_SelectorArrow3[] = _("▶");
-1469: const u8 gText_Peekaboo[] = _("PEEKABOO!");
+1468: "▶"
+1469: "PEECABOO!"
 1470: const u8 gText_CommErrorCheckConnections[] = _("Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.");
 1471: const u8 gText_CommErrorEllipsis[] = _("Communication error…");
 1472: const u8 gText_MoveCloserToLinkPartner[] = _("Move closer to your link partner(s).\nAvoid obstacles between partners.");

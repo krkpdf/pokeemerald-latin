@@ -1,4 +1,4 @@
-2:       "Salve, hospite acciperis ad\n"
+2:       "Salve, hospite exciperis ad\n"
 3:       "CENTRUM POKéMON.\p"
 4:       "POKéMON fatigata tua restauramus\n"
 5:       "ad salutem summam.\p"
