@@ -14,19 +14,19 @@
 161: .categoryName = _("HAIRY BUG"),
 173: .categoryName = _("COCOON"),
 185: .categoryName = _("POISON BEE"),
-197: .categoryName = _("TINY BIRD"),
-209: .categoryName = _("BIRD"),
-221: .categoryName = _("BIRD"),
-233: .categoryName = _("MOUSE"),
-245: .categoryName = _("MOUSE"),
-257: .categoryName = _("TINY BIRD"),
+197:   "EXIGUA AVIS"
+209:   "AVIS"
+221:   "AVIS"
+233:   "MUS"
+245:   "MUS"
+257:   "EXIGUA AVIS"
 269: .categoryName = _("BEAK"),
 281: .categoryName = _("SNAKE"),
 293: .categoryName = _("COBRA"),
-305: .categoryName = _("MOUSE"),
-317: .categoryName = _("MOUSE"),
-329: .categoryName = _("MOUSE"),
-341: .categoryName = _("MOUSE"),
+305:   "MUS"
+317:   "MUS"
+329:   "MUS"
+341:   "MUS"
 353: .categoryName = _("POISON PIN"),
 365: .categoryName = _("POISON PIN"),
 377: .categoryName = _("DRILL"),
@@ -35,15 +35,15 @@
 413: .categoryName = _("DRILL"),
 425: .categoryName = _("FAIRY"),
 437: .categoryName = _("FAIRY"),
-449: .categoryName = _("FOX"),
-461: .categoryName = _("FOX"),
-473: .categoryName = _("BALLOON"),
-485: .categoryName = _("BALLOON"),
-497: .categoryName = _("BAT"),
-509: .categoryName = _("BAT"),
-521: .categoryName = _("WEED"),
-533: .categoryName = _("WEED"),
-545: .categoryName = _("FLOWER"),
+449:   "VULPIS"
+461:   "VULPIS"
+473:   "INFLATILE"
+485:   "INFLATILE"
+497:   "VESPERTILIO"
+509:   "VESPERTILIO"
+521:   "HERBA"
+533:   "HERBA"
+545:   "FLOS"
 557: .categoryName = _("MUSHROOM"),
 569: .categoryName = _("MUSHROOM"),
 581: .categoryName = _("INSECT"),
@@ -52,8 +52,8 @@
 617: .categoryName = _("MOLE"),
 629: .categoryName = _("SCRATCH CAT"),
 641: .categoryName = _("CLASSY CAT"),
-653: .categoryName = _("DUCK"),
-665: .categoryName = _("DUCK"),
+653:   "ANAS"
+665:   "ANAS"
 677: .categoryName = _("PIG MONKEY"),
 689: .categoryName = _("PIG MONKEY"),
 701: .categoryName = _("PUPPY"),
@@ -61,45 +61,45 @@
 725: .categoryName = _("TADPOLE"),
 737: .categoryName = _("TADPOLE"),
 749: .categoryName = _("TADPOLE"),
-761: .categoryName = _("PSI"),
-773: .categoryName = _("PSI"),
-785: .categoryName = _("PSI"),
-797: .categoryName = _("SUPERPOWER"),
-809: .categoryName = _("SUPERPOWER"),
-821: .categoryName = _("SUPERPOWER"),
-833: .categoryName = _("FLOWER"),
+761:   "MENS"
+773:   "MENS"
+785:   "MENS"
+797:   "SUPERVIS"
+809:   "SUPERVIS"
+821:   "SUPERVIS"
+833:   "FLOS"
 845: .categoryName = _("FLYCATCHER"),
 857: .categoryName = _("FLYCATCHER"),
-869: .categoryName = _("JELLYFISH"),
-881: .categoryName = _("JELLYFISH"),
-893: .categoryName = _("ROCK"),
-905: .categoryName = _("ROCK"),
-917: .categoryName = _("MEGATON"),
+869:   "PULMO"
+881:   "PULMO"
+893:   "SAXUM"
+905:   "SAXUM"
+917:   "MOLES MAGNA"
 929: .categoryName = _("FIRE HORSE"),
 941: .categoryName = _("FIRE HORSE"),
 953: .categoryName = _("DOPEY"),
 965: .categoryName = _("HERMIT CRAB"),
-977: .categoryName = _("MAGNET"),
-989: .categoryName = _("MAGNET"),
+977:   "MAGNES"
+989:   "MAGNES"
 1001: .categoryName = _("WILD DUCK"),
-1013: .categoryName = _("TWIN BIRD"),
-1025: .categoryName = _("TRIPLE BIRD"),
+1013: "DUPLA AVIS"
+1025: "TRIPLA AVIS"
 1037: .categoryName = _("SEA LION"),
 1049: .categoryName = _("SEA LION"),
-1061: .categoryName = _("SLUDGE"),
-1073: .categoryName = _("SLUDGE"),
-1085: .categoryName = _("BIVALVE"),
-1097: .categoryName = _("BIVALVE"),
-1109: .categoryName = _("GAS"),
-1121: .categoryName = _("GAS"),
+1061: "PITUITA"
+1073: "PITUITA"
+1085: "CONCHA"
+1097: "CONCHA"
+1109: "VAPOR"
+1121: "VAPOR"
 1133: .categoryName = _("SHADOW"),
 1145: .categoryName = _("ROCK SNAKE"),
 1157: .categoryName = _("HYPNOSIS"),
 1169: .categoryName = _("HYPNOSIS"),
 1181: .categoryName = _("RIVER CRAB"),
 1193: .categoryName = _("PINCER"),
-1205: .categoryName = _("BALL"),
-1217: .categoryName = _("BALL"),
+1205: "PILA"
+1217: "PILA"
 1229: .categoryName = _("EGG"),
 1241: .categoryName = _("COCONUT"),
 1253: .categoryName = _("LONELY"),
@@ -107,28 +107,28 @@
 1277: .categoryName = _("KICKING"),
 1289: .categoryName = _("PUNCHING"),
 1301: .categoryName = _("LICKING"),
-1313: .categoryName = _("POISON GAS"),
-1325: .categoryName = _("POISON GAS"),
-1337: .categoryName = _("SPIKES"),
-1349: .categoryName = _("DRILL"),
+1313: "NOXIVAPOR"
+1325: "NOXIVAPOR"
+1337: "CUSPIDES"
+1349: "TEREBRA"
 1361: .categoryName = _("EGG"),
 1373: .categoryName = _("VINE"),
 1385: .categoryName = _("PARENT"),
-1397: .categoryName = _("DRAGON"),
-1409: .categoryName = _("DRAGON"),
-1421: .categoryName = _("GOLDFISH"),
-1433: .categoryName = _("GOLDFISH"),
-1445: .categoryName = _("STAR SHAPE"),
-1457: .categoryName = _("MYSTERIOUS"),
+1397: "DRACO"
+1409: "DRACO"
+1421: "HIPPURUS"
+1433: "HIPPURUS"
+1445: "STELLATUM"
+1457: "MYSTERIUM"
 1469: .categoryName = _("BARRIER"),
 1481: .categoryName = _("MANTIS"),
 1493: .categoryName = _("HUMAN SHAPE"),
 1505: .categoryName = _("ELECTRIC"),
 1517: .categoryName = _("SPITFIRE"),
-1529: .categoryName = _("STAG BEETLE"),
+1529: "LUCANUS"
 1541: .categoryName = _("WILD BULL"),
-1553: .categoryName = _("FISH"),
-1565: .categoryName = _("ATROCIOUS"),
+1553: "PISCIS"
+1565: "ATROX"
 1577: .categoryName = _("TRANSPORT"),
 1589: .categoryName = _("TRANSFORM"),
 1601: .categoryName = _("EVOLUTION"),
@@ -145,15 +145,15 @@
 1733: .categoryName = _("FREEZE"),
 1745: .categoryName = _("ELECTRIC"),
 1757: .categoryName = _("FLAME"),
-1769: .categoryName = _("DRAGON"),
-1781: .categoryName = _("DRAGON"),
-1793: .categoryName = _("DRAGON"),
+1769: "DRACO"
+1781: "DRACO"
+1793: "DRACO"
 1805: .categoryName = _("GENETIC"),
 1817: .categoryName = _("NEW SPECIES"),
 1829: .categoryName = _("LEAF"),
 1841: .categoryName = _("LEAF"),
 1853: .categoryName = _("HERB"),
-1865: .categoryName = _("FIRE MOUSE"),
+1865: .categoryName = _("FIRE MUS"),
 1877: .categoryName = _("VOLCANO"),
 1889: .categoryName = _("VOLCANO"),
 1901: .categoryName = _("BIG JAW"),
@@ -167,22 +167,22 @@
 1997: .categoryName = _("FIVE STAR"),
 2009: .categoryName = _("STRING SPIT"),
 2021: .categoryName = _("LONG LEG"),
-2033: .categoryName = _("BAT"),
-2045: .categoryName = _("ANGLER"),
-2057: .categoryName = _("LIGHT"),
-2069: .categoryName = _("TINY MOUSE"),
+2033: "VESPERTILIO"
+2045: "PISCATRIX"
+2057: "LUMEN"
+2069: "EXIGUUS MUS"
 2081: .categoryName = _("STAR SHAPE"),
-2093: .categoryName = _("BALLOON"),
+2093: "INFLATILE"
 2105: .categoryName = _("SPIKE BALL"),
 2117: .categoryName = _("HAPPINESS"),
-2129: .categoryName = _("TINY BIRD"),
-2141: .categoryName = _("MYSTIC"),
+2129: "EXIGUA AVIS"
+2141: "ARCANUM"
 2153: .categoryName = _("WOOL"),
 2165: .categoryName = _("WOOL"),
 2177: .categoryName = _("LIGHT"),
-2189: .categoryName = _("FLOWER"),
-2201: .categoryName = _("AQUA MOUSE"),
-2213: .categoryName = _("AQUA RABBIT"),
+2189: "FLOS"
+2201: "AQUEUS MUS"
+2213: "AQUNICULUS"
 2225: .categoryName = _("IMITATION"),
 2237: .categoryName = _("FROG"),
 2249: .categoryName = _("COTTONWEED"),
@@ -200,8 +200,8 @@
 2393: .categoryName = _("ROYAL"),
 2405: .categoryName = _("SCREECH"),
 2417: .categoryName = _("SYMBOL"),
-2429: .categoryName = _("PATIENT"),
-2441: .categoryName = _("LONG NECK"),
+2429: "SUFFERENS"
+2441: "LONGICOLLUM"
 2453: .categoryName = _("BAGWORM"),
 2465: .categoryName = _("BAGWORM"),
 2477: .categoryName = _("LAND SNAKE"),
@@ -209,28 +209,28 @@
 2501: .categoryName = _("IRON SNAKE"),
 2513: .categoryName = _("FAIRY"),
 2525: .categoryName = _("FAIRY"),
-2537: .categoryName = _("BALLOON"),
+2537: "INFLATILE"
 2549: .categoryName = _("PINCER"),
 2561: .categoryName = _("MOLD"),
-2573: .categoryName = _("SINGLE HORN"),
+2573: "UNICORNE"
 2585: .categoryName = _("SHARP CLAW"),
 2597: .categoryName = _("LITTLE BEAR"),
 2609: .categoryName = _("HIBERNATOR"),
-2621: .categoryName = _("LAVA"),
-2633: .categoryName = _("LAVA"),
+2621: "LAVA"
+2633: "LAVA"
 2645: .categoryName = _("PIG"),
 2657: .categoryName = _("SWINE"),
-2669: .categoryName = _("CORAL"),
+2669: "CORALIUM"
 2681: .categoryName = _("JET"),
 2693: .categoryName = _("JET"),
 2705: .categoryName = _("DELIVERY"),
 2717: .categoryName = _("KITE"),
-2729: .categoryName = _("ARMOR BIRD"),
+2729: "ARMAE AVIS"
 2741: .categoryName = _("DARK"),
 2753: .categoryName = _("DARK"),
-2765: .categoryName = _("DRAGON"),
-2777: .categoryName = _("LONG NOSE"),
-2789: .categoryName = _("ARMOR"),
+2765: "DRACO"
+2777: "NASUTUM"
+2789: "ARMATURA"
 2801: .categoryName = _("VIRTUAL"),
 2813: .categoryName = _("BIG HORN"),
 2825: .categoryName = _("PAINTER"),
@@ -250,138 +250,142 @@
 2993: .categoryName = _("DIVING"),
 3005: .categoryName = _("RAINBOW"),
 3017: .categoryName = _("TIME TRAVEL"),
-3029: .categoryName = _("WOOD GECKO"),
-3041: .categoryName = _("WOOD GECKO"),
-3053: .categoryName = _("FOREST"),
-3065: .categoryName = _("CHICK"),
-3077: .categoryName = _("YOUNG FOWL"),
-3089: .categoryName = _("BLAZE"),
-3101: .categoryName = _("MUD FISH"),
-3113: .categoryName = _("MUD FISH"),
-3125: .categoryName = _("MUD FISH"),
-3137: .categoryName = _("BITE"),
-3149: .categoryName = _("BITE"),
-3161: .categoryName = _("TINYRACCOON"),
-3173: .categoryName = _("RUSHING"),
-3185: .categoryName = _("WORM"),
-3197: .categoryName = _("COCOON"),
-3209: .categoryName = _("BUTTERFLY"),
-3221: .categoryName = _("COCOON"),
-3233: .categoryName = _("POISON MOTH"),
-3245: .categoryName = _("WATER WEED"),
-3257: .categoryName = _("JOLLY"),
-3269: .categoryName = _("CAREFREE"),
-3281: .categoryName = _("ACORN"),
-3293: .categoryName = _("WILY"),
-3305: .categoryName = _("WICKED"),
-3317: .categoryName = _("TINYSWALLOW"),
-3329: .categoryName = _("SWALLOW"),
-3341: .categoryName = _("SEAGULL"),
-3353: .categoryName = _("WATER BIRD"),
-3365: .categoryName = _("FEELING"),
-3377: .categoryName = _("EMOTION"),
-3389: .categoryName = _("EMBRACE"),
-3401: .categoryName = _("POND SKATER"),
-3413: .categoryName = _("EYEBALL"),
-3425: .categoryName = _("MUSHROOM"),
-3437: .categoryName = _("MUSHROOM"),
-3449: .categoryName = _("SLACKER"),
-3461: .categoryName = _("WILD MONKEY"),
-3473: .categoryName = _("LAZY"),
-3485: .categoryName = _("TRAINEE"),
-3497: .categoryName = _("NINJA"),
-3509: .categoryName = _("SHED"),
-3521: .categoryName = _("WHISPER"),
-3533: .categoryName = _("BIG VOICE"),
-3545: .categoryName = _("LOUD NOISE"),
-3557: .categoryName = _("GUTS"),
-3569: .categoryName = _("ARM THRUST"),
-3581: .categoryName = _("POLKA DOT"),
-3593: .categoryName = _("COMPASS"),
-3605: .categoryName = _("KITTEN"),
-3617: .categoryName = _("PRIM"),
-3629: .categoryName = _("DARKNESS"),
-3641: .categoryName = _("DECEIVER"),
-3653: .categoryName = _("IRON ARMOR"),
-3665: .categoryName = _("IRON ARMOR"),
-3677: .categoryName = _("IRON ARMOR"),
-3689: .categoryName = _("MEDITATE"),
-3701: .categoryName = _("MEDITATE"),
-3713: .categoryName = _("LIGHTNING"),
-3725: .categoryName = _("DISCHARGE"),
-3737: .categoryName = _("CHEERING"),
-3749: .categoryName = _("CHEERING"),
-3761: .categoryName = _("FIREFLY"),
-3773: .categoryName = _("FIREFLY"),
-3785: .categoryName = _("THORN"),
-3797: .categoryName = _("STOMACH"),
-3809: .categoryName = _("POISON BAG"),
-3821: .categoryName = _("SAVAGE"),
-3833: .categoryName = _("BRUTAL"),
-3845: .categoryName = _("BALL WHALE"),
-3857: .categoryName = _("FLOAT WHALE"),
-3869: .categoryName = _("NUMB"),
-3881: .categoryName = _("ERUPTION"),
-3893: .categoryName = _("COAL"),
-3905: .categoryName = _("BOUNCE"),
-3917: .categoryName = _("MANIPULATE"),
-3929: .categoryName = _("SPOT PANDA"),
-3941: .categoryName = _("ANT PIT"),
-3953: .categoryName = _("VIBRATION"),
-3965: .categoryName = _("MYSTIC"),
-3977: .categoryName = _("CACTUS"),
-3989: .categoryName = _("SCARECROW"),
-4001: .categoryName = _("COTTON BIRD"),
-4013: .categoryName = _("HUMMING"),
-4025: .categoryName = _("CAT FERRET"),
-4037: .categoryName = _("FANG SNAKE"),
-4049: .categoryName = _("METEORITE"),
-4061: .categoryName = _("METEORITE"),
-4073: .categoryName = _("WHISKERS"),
-4085: .categoryName = _("WHISKERS"),
-4097: .categoryName = _("RUFFIAN"),
-4109: .categoryName = _("ROGUE"),
-4121: .categoryName = _("CLAY DOLL"),
-4133: .categoryName = _("CLAY DOLL"),
-4145: .categoryName = _("SEA LILY"),
-4157: .categoryName = _("BARNACLE"),
-4169: .categoryName = _("OLD SHRIMP"),
-4181: .categoryName = _("PLATE"),
-4193: .categoryName = _("FISH"),
-4205: .categoryName = _("TENDER"),
-4217: .categoryName = _("WEATHER"),
-4229: .categoryName = _("COLOR SWAP"),
-4241: .categoryName = _("PUPPET"),
-4253: .categoryName = _("MARIONETTE"),
-4265: .categoryName = _("REQUIEM"),
-4277: .categoryName = _("BECKON"),
-4289: .categoryName = _("FRUIT"),
-4301: .categoryName = _("WIND CHIME"),
-4313: .categoryName = _("DISASTER"),
-4325: .categoryName = _("BRIGHT"),
-4337: .categoryName = _("SNOW HAT"),
-4349: .categoryName = _("FACE"),
-4361: .categoryName = _("CLAP"),
-4373: .categoryName = _("BALL ROLL"),
-4385: .categoryName = _("ICE BREAK"),
-4397: .categoryName = _("BIVALVE"),
-4409: .categoryName = _("DEEP SEA"),
-4421: .categoryName = _("SOUTH SEA"),
-4433: .categoryName = _("LONGEVITY"),
-4445: .categoryName = _("RENDEZVOUS"),
-4457: .categoryName = _("ROCK HEAD"),
-4469: .categoryName = _("ENDURANCE"),
-4481: .categoryName = _("DRAGON"),
-4493: .categoryName = _("IRON BALL"),
-4505: .categoryName = _("IRON CLAW"),
-4517: .categoryName = _("IRON LEG"),
-4529: .categoryName = _("ROCK PEAK"),
-4541: .categoryName = _("ICEBERG"),
-4553: .categoryName = _("IRON"),
-4565: .categoryName = _("EON"),
-4577: .categoryName = _("EON"),
-4589: .categoryName = _("SEA BASIN"),
-4601: .categoryName = _("CONTINENT"),
-4613: .categoryName = _("SKY HIGH"),
-4625: .categoryName = _("WISH"),
-4637: .categoryName = _("DNA"),
+
+"WOOD GECKOO"
+"FLYSCORPION"
+HOENN
+3029: "LIGNI GECO"
+3041: "LIGNI GECO"
+3053: "SILVA"
+3065: "PULLUS"
+3077: "VOLUCER"
+3089: "INCENDIUM"
+3101: "LUTI PISCIS"
+3113: "LUTI PISCIS"
+3125: "LUTI PISCIS"
+3137: "MORSUS"
+3149: "MORSUS"
+3161: "PROCANIS"
+3173: "INCURSIO"
+3185: "VERMIS"
+3197: "SERICUM"
+3209: "PAPILIO"
+3221: "SERICUM"
+3233: "TINEA NOXIA"
+3245: "AQUAE HERBA"
+3257: "HILARIS"
+3269: "SECURUM"
+3281: "GLANS"
+3293: "VAFER"
+3305: "PRAVUS"
+3317: "HIRUNDO"
+3329: "HIRUNDO"
+3341: "LARUS"
+3353: "AQUAE AVIS"
+3365: "SENSUS"
+3377: "AFFECTUS"
+3389: "AMPLEXUS"
+3401: "LACICURSOR"
+3413: "OCULUS"
+3425: "FUNGUS"
+3437: "FUNGUS"
+3449: "PIGER"
+3461: "SIMIA"
+3473: "REMISSUM"
+3485: "TIRO"
+3497: "NINJA"
+3509: "PUTAMEN"
+3521: "SUSURRUS"
+3533: "MAGNA VOX"
+3545: "FRAGOR"
+3557: "IECUR"
+3569: "BRACCHICTUS"
+3581: "ORBES"
+3593: "PERDUCTOR"
+3605: "CATULUS"
+3617: "DECORUM"
+3629: "TENEBRAE"
+3641: "DECEPTOR"
+3653: "ARMA FERREA"
+3665: "ARMA FERREA"
+3677: "ARMA FERREA"
+3689: "MEDITARI"
+3701: "MEDITARI"
+3713: "FULMEN"
+3725: "EMISSIO"
+3737: "LAETIFICUM"
+3749: "LAETIFICUM"
+3761: "IGNIFERUM"
+3773: "IGNIFERUM"
+3785: "SPINA"
+3797: "STOMACHUS"
+3809: "UTER NOXIUS"
+3821: "FERUM"
+3833: "VEHEMENS"
+3845: "CETUS"
+3857: "FLUITANS"
+3869: "TORPENS"
+3881: "ERUPTIO"
+3893: "CARBO"
+3905: "RESULTUS"
+3917: "POTESTAS"
+3929: "MACULATUM"
+3941: "FOVEA"
+3953: "VIBRATUS"
+3965: "ARCANUM"
+3977: "CACTUS"
+3989: "FORMIDO"
+4001: "GOSSYPINUM"
+4013: "FREMITUS"
+4025: "VIVERRA"
+4037: "LUPATUM"
+4049: "METEORUM"
+4061: "METEORUM"
+4073: "MYSTAX"
+4085: "MYSTAX"
+4097: "FACINEROSUM"
+4109: "VETERATOR"
+4121: "PUPA LUTEA"
+4133: "PUPA LUTEA"
+4145: "LILIUM"
+4157: "LEPAS"
+4169: "PAGURUS"
+4181: "LAMINA"
+4193: "PISCIS"
+4205: "TENER"
+4217: "COELUM"
+4229: "COLORABILE"
+4241: "PUPA"
+4253: "NERVODUCTA"
+4265: "REQUIES"
+4277: "ILLECEBRA"
+4289: "FRUCTUS"
+4301: "TINTINNARE"
+4313: "CALAMITAS"
+4325: "CLARUM"
+4337: "NIVIPILEUS"
+4349: "FACIES"
+4361: "PLAUSUS"
+4373: "ROTUNDUM"
+4385: "GELUFRACTUS"
+4397: "CONCHA"
+4409: "PONTUS"
+4421: "AUSTRALE"
+4433: "VIVACITAS"
+4445: "CARITAS"
+4457: "LAPIDICAPUT"
+4469: "PATIENTIA"
+4481: "DRACO"
+4493: "FERROGLOBUS"
+4505: "FERROUNGUIS"
+4517: "FERROCRUS"
+4529: "LAPIDIAPEX"
+4541: "GELUAPEX"
+4553: "FERRUM"
+4565: "SECULUM"
+4577: "SECULUM"
+4589: "MARIS IMUS"
+4601: "CONTINENS"
+4613: "AETHER"
+4625: "DESIDERIUM"
+4637: "DNA"

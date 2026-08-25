@@ -67,7 +67,7 @@ GUST
 66: "alis mixto  percutit."
 
 WING ATTACK
-69: "Hostem alis latew\n"
+69: "Hostem alis late\n"
 70: "obtentis percutit."
 
 WHIRLWIND
@@ -211,7 +211,7 @@ MIST
 218: "opem prohibet, creavit."
 
 WATER GUN
-221: "Spuit aquam ob hostem\n"
+221: "Spuit aquam ad hostem\n"
 222: "vulnerandum."
 
 HYDRO PUMP
@@ -1305,7 +1305,7 @@ MUDDY WATER
 
 BULLET SEED
 1325: "Semina inter 2-5 vices\n"
-1326: "iacit ob hostem iciendum."
+1326: "iacit ad hostem iciendum."
 
 AERIAL ACE
 1329: "Impetus summe celer et\n"
@@ -1336,7 +1336,7 @@ FRENZY PLANT
 1354: "user immobile the next turn.");
 
 BULK UP
-1357: "Crassificat se ob levandos\n"
+1357: "Crassificat se ad levandos\n"
 1358: "ambo IMPETUM ac DEFENSIONEM."
 
 1361: "Bounces up, then down the\n"
