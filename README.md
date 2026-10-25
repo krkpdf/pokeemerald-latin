@@ -40,19 +40,27 @@ Generates a build with automatically added vowel-length accents. Values can be m
 1. Copy the `pokeemerald-master-translated/` folder and rename the copy to `pokeemerald-master-translated-marked/`
 2. Add the following entries to `charmap.txt`:
    ```
-   Ý = 0A
-   ý = 1F
+   'Ý' = 0A
+   'ý' = 1F
+   'œ́' = 30
+   'Œ́' = 31
+   'Æ' = 37
+   'Ǽ' = 38
+   'æ' = 39
+   'ǽ' = 3A
    ```
-3. Edit all Latin font sprites under `graphics/fonts/`, adding `Ý` and `ý` to the right of `Ì` and `ì` glyphs respectively
+3. Edit all Latin font sprites under `graphics/fonts/`, adding `Ý` and `ý` to the right of `Ì` and `ì` glyphs, `œ́` and `Œ́` below the `î` and `ï` glyphs respectively, and `Æ`, `Ǽ`, `æ`, and `ǽ` to the right of the `;` glyph, in that order. 
 4. Update glyph widths in `src/font.c` for all Latin font tables:
    - Find the top row and replace the **6th number from the right** with the first width value (the default should be 3)
    - Find the second row and replace the **1st number from the right** with the second width value (the default should be 3)
+   - Find the fourth row and replace the **1st and 2nd numbers from the left** with the first two values of the third width values and replace the **4 values starting from the 8th number from the left** with the remaining 4 values
    - Use these widths depending on your font type:
 
-   | Font type | Top row (6th from right) | Second row (1st from right) |
-   |---|---|---|
-   | Narrow / Small | 4 | 5 |
-   | Normal / Short | 6 | 6 |
+   | Font type | Top row (6th from right) | Second row (1st from right) | Fourth Row (first two from the left and 4 starting from the 8th from the left)
+   |---|---|---| --- |
+   | Small / Small Narrow | 4 | 5 | 6, 5, ..., 5, 5, 6, 6 |
+   | Narrow | 4 | 5 | 8, 8, ..., 7, 7, 8, 8 |
+   | Normal / Short | 6 | 6 | 8, 8, ..., 7, 7, 8, 8 |
 
 #### Steps:
 1. Run `python3 macronize.py` to macronize the text *(this may take several hours)*
