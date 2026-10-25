@@ -43,7 +43,7 @@
 909:   "Sonuit sicut ianua alicubi procul\n"
 910:   "aperta sit.$"
 913:   "Magnum foramen in pariete est.$"
-916:   "I'm terribly sorry.\n"
+916:   "Paenitet me maxime.\n"
 917:   "POKéMON WIRELESS CIRCULUS nunc\l"
 918:   "structuras subit.$"
 921:   "Videtur structuras hoc tempore\n"

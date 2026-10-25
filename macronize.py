@@ -41,16 +41,23 @@ for filepath in dest_dir.rglob("*"):
                 if part.startswith('{') and part.endswith('}'):
                     result.append(part)  # leave brace blocks untouched
                 else:
-                    macronized = macronizer.macronize(part)
+                    macronizer.settext(part)
+                    macronized = macronizer.gettext(performutov=True, performitoj=True)
                     macronized = (macronized
                         .replace("Ā", "Á").replace("Ē", "É").replace("Ī", "Í")
                         .replace("Ō", "Ó").replace("Ū", "Ú").replace("Ȳ", "Ý")
                         .replace("ā", "á").replace("ē", "é").replace("ī", "í")
                         .replace("ō", "ó").replace("ū", "ú").replace("ȳ", "ý")
+                        .replace("áé", "{AE_}").replace("áe", "{AE_}").replace("aé", "{AE_}").replace("ae", "æ")
+                        .replace("Áé", "{AE}").replace("Áe", "{AE}").replace("Aé", "{AE}").replace("ae", "Æ")
+                        .replace("óé", "{OE_}").replace("óe", "{OE_}").replace("oé", "{OE_}").replace("oe", "œ")
+                        .replace("Óé", "{OE}").replace("Óe", "{OE}").replace("Oé", "{OE}").replace("oe", "Œ")
                     )
+                    #print(macronized)
                     result.append(macronized)
             return "".join(result)
 
+        #print(text)
         text = macronize_outside_braces(text)
         text = text.replace("\"namé\":", "\"name\":")
         
