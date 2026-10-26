@@ -42,12 +42,12 @@ Generates a build with automatically added vowel-length accents. Values can be m
    ```
    'Ý' = 0A
    'ý' = 1F
-   'œ́' = 30
-   'Œ́' = 31
+   OE_ = 30
+   OE = 31
    'Æ' = 37
-   'Ǽ' = 38
+   AE = 38
    'æ' = 39
-   'ǽ' = 3A
+   AE_ = 3A
    ```
 3. Edit all Latin font sprites under `graphics/fonts/`, adding `Ý` and `ý` to the right of `Ì` and `ì` glyphs, `œ́` and `Œ́` below the `î` and `ï` glyphs respectively, and `Æ`, `Ǽ`, `æ`, and `ǽ` to the right of the `;` glyph, in that order. 
 4. Update glyph widths in `src/font.c` for all Latin font tables:
