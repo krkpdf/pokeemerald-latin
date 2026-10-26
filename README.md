@@ -26,7 +26,7 @@ The base English text used for translation is also extracted from the Decompilat
 2. Translate the text and submit a pull request with your changes
 3. Extract, translate and manually replace game graphics as needed
 4. In `include/constants/global.h`, set `ABILITY_NAME_LENGTH` to `13` and `ITEM_NAME_LENGTH` to `15`
-5. Run `./make.sh` to automatically replace text in the Decompilation Project folder and compile
+5. Run `./make.sh` to automatically replace text in the Decompilation Project folder and compile (use `--marked` or `--m` to macronize and compile the macronized version as well)
 
 
 ### Macronizer (Optional)
