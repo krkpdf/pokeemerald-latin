@@ -30,7 +30,7 @@
 49:     "Tres numeri aequaverunt, itaque\n"
 50:     "secundum vicisti praemium!\l"
 51:     "Meritus es {STR_VAR_1}!$"
-54:     "Quattuor numeri aequaverunt, itaque\n"
+54:     "Quatuor numeri aequaverunt, itaque\n"
 55:     "primum meritus es praemium!\l"
 56:     "Vicisti {STR_VAR_1}!$"
 59:     "Oh, pro fide mea, quinque numeri omnes\n"

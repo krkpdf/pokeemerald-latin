@@ -29,7 +29,7 @@
 56:     "BACCA valde magna et acida."
 57:     "Minimum diem ad crescendum sumit."
 58:     "BACCA rubra leviter aromatica sapit."
-59:     "Crescit in quattuor horis solis."
+59:     "Crescit in quatuor horis solis."
 60:     "BACCA caerulea est extrinsecus, sed"
 61:     "os ubi sumatur nigrat."
 62:     "BACCA haec septima erat quae in orbe"

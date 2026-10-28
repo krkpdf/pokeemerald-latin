@@ -13,7 +13,7 @@
 75:     "Iamne FLAMMINERAM provocasti,\n"
 76:     "RECTRICEM LAVAERIGII GYMNIS?\p"
 77:     "Puellae avus celeber erat.\n"
-78:     "Unus ex QUATTOUR ELECTI in LIGA\l"
+78:     "Unus ex QUATUOR ELECTI in LIGA\l"
 79:     "POKéMON uno puncto temporis fuit.\p"
 80:     "Mihi haud admirationem moverit videre\n"
 81:     "FLAMMINERAM TRAHITRICEM fieri\l"

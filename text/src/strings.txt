@@ -1731,27 +1731,27 @@
 1771: "Estne haec hora certa?"
 1772: "CONFIRMA"
 1773: "CANCELLA"
-1774: const u8 gText_MrStoneMatchCallDesc[] = _("DEVON PRES");
-1775: const u8 gText_MrStoneMatchCallName[] = _("MR. STONE");
-1776: const u8 gText_StevenMatchCallDesc[] = _("HARD AS ROCK");
-1777: const u8 gText_StevenMatchCallName[] = _("STEVEN");
-1778: const u8 gText_MayBrendanMatchCallDesc[] = _("RAD NEIGHBOR");
-1779: const u8 gText_NormanMatchCallDesc[] = _("RELIABLE ONE");
-1780: const u8 gText_MomMatchCallDesc[] = _("CALM & KIND");
-1781: const u8 gText_WallyMatchCallDesc[] = _("{PKMN} LOVER");
-1782: const u8 gText_NormanMatchCallName[] = _("DAD");
-1783: const u8 gText_MomMatchCallName[] = _("MOM");
+1774: const u8 gText_MrStoneMatchCallDesc[] = _("DEVON PRAESES");
+1775: const u8 gText_MrStoneMatchCallName[] = _("DOM. SAXIUS");
+1776: const u8 gText_StevenMatchCallDesc[] = _("LAPIDEUS");
+1777: const u8 gText_StevenMatchCallName[] = _("SILEXER");
+1778: const u8 gText_MayBrendanMatchCallDesc[] = _("RAD VICINUS");
+1779: const u8 gText_NormanMatchCallDesc[] = _("CREDIBILIS");
+1780: const u8 gText_MomMatchCallDesc[] = _("LENIS & COMIS");
+1781: const u8 gText_WallyMatchCallDesc[] = _("{PKMN} AMATOR");
+1782: const u8 gText_NormanMatchCallName[] = _("PATER");
+1783: const u8 gText_MomMatchCallName[] = _("MATER");
 1784: const u8 gText_ScottMatchCallDesc[] = _("ELUSIVE EYES");
-1785: const u8 gText_ScottMatchCallName[] = _("SCOTT");
+1785: const u8 gText_ScottMatchCallName[] = _("SCOTUS");
 1786: const u8 gText_RoxanneMatchCallDesc[] = _("ROCKIN' WHIZ");
-1787: const u8 gText_BrawlyMatchCallDesc[] = _("THE BIG HIT");
+1787: const u8 gText_BrawlyMatchCallDesc[] = _("MAGNUS ICTUS");
 1788: const u8 gText_WattsonMatchCallDesc[] = _("SWELL SHOCK");
 1789: const u8 gText_FlanneryMatchCallDesc[] = _("PASSION BURN");
-1790: const u8 gText_WinonaMatchCallDesc[] = _("SKY TAMER");
+1790: const u8 gText_WinonaMatchCallDesc[] = _("COELI DOMITOR");
 1791: const u8 gText_TateLizaMatchCallDesc[] = _("MYSTIC DUO");
 1792: const u8 gText_JuanMatchCallDesc[] = _("DANDY CHARM");
-1793: const u8 gText_EliteFourMatchCallDesc[] = _("ELITE FOUR");
-1794: const u8 gText_ChampionMatchCallDesc[] = _("CHAMPION");
+1793: const u8 gText_EliteFourMatchCallDesc[] = _("QUATUOR ELECTI");
+1794: const u8 gText_ChampionMatchCallDesc[] = _("CAMPIO");
 1795: const u8 gText_ProfBirchMatchCallDesc[] = _("{PKMN} PROF.");
 1796: const u8 gText_CommStandbyAwaitingOtherPlayer[] = _("Communication standby…\nAwaiting another player to choose.");
 1797: const u8 gText_BattleWasRefused[] = _("The battle was refused.{PAUSE 60}");

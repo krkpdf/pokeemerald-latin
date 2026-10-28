@@ -319,7 +319,7 @@ Machoke
 
 Machamp
 410:   "Defendi non possunt colaphi et ictus\n"
-411:   "editi a quattuor bracchiis suis. Anima sua\n"
+411:   "editi a quatuor bracchiis suis. Anima sua\n"
 412:   "bellicosa flagrascit quando adversarium\n"
 413:   "acrem obstat."
 
@@ -1229,7 +1229,7 @@ Blaziken
 
 Mudkip
 1550: "Super terra, vi lapides ingentes tollere\n"
-1551: "potest quattuor pedibus premendis suis\n"
+1551: "potest quatuor pedibus premendis suis\n"
 1552: "et nitens. Dormit se in terram ad oram\n"
 1553: "aquae humando."
 
@@ -1936,7 +1936,7 @@ Metang
 2255: "Volat celerius quam 60 millia in hora."
 
 Metagross
-2258: "METAGROSS quattuor cerebra reti nervali\n"
+2258: "METAGROSS quatuor cerebra reti nervali\n"
 2259: "coniuncta habet. Propter eorum\n"
 2260: "coagmentationem, POKéMON hoc scientius\n"
 2261: "est supercomputatorio."

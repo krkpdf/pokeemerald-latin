@@ -78,7 +78,7 @@
 125:   "Oh! Bonum proverbium est.\n"
 126:   "Admodum insignis es.\p"
 127:   "Volo te hanc habere.$"
-130:   "Nepotes nostrae quattour certo\n"
+130:   "Nepotes nostrae quatuor certo\n"
 131:   "peritiores marito meo erunt.\p"
 132:   "Gaudium numquam de vita mea it!$"
 135:   "Ah…$"

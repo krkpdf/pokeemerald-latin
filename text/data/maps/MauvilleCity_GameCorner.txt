@@ -74,7 +74,7 @@
 767:   "occasiones ALABRI TEMPORIS habeas.\p"
 768:   "In ludo maximis quinque opportunitatum\n"
 769:   "ALABRI TEMPORIS…\p"
-770:   "Potest fieri ut quattour auctaria\n"
+770:   "Potest fieri ut quatuor auctaria\n"
 771:   "solita recipias dein auctarium magnum.\p"
 772:   "Ad 660 NUMMOS computetur, sed valde\n"
 773:   "difficile est receptu.$"

@@ -17,7 +17,7 @@
 28:     "Il-illa charta…$\n"
 29:     "Nam possitne esse… CHARTA AUREA?!\p"
 30:     "O, color aureus luculentus est!\n"
-31:     "Quattor stellae splendere videntur!\p"
+31:     "Quatuor stellae splendere videntur!\p"
 32:     "Iam multos TRAHITORES vidi habentes\n"
 33:     "CHARTAM ARGENTEAM, sed, {PLAYER},\l"
 34:     "tu es TRAHITOR primus, quem iam vidi,\n"

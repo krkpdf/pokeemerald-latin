@@ -5,7 +5,7 @@
 59:   "{B_BUFF1} progressum\nest ad GR. {B_BUFF2}!{WAIT_SE}\p"
 60:   "{B_BUFF1} discit\n{B_BUFF2}!{WAIT_SE}\p"
 61:   "{B_BUFF1} conatur\ndiscere {B_BUFF2}.\p"
-62:   "Sed, {B_BUFF1} non licet discere\nplus quam quattuor motus.\p"
+62:   "Sed, {B_BUFF1} non licet discere\nplus quam quatuor motus.\p"
 63:   "Dele motus ut fiat\nlocus pro {B_BUFF2}?"
 64:   "{B_BUFF1} oblitum est\n{B_BUFF2}.\p"
 65:   "{PAUSE 32}Desine discendi\n{B_BUFF2}?"
