@@ -26,7 +26,7 @@ The base English text used for translation is also extracted from the Decompilat
 2. Translate the text and submit a pull request with your changes
 3. Extract, translate and manually replace game graphics as needed
 4. In `include/constants/global.h`, set `ABILITY_NAME_LENGTH` to `13` and `ITEM_NAME_LENGTH` to `15`
-5. Run `./make.sh` to automatically replace text in the Decompilation Project folder and compile
+5. Run `./make.sh` to automatically replace text in the Decompilation Project folder and compile (use `--marked` or `--m` to macronize and compile the macronized version as well)
 
 
 ### Macronizer (Optional)
@@ -42,12 +42,12 @@ Generates a build with automatically added vowel-length accents. Values can be m
    ```
    'Ý' = 0A
    'ý' = 1F
-   'œ́' = 30
-   'Œ́' = 31
+   OE_ = 30
+   OE = 31
    'Æ' = 37
-   'Ǽ' = 38
+   AE = 38
    'æ' = 39
-   'ǽ' = 3A
+   AE_ = 3A
    ```
 3. Edit all Latin font sprites under `graphics/fonts/`, adding `Ý` and `ý` to the right of `Ì` and `ì` glyphs, `œ́` and `Œ́` below the `î` and `ï` glyphs respectively, and `Æ`, `Ǽ`, `æ`, and `ǽ` to the right of the `;` glyph, in that order. 
 4. Update glyph widths in `src/font.c` for all Latin font tables:
