@@ -35,7 +35,7 @@
 366:   "… … … … … … … …\p"
 367:   "O, {PLAYER}{KUN} es.\n"
 368:   "Igitur commigratio vestra hodie erat.\p"
-369:   "Um… MAIA vocor.\n"
+369:   "Um… VERNA vocor.\n"
 370:   "Gaudeo tibi obviam ire!\p"
 371:   "Ego…\n"
 372:   "Somnium quidam de amicitia statuenda\l"

@@ -1,20 +1,20 @@
-7: const u8 gText_ExpandedPlaceholder_Empty[] = _("");
-8: const u8 gText_ExpandedPlaceholder_Kun[] = _("");
-9: const u8 gText_ExpandedPlaceholder_Chan[] = _("");
-10: const u8 gText_ExpandedPlaceholder_Sapphire[] = _("SAPPHIRE");
-11: const u8 gText_ExpandedPlaceholder_Ruby[] = _("RUBY");
-12: const u8 gText_ExpandedPlaceholder_Emerald[] = _("EMERALD");
-13: const u8 gText_ExpandedPlaceholder_Aqua[] = _("AQUA");
-14: const u8 gText_ExpandedPlaceholder_Magma[] = _("MAGMA");
-15: const u8 gText_ExpandedPlaceholder_Archie[] = _("ARCHIE");
-16: const u8 gText_ExpandedPlaceholder_Maxie[] = _("MAXIE");
-17: const u8 gText_ExpandedPlaceholder_Kyogre[] = _("KYOGRE");
-18: const u8 gText_ExpandedPlaceholder_Groudon[] = _("GROUDON");
-19: const u8 gText_ExpandedPlaceholder_Brendan[] = _("BRENDAN");
-20: const u8 gText_ExpandedPlaceholder_May[] = _("MAY");
-21: const u8 gText_EggNickname[] = _("EGG");
-22: const u8 gText_Pokemon[] = _("POKéMON");
-23: const u8 gText_ProfBirchMatchCallName[] = _("PROF. BIRCH");
+7: ""
+8: ""
+9: ""
+10: "SAPPHIRUS"
+11: "CARBUNCULUS"
+12: "SMARAGDUS"
+13: "AQUA"
+14: "MAGMA"
+15: "ARTHUR"
+16: "MAGXIMUS"
+17: "KYOGRE"
+18: "GROUDON"
+19: "BERENIUS"
+20: "VERNA"
+21: "OVUM"
+22: "POKéMON"
+23:  "PROF. BETULIUS"
 24:   "LUDUS NOVUS"
 25:   "CONTINUA"
 26:   "OPTIONES"
@@ -1731,28 +1731,28 @@
 1771: "Estne haec hora certa?"
 1772: "CONFIRMA"
 1773: "CANCELLA"
-1774: const u8 gText_MrStoneMatchCallDesc[] = _("DEVON PRAESES");
-1775: const u8 gText_MrStoneMatchCallName[] = _("DOM. SAXIUS");
-1776: const u8 gText_StevenMatchCallDesc[] = _("LAPIDEUS");
-1777: const u8 gText_StevenMatchCallName[] = _("SILEXER");
-1778: const u8 gText_MayBrendanMatchCallDesc[] = _("RAD VICINUS");
-1779: const u8 gText_NormanMatchCallDesc[] = _("CREDIBILIS");
-1780: const u8 gText_MomMatchCallDesc[] = _("LENIS & COMIS");
-1781: const u8 gText_WallyMatchCallDesc[] = _("{PKMN} AMATOR");
-1782: const u8 gText_NormanMatchCallName[] = _("PATER");
-1783: const u8 gText_MomMatchCallName[] = _("MATER");
-1784: const u8 gText_ScottMatchCallDesc[] = _("ELUSIVE EYES");
-1785: const u8 gText_ScottMatchCallName[] = _("SCOTUS");
-1786: const u8 gText_RoxanneMatchCallDesc[] = _("ROCKIN' WHIZ");
-1787: const u8 gText_BrawlyMatchCallDesc[] = _("MAGNUS ICTUS");
-1788: const u8 gText_WattsonMatchCallDesc[] = _("SWELL SHOCK");
-1789: const u8 gText_FlanneryMatchCallDesc[] = _("PASSION BURN");
-1790: const u8 gText_WinonaMatchCallDesc[] = _("COELI DOMITOR");
-1791: const u8 gText_TateLizaMatchCallDesc[] = _("MYSTIC DUO");
-1792: const u8 gText_JuanMatchCallDesc[] = _("DANDY CHARM");
-1793: const u8 gText_EliteFourMatchCallDesc[] = _("QUATUOR ELECTI");
-1794: const u8 gText_ChampionMatchCallDesc[] = _("CAMPIO");
-1795: const u8 gText_ProfBirchMatchCallDesc[] = _("{PKMN} PROF.");
+1774: "DEVON PRAESES"
+1775: "DOM. SAXIUS"
+1776: "QUASI LAPIS"
+1777: "SILEXER"
+1778: "VICINULA"
+1779: "CREDIBILIS"
+1780: "LENIS & COMIS"
+1781: "{PKMN} AMATOR"
+1782: "PATER"
+1783: "MATER"
+1784: "ELABENS"
+1785: "SCOTUS"
+1786: "LAPIDANS"
+1787: "MAGNUS ICTUS"
+1788: "QUASSATIO"
+1789: "ANIMI FERVOR"
+1790: "COELI DOMITOR"
+1791: "MYSTICAE DUO"
+1792: "CULTI LEPOR"
+1793: "QUATUOR ELECTI"
+1794: "CAMPIO"
+1795: "{PKMN} PROF."
 1796: const u8 gText_CommStandbyAwaitingOtherPlayer[] = _("Communication standby…\nAwaiting another player to choose.");
 1797: const u8 gText_BattleWasRefused[] = _("The battle was refused.{PAUSE 60}");
 1798: const u8 gText_RefusedBattle[] = _("Refused the battle.{PAUSE 60}");

@@ -1,5 +1,5 @@
       |=======================================|
-292:   "MAIA: Videamus… POKéMON quae\n"
+292:   "VERNA: Videamus… POKéMON quae\n"
 293:   "in VIA 103 inventa sunt…$"
 296:   "O, salve, {PLAYER}{KUN}!\p"
 297:   "O, video, pater meus te POKéMON unum\n"
@@ -10,7 +10,7 @@
 302:   "TRAHITOREM esse significat, dabo.$"
 305:   "Uou! Quam bonum!\n"
 306:   "{PLAYER}{KUN}, admodum bonus es!$"
-309:   "MAIA: Credo me scire quare pater meus\n"
+309:   "VERNA: Credo me scire quare pater meus\n"
 310:   "nunc oculum in te intendit.\p"
 311:   "Dico, te nuper POKéMON istud\n"
 312:   "accepisse, et te ei iam placere.\p"

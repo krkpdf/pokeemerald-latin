@@ -27,7 +27,7 @@
 384:   "POKéMON rari.\p"
 385:   "Tamen videtur mihi tantum vestigia\n"
 386:   "mea esse…$"
-389:   "MAIA: {PLAYER}{KUN}!\n" 
+389:   "VERNA: {PLAYER}{KUN}!\n" 
 390:   "Huc!\l"
 391:   "Properemus domum!$"
 394:   "BERENIUS: Nunc, ad LAB patris mei\n"
