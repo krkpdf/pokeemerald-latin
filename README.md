@@ -25,7 +25,7 @@ The base English text used for translation is also extracted from the Decompilat
 1. Download this project using `git clone https://github.com/krkpdf/pokeemerald-latin`
 2. Translate the text and submit a pull request with your changes
 3. Extract, translate and manually replace game graphics as needed
-4. In `include/constants/global.h`, set `ABILITY_NAME_LENGTH` to `13` and `ITEM_NAME_LENGTH` to `15`
+4. In `include/constants/global.h`, set `ABILITY_NAME_LENGTH` to `13`, `ITEM_NAME_LENGTH` to `15`,  and `TRAINER_NAME_LENGTH` to `12`. In `src/data/text/trainer_class_names.h` and `include/data.h` set `gTrainerClassNames[][x]` to `15`
 5. Run `./make.sh` to automatically replace text in the Decompilation Project folder and compile (use `--marked` or `--m` to macronize and compile the macronized version as well)
 
 
