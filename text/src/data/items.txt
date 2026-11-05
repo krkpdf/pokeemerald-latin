@@ -49,7 +49,7 @@
 629:   "CONCHA VADI"
 640:   "TESTA RUBRA"
 651:   "TESTA CAERULEA"
-662:   "TESTA FLAVIA"
+662:   "TESTA FLAVA"
 673:   "TESTA VIRIDIS"
 684:  .name = _("????????"),
 695:  .name = _("????????"),
