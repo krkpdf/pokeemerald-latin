@@ -9,7 +9,7 @@
 209:   "fasciculum transportare.\p"
 210:   "Bene, in itinere, possisne in MYODROSIA\n"
 211:   "subsistere?\p"
-212:   "Sperabam te epistulam ad SILEXERUM\n"
+212:   "Sperabam te epistulam ad SILICEM\n"
 213:   "in MYODROSIA transportare.$"
 216:   "DOM. SAXIUS: Nunc, debes scire me\n"
 217:   "PRAEFECTUM magnum esse.\p"

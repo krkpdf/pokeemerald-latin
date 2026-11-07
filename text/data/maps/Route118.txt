@@ -1,5 +1,5 @@
-248:   "SILEXER: Salve, {PLAYER}{KUN}!\p"
-249:   "Ego sum, SILEXER!\n"
+248:   "SILEX: Salve, {PLAYER}{KUN}!\p"
+249:   "Ego sum, SILEX!\n"
 250:   "Conveni in caverna prope MYODROSIAM.\p"
 251:   "Obvenistine species POKéMON multas\n"
 252:   "ex quo te novissime vidi?\p"
